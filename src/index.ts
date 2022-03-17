@@ -5,12 +5,14 @@ import {mapping} from "./mapping";
   let folderPath = process.cwd() + "/assets/"
   let body = ""
   for (let mappingKey in mapping) {
-    let folders = fse.readdirSync(`${folderPath}/${mappingKey}/`)
-    body += `## ${mapping[mappingKey]}\n\n`
-    folders.forEach(name => {
-      body += `![${name.substring(0, name.indexOf("."))}](./assets/${mappingKey}/${name})`
-    })
-    body += `\n\n`
+    for(let subFolder of ["faces_png","faces"]){
+      let folders = fse.readdirSync(`${folderPath}${subFolder}/${mappingKey}/`)
+      body += `## ${mapping[mappingKey]} [${(subFolder == "faces_png" ? "PNG" : "GIF")}]\n\n`
+      folders.forEach(name => {
+        body += `![${name.substring(0, name.indexOf("."))}](./assets/${subFolder}/${mappingKey}/${name})`
+      })
+      body += `\n\n`
+    }
   }
 
   fse.readFile(process.cwd() + "/README_TEMPLATE", 'utf8', (err, data) => {
