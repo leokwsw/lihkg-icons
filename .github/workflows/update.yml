@@ -4,7 +4,7 @@ on:
   push:
 
 jobs:
-  stubgen:
+  update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
@@ -16,7 +16,10 @@ jobs:
       run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
       id: extract_branch
     - name: Auto stub generation
-      run: ts-node src/index.ts
+      run: |
+        npm install -g typescript
+        npm install -g ts-node
+        ts-node src/index.ts
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
