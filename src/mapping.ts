@@ -9,6 +9,7 @@ export let mapping = {
   "catxm": "連貓聖誕版",
   "cowxm": "連牛聖誕版",
   "dogxm": "連狗聖誕版",
+  "rabbitxm": "連兔聖誕版",
   "lihkg": "連登生日版",
   "mousexm": "連鼠聖誕版",
   "pigxm": "連豬聖誕版",

@@ -17,8 +17,7 @@ jobs:
       id: extract_branch
     - name: Auto stub generation
       run: |
-        npm install -g typescript
-        npm install -g ts-node
+        npm install
         ts-node src/index.ts
     - name: Commit & Push changes
       uses: actions-js/push@master
