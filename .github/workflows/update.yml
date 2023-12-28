@@ -1,4 +1,4 @@
-name: Update
+name: Update readme
 
 on:
   push:
@@ -15,7 +15,7 @@ jobs:
       shell: bash
       run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
       id: extract_branch
-    - name: Auto stub generation
+    - name: Update readme
       run: |
         npm install
         npm install -g typescript
@@ -25,5 +25,5 @@ jobs:
       uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        message: Auto stub generation
+        message: Update readme
         branch: ${{ steps.extract_branch.outputs.branch }}
