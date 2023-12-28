@@ -1,5 +1,6 @@
 export let mapping = {
   "rabbit": "連兔",
+  "rabbitxm": "連兔聖誕版",
   "cat": "連貓",
   "cow": "連牛",
   "dog": "連狗",

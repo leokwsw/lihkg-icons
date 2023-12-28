@@ -6,4 +6,7 @@ Collection of icons from [LIHKG (連登)](https://lihkg.com/)
 2. if lihkg have new folder, please add folder name and chinese name in [mapping.ts](src/mapping.ts)
 3. finally run ```ts-node src/index.ts``` and commit it to github.
 
+TODO:
+-[ ] Setup GitHub action to download the newest assets
+
 {body}
