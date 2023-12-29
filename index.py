@@ -91,13 +91,21 @@ def update_readme(data: dict, mapping: dict):
     with open('README_TEMPLATE') as f:
         readme = f.read()
 
-    body = '| Name | Code | View |\n'
-    body += '| --- | --- | --- |\n'
-    body += f'| All | All | [View](./view/all.md) |\n'
+    body = '| Name | Code | Preview | View |\n'
+    body += '| --- | --- | --- | --- |\n'
+    body += f'| (All) | N/A | N/A | [View](./view/all.md) |\n'
     
     for pack, v in data.items():
         pack_name = mapping.get(pack, pack)
-        body += f'| {pack_name} | {pack} | [View](./view/{pack}.md) |\n'
+
+        pack_paths = list(v.get('icons', {}).keys())
+        if pack_paths == []:
+            pack_paths = list(v.get('special', {}).keys())
+
+        preview_path = pack_paths[0]
+        preview_name = os.path.split(preview_path)[-1]
+
+        body += f'| {pack_name} | {pack} | ![{preview_name}]({preview_path}) | [View](./view/{pack}.md) |\n'
 
     readme = readme.replace('{body}', body)
 
@@ -107,10 +115,12 @@ def update_readme(data: dict, mapping: dict):
 def update_view(data: dict, mapping: dict):
     with open('view/all.md', 'w+') as f:
         for pack, v in data.items():
-            body = '| Filename | Emoji | GIF | PNG |\n'
-            body += '| --- | --- | --- | --- |\n'
-
             pack_name = mapping.get(pack, pack)
+
+            body = f'## {pack_name}\n'
+
+            body += '| Filename | Emoji | GIF | PNG |\n'
+            body += '| --- | --- | --- | --- |\n'
 
             for path, emoji in v.get('icons', {}).items():
                 path_png = gif2png(path)

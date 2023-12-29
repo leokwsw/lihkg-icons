@@ -1,3 +1,4 @@
+## 腦魔2
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#lm2` | ![smile](../assets/faces/lm2/smile.gif) | ![smile](../assets/faces_png/lm2/smile.png) |

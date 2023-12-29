@@ -1,3 +1,4 @@
+## 腦魔2新年版
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#lm2lny` | ![smile](../assets/faces/lm2lny/smile.gif) | ![smile](../assets/faces_png/lm2lny/smile.png) |

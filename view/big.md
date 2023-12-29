@@ -1,3 +1,4 @@
+## 普通
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#b` | ![smile](../assets/faces/big/smile.gif) | ![smile](../assets/faces_png/big/smile.png) |

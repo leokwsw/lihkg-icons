@@ -1,3 +1,4 @@
+## husky
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#husky` | ![smile](../assets/faces/husky/smile.gif) | ![smile](../assets/faces_png/husky/smile.png) |

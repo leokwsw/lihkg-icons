@@ -1,3 +1,4 @@
+## RIP
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | flower | `#flower#rip` | ![flower](../assets/faces/rip/flower.gif) | ![flower](../assets/faces_png/rip/flower.png) |
