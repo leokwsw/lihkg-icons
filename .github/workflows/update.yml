@@ -1,6 +1,8 @@
 name: Update readme
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
   push:
 
 jobs:
@@ -17,10 +19,8 @@ jobs:
       id: extract_branch
     - name: Update readme
       run: |
-        npm install
-        npm install -g typescript
-        npm install -g ts-node
-        ts-node src/index.ts
+        pip install -r requirements.txt
+        python index.py
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
