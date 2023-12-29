@@ -1,5 +1,6 @@
-import fse = require("fs-extra")
+import fse = require("fs-extra");
 import {mapping} from "./mapping";
+import {getCurrentTime} from "./time";
 
 (async () => {
   let folderPath = process.cwd() + "/assets/"
@@ -17,7 +18,8 @@ import {mapping} from "./mapping";
 
   fse.readFile(process.cwd() + "/README_TEMPLATE", 'utf8', (err, data) => {
     if (err) return console.error(err)
-    const result = data.replace("{body}", body);
+    let result = data.replace("{body}", body);
+    result = result.replace("{last_update}", getCurrentTime())
     fse.writeFile(process.cwd() + "/README.md", result, "utf8", (err) => {
       if (err) return console.error(err)
     })
