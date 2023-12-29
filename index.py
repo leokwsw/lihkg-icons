@@ -91,7 +91,7 @@ def update_readme(data: dict, mapping: dict):
     with open('README_TEMPLATE') as f:
         readme = f.read()
 
-    body = '| Name | Code | Preview | View |\n'
+    body = '| Code | Name | Preview | View |\n'
     body += '| --- | --- | --- | --- |\n'
     body += f'| (All) | N/A | N/A | [View](./view/all.md) |\n'
     
@@ -105,7 +105,7 @@ def update_readme(data: dict, mapping: dict):
         preview_path = pack_paths[0]
         preview_name = os.path.split(preview_path)[-1]
 
-        body += f'| {pack_name} | {pack} | ![{preview_name}]({preview_path}) | [View](./view/{pack}.md) |\n'
+        body += f'| {pack} | {pack_name} | ![{preview_name}]({preview_path}) | [View](./view/{pack}.md) |\n'
 
     readme = readme.replace('{body}', body)
 
