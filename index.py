@@ -114,10 +114,12 @@ def update_readme(data: dict, mapping: dict):
 
 def update_view(data: dict, mapping: dict):
     with open('view/all.md', 'w+') as f:
+        f.write('## All icons\n')
+
         for pack, v in data.items():
             pack_name = mapping.get(pack, pack)
 
-            body = f'## {pack_name}\n'
+            body = f'## {pack} [{pack_name}]\n'
 
             body += '| Filename | Emoji | GIF | PNG |\n'
             body += '| --- | --- | --- | --- |\n'
@@ -128,6 +130,8 @@ def update_view(data: dict, mapping: dict):
                 fname = os.path.split(path)[-1]
                 name = os.path.splitext(fname)[0]
                 body += f'| {name} | `{emoji}` | ![{name}](../{path}) | ![{name}](../{path_png}) |\n'
+            
+            body += '\n'
 
             with open(f'view/{pack}.md', 'w+') as g:
                 g.write(body)
