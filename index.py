@@ -114,7 +114,7 @@ def update_readme(data: dict, mapping: dict):
 
 def update_view(data: dict, mapping: dict):
     with open('view/all.md', 'w+') as f:
-        f.write('## All icons\n')
+        f.write('# All icons\n')
 
         for pack, v in data.items():
             pack_name = mapping.get(pack, pack)

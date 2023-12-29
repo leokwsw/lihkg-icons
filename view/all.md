@@ -1,4 +1,4 @@
-## All icons
+# All icons
 ## normal [普通]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
