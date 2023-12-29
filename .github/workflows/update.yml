@@ -20,7 +20,7 @@ jobs:
     - name: Update icons
       run: |
         pip install -r requirements.txt
-        python index.py
+        python update.py
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
