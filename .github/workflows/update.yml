@@ -1,0 +1,29 @@
+name: Update readme
+
+on:
+  push:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+          submodules: recursive
+      - name: Extract branch name
+        shell: bash
+        run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
+        id: extract_branch
+      - name: Update readme
+        run: |
+          npm install
+          npm install -g typescript
+          npm install -g ts-node
+          ts-node src/download.ts
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          message: Update readme
+          branch: ${{ steps.extract_branch.outputs.branch }}
