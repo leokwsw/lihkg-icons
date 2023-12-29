@@ -117,7 +117,7 @@ def update_view(data: dict, mapping: dict):
 
                 fname = os.path.split(path)[-1]
                 name = os.path.splitext(fname)[0]
-                body += f'| {name} | `{emoji}` | ![{name}]({path}) | ![{name}]({path_png}) |\n'
+                body += f'| {name} | `{emoji}` | ![{name}](../{path}) | ![{name}](../{path_png}) |\n'
 
             with open(f'view/{pack}.md', 'w+') as g:
                 g.write(body)
