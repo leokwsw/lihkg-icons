@@ -1,4 +1,4 @@
-## husky
+## husky [husky]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#husky` | ![smile](../assets/faces/husky/smile.gif) | ![smile](../assets/faces_png/husky/smile.png) |
@@ -25,3 +25,4 @@
 | fight2 | `#fight2#husky` | ![fight2](../assets/faces/husky/fight2.gif) | ![fight2](../assets/faces_png/husky/fight2.png) |
 | lihkg | `#lihkg#husky` | ![lihkg](../assets/faces/husky/lihkg.gif) | ![lihkg](../assets/faces_png/husky/lihkg.png) |
 | credit | `#credit#husky` | ![credit](../assets/faces/husky/credit.gif) | ![credit](../assets/faces_png/husky/credit.png) |
+

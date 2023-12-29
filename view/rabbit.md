@@ -1,4 +1,4 @@
-## 連兔
+## rabbit [連兔]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#rabbit` | ![smile](../assets/faces/rabbit/smile.gif) | ![smile](../assets/faces_png/rabbit/smile.png) |
@@ -32,3 +32,4 @@
 | yawn | `#yawn#rabbit` | ![yawn](../assets/faces/rabbit/yawn.gif) | ![yawn](../assets/faces_png/rabbit/yawn.png) |
 | fly | `#fly#rabbit` | ![fly](../assets/faces/rabbit/fly.gif) | ![fly](../assets/faces_png/rabbit/fly.png) |
 | lihkg | `#lihkg#rabbit` | ![lihkg](../assets/faces/rabbit/lihkg.gif) | ![lihkg](../assets/faces_png/rabbit/lihkg.png) |
+

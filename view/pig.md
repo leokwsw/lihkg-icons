@@ -1,4 +1,4 @@
-## 連豬
+## pig [連豬]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#pig` | ![smile](../assets/faces/pig/smile.gif) | ![smile](../assets/faces_png/pig/smile.png) |
@@ -44,3 +44,4 @@
 | surviving | `#surviving#pig` | ![surviving](../assets/faces/pig/surviving.gif) | ![surviving](../assets/faces_png/pig/surviving.png) |
 | free | `#free#pig` | ![free](../assets/faces/pig/free.gif) | ![free](../assets/faces_png/pig/free.png) |
 | lihkg | `#lihkg#pig` | ![lihkg](../assets/faces/pig/lihkg.gif) | ![lihkg](../assets/faces_png/pig/lihkg.png) |
+

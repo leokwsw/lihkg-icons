@@ -1,4 +1,4 @@
-## 連鼠
+## mouse [連鼠]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#mouse` | ![smile](../assets/faces/mouse/smile.gif) | ![smile](../assets/faces_png/mouse/smile.png) |
@@ -37,3 +37,4 @@
 | annoyed | `#annoyed#mouse` | ![annoyed](../assets/faces/mouse/annoyed.gif) | ![annoyed](../assets/faces_png/mouse/annoyed.png) |
 | rubbish | `#rubbish#mouse` | ![rubbish](../assets/faces/mouse/rubbish.gif) | ![rubbish](../assets/faces_png/mouse/rubbish.png) |
 | lihkg | `#lihkg#mouse` | ![lihkg](../assets/faces/mouse/lihkg.gif) | ![lihkg](../assets/faces_png/mouse/lihkg.png) |
+

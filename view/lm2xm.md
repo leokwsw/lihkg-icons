@@ -1,4 +1,4 @@
-## 腦魔2聖誕版
+## lm2xm [腦魔2聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#lm2xm` | ![smile](../assets/faces/lm2xm/smile.gif) | ![smile](../assets/faces_png/lm2xm/smile.png) |
@@ -78,3 +78,4 @@
 | yipes | `#[yipes]#lm2xm` | ![yipes](../assets/faces/lm2xm/yipes.gif) | ![yipes](../assets/faces_png/lm2xm/yipes.png) |
 | cry | `#:~(#lm2xm` | ![cry](../assets/faces/lm2xm/cry.gif) | ![cry](../assets/faces_png/lm2xm/cry.png) |
 | dust | `#dust#lm2xm` | ![dust](../assets/faces/lm2xm/dust.gif) | ![dust](../assets/faces_png/lm2xm/dust.png) |
+

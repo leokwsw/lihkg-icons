@@ -1,4 +1,4 @@
-## 肥絲
+## fatcmoji [肥絲]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | fat001 | `#:)#fatc` | ![fat001](../assets/faces/fatcmoji/fat001.gif) | ![fat001](../assets/faces_png/fatcmoji/fat001.png) |
@@ -50,3 +50,4 @@
 | fat047 | `#like#fatc` | ![fat047](../assets/faces/fatcmoji/fat047.gif) | ![fat047](../assets/faces_png/fatcmoji/fat047.png) |
 | fat048 | `#dislike#fatc` | ![fat048](../assets/faces/fatcmoji/fat048.gif) | ![fat048](../assets/faces_png/fatcmoji/fat048.png) |
 | fat049 | `#[joyce]#fatc` | ![fat049](../assets/faces/fatcmoji/fat049.gif) | ![fat049](../assets/faces_png/fatcmoji/fat049.png) |
+

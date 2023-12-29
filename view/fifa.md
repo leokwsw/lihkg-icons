@@ -1,4 +1,4 @@
-## FIFA
+## fifa [FIFA]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#fifa` | ![smile](../assets/faces/fifa/smile.gif) | ![smile](../assets/faces_png/fifa/smile.png) |
@@ -56,3 +56,4 @@
 | usa | `#usa#fifa` | ![usa](../assets/faces/fifa/usa.gif) | ![usa](../assets/faces_png/fifa/usa.png) |
 | uruguay | `#uruguay#fifa` | ![uruguay](../assets/faces/fifa/uruguay.gif) | ![uruguay](../assets/faces_png/fifa/uruguay.png) |
 | wales | `#wales#fifa` | ![wales](../assets/faces/fifa/wales.gif) | ![wales](../assets/faces_png/fifa/wales.png) |
+

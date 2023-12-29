@@ -1,4 +1,4 @@
-## 連鼠聖誕版
+## mousexm [連鼠聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#mousexm` | ![smile](../assets/faces/mousexm/smile.gif) | ![smile](../assets/faces_png/mousexm/smile.png) |
@@ -37,3 +37,4 @@
 | annoyed | `#annoyed#mousexm` | ![annoyed](../assets/faces/mousexm/annoyed.gif) | ![annoyed](../assets/faces_png/mousexm/annoyed.png) |
 | rubbish | `#rubbish#mousexm` | ![rubbish](../assets/faces/mousexm/rubbish.gif) | ![rubbish](../assets/faces_png/mousexm/rubbish.png) |
 | lihkg | `#lihkg#mousexm` | ![lihkg](../assets/faces/mousexm/lihkg.gif) | ![lihkg](../assets/faces_png/mousexm/lihkg.png) |
+

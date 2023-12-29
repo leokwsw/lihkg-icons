@@ -1,4 +1,4 @@
-## 腦魔2
+## lm2 [腦魔2]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#lm2` | ![smile](../assets/faces/lm2/smile.gif) | ![smile](../assets/faces_png/lm2/smile.png) |
@@ -78,3 +78,4 @@
 | yipes | `#[yipes]#lm2` | ![yipes](../assets/faces/lm2/yipes.gif) | ![yipes](../assets/faces_png/lm2/yipes.png) |
 | cry | `#:~(#lm2` | ![cry](../assets/faces/lm2/cry.gif) | ![cry](../assets/faces_png/lm2/cry.png) |
 | dust | `#dust#lm2` | ![dust](../assets/faces/lm2/dust.gif) | ![dust](../assets/faces_png/lm2/dust.png) |
+

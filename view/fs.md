@@ -1,4 +1,4 @@
-## FS
+## fs [FS]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#fs` | ![smile](../assets/faces/fs/smile.gif) | ![smile](../assets/faces_png/fs/smile.png) |
@@ -50,3 +50,4 @@
 | pokemon_2 | `#poke2#fs` | ![pokemon_2](../assets/faces/fs/pokemon_2.gif) | ![pokemon_2](../assets/faces_png/fs/pokemon_2.png) |
 | smile_big | `#:)#b#fs` | ![smile_big](../assets/faces/fs/smile_big.gif) | ![smile_big](../assets/faces_png/fs/smile_big.png) |
 | superman | `#superman#fs` | ![superman](../assets/faces/fs/superman.gif) | ![superman](../assets/faces_png/fs/superman.png) |
+

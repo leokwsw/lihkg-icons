@@ -1,4 +1,4 @@
-## 連牛
+## cow [連牛]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#cow` | ![smile](../assets/faces/cow/smile.gif) | ![smile](../assets/faces_png/cow/smile.png) |
@@ -33,3 +33,4 @@
 | car | `#car#cow` | ![car](../assets/faces/cow/car.gif) | ![car](../assets/faces_png/cow/car.png) |
 | linguistic | `#linguistic#cow` | ![linguistic](../assets/faces/cow/linguistic.gif) | ![linguistic](../assets/faces_png/cow/linguistic.png) |
 | lihkg | `#lihkg#cow` | ![lihkg](../assets/faces/cow/lihkg.gif) | ![lihkg](../assets/faces_png/cow/lihkg.png) |
+

@@ -1,4 +1,4 @@
-## 腦魔Moji
+## lomoji [腦魔Moji]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | 05 | `#:)#lme` | ![05](../assets/faces/lomoji/05.png) | ![05](../assets/faces_png/lomoji/05.png) |
@@ -43,3 +43,4 @@
 | 40 | `#wfc#lme` | ![40](../assets/faces/lomoji/40.png) | ![40](../assets/faces_png/lomoji/40.png) |
 | 41 | `#shock#lme` | ![41](../assets/faces/lomoji/41.png) | ![41](../assets/faces_png/lomoji/41.png) |
 | 42 | `#:-)#lme` | ![42](../assets/faces/lomoji/42.png) | ![42](../assets/faces_png/lomoji/42.png) |
+

@@ -1,4 +1,4 @@
-## 連貓聖誕版
+## catxm [連貓聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#catxm` | ![smile](../assets/faces/catxm/smile.gif) | ![smile](../assets/faces_png/catxm/smile.png) |
@@ -27,3 +27,4 @@
 | stretching | `#stretching#catxm` | ![stretching](../assets/faces/catxm/stretching.gif) | ![stretching](../assets/faces_png/catxm/stretching.png) |
 | lucky | `#lucky#catxm` | ![lucky](../assets/faces/catxm/lucky.gif) | ![lucky](../assets/faces_png/catxm/lucky.png) |
 | lihkg | `#lihkg#catxm` | ![lihkg](../assets/faces/catxm/lihkg.gif) | ![lihkg](../assets/faces_png/catxm/lihkg.png) |
+

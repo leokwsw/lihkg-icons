@@ -1,4 +1,4 @@
-## 連虎聖誕版
+## tigerxm [連虎聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#tigerxm` | ![smile](../assets/faces/tigerxm/smile.gif) | ![smile](../assets/faces_png/tigerxm/smile.png) |
@@ -26,3 +26,4 @@
 | rpg7 | `#rpg7#tigerxm` | ![rpg7](../assets/faces/tigerxm/rpg7.gif) | ![rpg7](../assets/faces_png/tigerxm/rpg7.png) |
 | lihkg | `#lihkg#tigerxm` | ![lihkg](../assets/faces/tigerxm/lihkg.gif) | ![lihkg](../assets/faces_png/tigerxm/lihkg.png) |
 | lihkg2 | `#lihkg2#tigerxm` | ![lihkg2](../assets/faces/tigerxm/lihkg2.gif) | ![lihkg2](../assets/faces_png/tigerxm/lihkg2.png) |
+

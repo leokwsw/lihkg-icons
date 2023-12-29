@@ -1,4 +1,4 @@
-## 連兔聖誕版
+## rabbitxm [連兔聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#rabbitxm` | ![smile](../assets/faces/rabbitxm/smile.gif) | ![smile](../assets/faces_png/rabbitxm/smile.png) |
@@ -32,3 +32,4 @@
 | yawn | `#yawn#rabbitxm` | ![yawn](../assets/faces/rabbitxm/yawn.gif) | ![yawn](../assets/faces_png/rabbitxm/yawn.png) |
 | fly | `#fly#rabbitxm` | ![fly](../assets/faces/rabbitxm/fly.gif) | ![fly](../assets/faces_png/rabbitxm/fly.png) |
 | lihkg | `#lihkg#rabbitxm` | ![lihkg](../assets/faces/rabbitxm/lihkg.gif) | ![lihkg](../assets/faces_png/rabbitxm/lihkg.png) |
+

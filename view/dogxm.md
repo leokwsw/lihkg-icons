@@ -1,4 +1,4 @@
-## 連狗聖誕版
+## dogxm [連狗聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#dogxm` | ![smile](../assets/faces/dogxm/smile.gif) | ![smile](../assets/faces_png/dogxm/smile.png) |
@@ -48,3 +48,4 @@
 | fight2 | `#fight2#dogxm` | ![fight2](../assets/faces/dogxm/fight2.gif) | ![fight2](../assets/faces_png/dogxm/fight2.png) |
 | npc2 | `#npc2#dogxm` | ![npc2](../assets/faces/dogxm/npc2.gif) | ![npc2](../assets/faces_png/dogxm/npc2.png) |
 | lihkg | `#lihkg#dogxm` | ![lihkg](../assets/faces/dogxm/lihkg.gif) | ![lihkg](../assets/faces_png/dogxm/lihkg.png) |
+

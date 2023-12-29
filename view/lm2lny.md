@@ -1,4 +1,4 @@
-## 腦魔2新年版
+## lm2lny [腦魔2新年版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#lm2lny` | ![smile](../assets/faces/lm2lny/smile.gif) | ![smile](../assets/faces_png/lm2lny/smile.png) |
@@ -78,3 +78,4 @@
 | yipes | `#[yipes]#lm2lny` | ![yipes](../assets/faces/lm2lny/yipes.gif) | ![yipes](../assets/faces_png/lm2lny/yipes.png) |
 | cry | `#:~(#lm2lny` | ![cry](../assets/faces/lm2lny/cry.gif) | ![cry](../assets/faces_png/lm2lny/cry.png) |
 | dust | `#dust#lm2lny` | ![dust](../assets/faces/lm2lny/dust.gif) | ![dust](../assets/faces_png/lm2lny/dust.png) |
+

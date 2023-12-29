@@ -1,4 +1,4 @@
-## 連虎
+## tiger [連虎]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#tiger` | ![smile](../assets/faces/tiger/smile.gif) | ![smile](../assets/faces_png/tiger/smile.png) |
@@ -26,3 +26,4 @@
 | rpg7 | `#rpg7#tiger` | ![rpg7](../assets/faces/tiger/rpg7.gif) | ![rpg7](../assets/faces_png/tiger/rpg7.png) |
 | lihkg | `#lihkg#tiger` | ![lihkg](../assets/faces/tiger/lihkg.gif) | ![lihkg](../assets/faces_png/tiger/lihkg.png) |
 | lihkg2 | `#lihkg2#tiger` | ![lihkg2](../assets/faces/tiger/lihkg2.gif) | ![lihkg2](../assets/faces_png/tiger/lihkg2.png) |
+

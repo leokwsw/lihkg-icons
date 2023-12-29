@@ -1,4 +1,4 @@
-## 普通
+## normal [普通]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `:)` | ![smile](../assets/faces/normal/smile.gif) | ![smile](../assets/faces_png/normal/smile.png) |
@@ -49,3 +49,4 @@
 | kill2 | `#kill2#` | ![kill2](../assets/faces/normal/kill2.gif) | ![kill2](../assets/faces_png/normal/kill2.png) |
 | dislike | `#dislike#` | ![dislike](../assets/faces/normal/dislike.gif) | ![dislike](../assets/faces_png/normal/dislike.png) |
 | like | `#like#` | ![like](../assets/faces/normal/like.gif) | ![like](../assets/faces_png/normal/like.png) |
+

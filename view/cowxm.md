@@ -1,4 +1,4 @@
-## 連牛聖誕版
+## cowxm [連牛聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#cowxm` | ![smile](../assets/faces/cowxm/smile.gif) | ![smile](../assets/faces_png/cowxm/smile.png) |
@@ -32,3 +32,4 @@
 | car | `#car#cowxm` | ![car](../assets/faces/cowxm/car.gif) | ![car](../assets/faces_png/cowxm/car.png) |
 | linguistic | `#linguistic#cowxm` | ![linguistic](../assets/faces/cowxm/linguistic.gif) | ![linguistic](../assets/faces_png/cowxm/linguistic.png) |
 | lihkg | `#lihkg#cowxm` | ![lihkg](../assets/faces/cowxm/lihkg.gif) | ![lihkg](../assets/faces_png/cowxm/lihkg.png) |
+

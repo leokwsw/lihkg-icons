@@ -1,4 +1,4 @@
-## 連貓
+## cat [連貓]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#cat` | ![smile](../assets/faces/cat/smile.gif) | ![smile](../assets/faces_png/cat/smile.png) |
@@ -27,3 +27,4 @@
 | stretching | `#stretching#cat` | ![stretching](../assets/faces/cat/stretching.gif) | ![stretching](../assets/faces_png/cat/stretching.png) |
 | lucky | `#lucky#cat` | ![lucky](../assets/faces/cat/lucky.gif) | ![lucky](../assets/faces_png/cat/lucky.png) |
 | lihkg | `#lihkg#cat` | ![lihkg](../assets/faces/cat/lihkg.gif) | ![lihkg](../assets/faces_png/cat/lihkg.png) |
+

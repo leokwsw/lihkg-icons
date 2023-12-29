@@ -1,4 +1,4 @@
-## 連狗
+## dog [連狗]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#dog` | ![smile](../assets/faces/dog/smile.gif) | ![smile](../assets/faces_png/dog/smile.png) |
@@ -49,3 +49,4 @@
 | fight3 | `#fight3#dog` | ![fight3](../assets/faces/dog/fight3.gif) | ![fight3](../assets/faces_png/dog/fight3.png) |
 | npc2 | `#npc2#dog` | ![npc2](../assets/faces/dog/npc2.gif) | ![npc2](../assets/faces_png/dog/npc2.png) |
 | lihkg | `#lihkg#dog` | ![lihkg](../assets/faces/dog/lihkg.gif) | ![lihkg](../assets/faces_png/dog/lihkg.png) |
+

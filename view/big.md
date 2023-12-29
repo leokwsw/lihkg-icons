@@ -1,4 +1,4 @@
-## 普通
+## big [普通]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#b` | ![smile](../assets/faces/big/smile.gif) | ![smile](../assets/faces_png/big/smile.png) |
@@ -53,3 +53,4 @@
 | lomore_bouncer | `#bouncer#lm#b` | ![lomore_bouncer](../assets/faces/big/lomore_bouncer.gif) | ![lomore_bouncer](../assets/faces_png/big/lomore_bouncer.png) |
 | lomore_bye | `#bye#lm#b` | ![lomore_bye](../assets/faces/big/lomore_bye.gif) | ![lomore_bye](../assets/faces_png/big/lomore_bye.png) |
 | lomore_shocking | `#shocking#lm#b` | ![lomore_shocking](../assets/faces/big/lomore_shocking.gif) | ![lomore_shocking](../assets/faces_png/big/lomore_shocking.png) |
+
