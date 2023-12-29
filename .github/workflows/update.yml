@@ -1,4 +1,4 @@
-name: Update readme
+name: Update icons
 
 on:
   schedule:
@@ -17,7 +17,7 @@ jobs:
       shell: bash
       run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
       id: extract_branch
-    - name: Update readme
+    - name: Update icons
       run: |
         pip install -r requirements.txt
         python index.py
@@ -25,5 +25,5 @@ jobs:
       uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        message: Update readme
+        message: Update icons
         branch: ${{ steps.extract_branch.outputs.branch }}
