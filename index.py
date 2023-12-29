@@ -87,27 +87,42 @@ def download_all(data: dict, fmt: str = 'gif'):
             status = download(path, fmt)
             print(path, status)
 
-def update_view(data: dict, mapping: dict):    
-    body = ''
+def update_readme(data: dict, mapping: dict):
+    with open('README_TEMPLATE') as f:
+        readme = f.read()
 
+    body = '| Name | Code | View |\n'
+    body += '| --- | --- | --- |\n'
+    body += f'| All | All | [View](./view/all.md) |\n'
+    
     for pack, v in data.items():
-        for fmt in ('gif', 'png'):
+        pack_name = mapping.get(pack, pack)
+        body += f'| {pack_name} | {pack} | [View](./view/{pack}.md) |\n'
+
+    readme = readme.replace('{body}', body)
+
+    with open('README.md', 'w+') as f:
+        f.write(readme)
+
+def update_view(data: dict, mapping: dict):
+    with open('view/all.md', 'w+') as f:
+        for pack, v in data.items():
+            body = '| Filename | Emoji | GIF | PNG |\n'
+            body += '| --- | --- | --- | --- |\n'
+
             pack_name = mapping.get(pack, pack)
-            body += f'## {pack_name} [{fmt.upper()}]'
-            body += '\n\n'
 
             for path, emoji in v.get('icons', {}).items():
-                if fmt == 'png':
-                    path = gif2png(path)
-                    
+                path_png = gif2png(path)
+
                 fname = os.path.split(path)[-1]
                 name = os.path.splitext(fname)[0]
-                body += f'![{name}](./{path})'
+                body += f'| {name} | `{emoji}` | ![{name}]({path}) | ![{name}]({path_png}) |\n'
 
-            body += '\n\n'
-
-    with open('view.md', 'w+') as f:
-        f.write(body)
+            with open(f'view/{pack}.md', 'w+') as g:
+                g.write(body)
+            
+            f.write(body)
 
 def main():
     main_js_url= get_main_js_url()
@@ -122,6 +137,7 @@ def main():
     download_all(data, fmt='gif')
     download_all(data, fmt='png')
 
+    update_readme(data, mapping)
     update_view(data, mapping)
 
 if __name__ == '__main__':
