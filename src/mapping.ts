@@ -14,6 +14,7 @@ export let mapping = {
   "mousexm": "連鼠聖誕版",
   "pigxm": "連豬聖誕版",
   "tigerxm": "連虎聖誕版",
+  "dragon": "連龍",
   "rip": "RIP",
   "big": "普通",
   "cny": "農曆新年版",
