@@ -7,6 +7,7 @@ export let mapping = {
   "mouse": "連鼠",
   "pig": "連豬",
   "tiger": "連虎",
+  "dragon": "連龍",
   "catxm": "連貓聖誕版",
   "cowxm": "連牛聖誕版",
   "dogxm": "連狗聖誕版",
@@ -14,7 +15,6 @@ export let mapping = {
   "mousexm": "連鼠聖誕版",
   "pigxm": "連豬聖誕版",
   "tigerxm": "連虎聖誕版",
-  "dragon": "連龍",
   "rip": "RIP",
   "big": "普通",
   "cny": "農曆新年版",
@@ -30,5 +30,5 @@ export let mapping = {
   "mf": "中秋節版",
   "lomoji": "腦魔Moji",
   "normal": "普通",
-  "xm": "聖誕版",
+  "xm": "聖誕版"
 }

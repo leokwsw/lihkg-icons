@@ -2,10 +2,4 @@
 
 Collection of icons from [LIHKG (連登)](https://lihkg.com/)
 
-1. download new assets, copy /assets/faces content to project assets folder
-2. if lihkg have new folder, please add folder name and chinese name in [mapping.ts](src/mapping.ts)
-3. finally run ```ts-node src/index.ts``` and commit it to github.
-
 {body}
-
-{last_update}
