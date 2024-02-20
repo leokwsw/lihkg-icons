@@ -1253,16 +1253,6 @@
         ["#:~(#lm2", "assets/faces/lm2/cry.gif", "assets/faces_png/lm2/cry.png"],
         ["#dust#lm2", "assets/faces/lm2/dust.gif", "assets/faces_png/lm2/dust.png"]
       ],
-      "show_on": {
-        "start_time": 1704038399000,
-        "end_time": 1707408000000
-      },
-      "show_on_2": [
-        {
-          "start_time": 1704038399000,
-          "end_time": 1707408000000
-        }
-      ],
       "sort": 3
     },
     {
