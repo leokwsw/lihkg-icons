@@ -10,7 +10,8 @@
         ["#cat#rip", "assets/faces/rip/cat.gif", "assets/faces_png/rip/cat.png"],
         ["#cow#rip", "assets/faces/rip/cow.gif", "assets/faces_png/rip/cow.png"],
         ["#tiger#rip", "assets/faces/rip/tiger.gif", "assets/faces_png/rip/tiger.png"],
-        ["#rabbit#rip", "assets/faces/rip/rabbit.gif", "assets/faces_png/rip/rabbit.png"]
+        ["#rabbit#rip", "assets/faces/rip/rabbit.gif", "assets/faces_png/rip/rabbit.png"],
+        ["#dragon#rip", "assets/faces/rip/dragon.gif", "assets/faces_png/rip/dragon.png"]
       ],
       "show_on": {
         "start_time": 1,
@@ -52,7 +53,9 @@
         ["#tiger3#hb", "assets/faces/lihkg/tiger3_hb.gif", "assets/faces_png/lihkg/tiger3_hb.png"],
         ["#rabbit#hb", "assets/faces/lihkg/rabbit_hb.gif", "assets/faces_png/lihkg/rabbit_hb.png"],
         ["#rabbit2#hb", "assets/faces/lihkg/rabbit2_hb.gif", "assets/faces_png/lihkg/rabbit2_hb.png"],
-        ["#rabbit3#hb", "assets/faces/lihkg/rabbit3_hb.gif", "assets/faces_png/lihkg/rabbit3_hb.png"]
+        ["#rabbit3#hb", "assets/faces/lihkg/rabbit3_hb.gif", "assets/faces_png/lihkg/rabbit3_hb.png"],
+        ["#dragon#hb", "assets/faces/lihkg/dragon_hb.gif", "assets/faces_png/lihkg/dragon_hb.png"],
+        ["#dragon2#hb", "assets/faces/lihkg/dragon_hb2.gif", "assets/faces_png/lihkg/dragon_hb2.png"]
       ],
       "show_on": {
         "start_time": 1,
@@ -964,6 +967,7 @@
         ["#lick#dragon", "assets/faces/dragon/lick.gif", "assets/faces_png/dragon/lick.png"],
         ["#lick2#dragon", "assets/faces/dragon/lick2.gif", "assets/faces_png/dragon/lick2.png"],
         ["#gj#dragon", "assets/faces/dragon/gj.gif", "assets/faces_png/dragon/gj.png"],
+        ["#disappear#dragon", "assets/faces/dragon/disappear.gif", "assets/faces_png/dragon/disappear.png"],
         ["#guitar#dragon", "assets/faces/dragon/guitar.gif", "assets/faces_png/dragon/guitar.png"],
         ["#bye#dragon", "assets/faces/dragon/bye.gif", "assets/faces_png/dragon/bye.png"],
         ["#eat#dragon", "assets/faces/dragon/eat.gif", "assets/faces_png/dragon/eat.png"],
@@ -972,6 +976,7 @@
         ["#think#dragon", "assets/faces/dragon/think.gif", "assets/faces_png/dragon/think.png"],
         ["#wtf#dragon", "assets/faces/dragon/wtf.gif", "assets/faces_png/dragon/wtf.png"],
         ["#phone#dragon", "assets/faces/dragon/phone.gif", "assets/faces_png/dragon/phone.png"],
+        ["#ngg#dragon", "assets/faces/dragon/ngg.gif", "assets/faces_png/dragon/ngg.png"],
         ["#mindblown#dragon", "assets/faces/dragon/mindblown.gif", "assets/faces_png/dragon/mindblown.png"],
         ["#wheelchair#dragon", "assets/faces/dragon/wheelchair.gif", "assets/faces_png/dragon/wheelchair.png"],
         ["#:-[#dragon", "assets/faces/dragon/angry.gif", "assets/faces_png/dragon/angry.png"],
@@ -1030,6 +1035,7 @@
         ["#sigh#mouse", "assets/faces/mouse/sigh.gif", "assets/faces_png/mouse/sigh.png"],
         ["#annoyed#mouse", "assets/faces/mouse/annoyed.gif", "assets/faces_png/mouse/annoyed.png"],
         ["#rubbish#mouse", "assets/faces/mouse/rubbish.gif", "assets/faces_png/mouse/rubbish.png"],
+        ["#wind#mouse", "assets/faces/mouse/wind.gif", "assets/faces_png/mouse/wind.png"],
         ["#lihkg#mouse", "assets/faces/mouse/lihkg.gif", "assets/faces_png/mouse/lihkg.png"]
       ],
       "sort": 8
