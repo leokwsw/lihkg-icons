@@ -44,7 +44,7 @@
 | dragon_hb | `#dragon#hb` | ![dragon_hb](../assets/faces/lihkg/dragon_hb.gif) | ![dragon_hb](../assets/faces_png/lihkg/dragon_hb.png) |
 | dragon_hb2 | `#dragon2#hb` | ![dragon_hb2](../assets/faces/lihkg/dragon_hb2.gif) | ![dragon_hb2](../assets/faces_png/lihkg/dragon_hb2.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../assets/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../assets/faces_png/lihkg/rabbit_hb_connect.png) |
-| dragon_hb_connect | `#cow2#hb #rabbit2#hb` | ![dragon_hb_connect](../assets/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../assets/faces_png/lihkg/dragon_hb_connect.png) |
+| dragon_hb_connect | `#dragon#hb #mouse2#hb` | ![dragon_hb_connect](../assets/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../assets/faces_png/lihkg/dragon_hb_connect.png) |
 
 ## xm [聖誕版]
 | Filename | Emoji | GIF | PNG |
