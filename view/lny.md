@@ -1,4 +1,10 @@
 ## lny [農曆新年版]
+
+### Show On
+From 2024-12-31T23:59:59+08:00
+
+To 2025-02-03T00:00:00+08:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#lny` | ![smile](../assets/faces/lny/smile.gif) | ![smile](../assets/faces_png/lny/smile.png) |

@@ -1,4 +1,10 @@
 ## husky [husky]
+
+### Show On
+From 1970-01-01T08:00:00+08:00
+
+To 1970-01-01T08:00:00+08:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#husky` | ![smile](../assets/faces/husky/smile.gif) | ![smile](../assets/faces_png/husky/smile.png) |

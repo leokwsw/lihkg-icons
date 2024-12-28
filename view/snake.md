@@ -1,4 +1,10 @@
 ## snake [snake]
+
+### Show On
+From 2024-12-31T23:59:59+08:00
+
+To 2030-12-31T23:59:59+08:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#snake` | ![smile](../assets/faces/snake/smile.gif) | ![smile](../assets/faces_png/snake/smile.png) |

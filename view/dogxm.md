@@ -1,4 +1,10 @@
 ## dogxm [連狗聖誕版]
+
+### Show On
+From 2024-12-16T00:00:00+08:00
+
+To 2024-12-31T23:59:59+08:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#dogxm` | ![smile](../assets/faces/dogxm/smile.gif) | ![smile](../assets/faces_png/dogxm/smile.png) |

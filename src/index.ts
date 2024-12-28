@@ -5,6 +5,9 @@ import jsdom = require("jsdom");
 import {DOMWindow} from "jsdom";
 import r from "request";
 import {mapping} from "./mapping";
+import * as moment from "moment";
+import 'moment/locale/zh-hk';
+import {importLog} from "./saveLog";
 
 // @ts-ignore
 const {JSDOM} = jsdom
@@ -55,13 +58,13 @@ function searchBracket(text: string): number {
 }
 
 (async _ => {
-
+  importLog("index")
   const jar = rp.jar()
 
   let versionRes = await rp("https://itunes.apple.com/lookup?bundleId=com.lihkg.forum-ios")
   let version = JSON.parse(versionRes)["results"][0]["version"]
 
-  console.log("iOS version : ", version)
+  console.log("iOS version : " + version)
 
   let res = await rp({
     url: "https://lihkg.com/api_v2/system/property",
@@ -71,9 +74,15 @@ function searchBracket(text: string): number {
     jar: jar
   })
 
+
+  console.log("res")
+  console.log(res)
+
   let assetUrl = JSON.parse(res)["response"]["asset"]["patch"][0]["url"]
   let fileName: string = assetUrl.split("/")[assetUrl.split("/").length - 1]
+  console.log("assetUrl : " + assetUrl)
 
+  fs.writeFileSync(`property/${version}-${fileName.replace(".zip", "")}-${new Date().getTime()}.json`, JSON.stringify(JSON.parse(res), null, 2))
   rp({
     method: "get",
     url: assetUrl,
@@ -186,6 +195,30 @@ function searchBracket(text: string): number {
 
         let viewContent = ""
         viewContent += `## ${cat} [${mapping[cat] ? mapping[cat] : cat}]\n`
+
+        let showOn = packDict["show_on_2"]
+
+        if (showOn) {
+          let showOnArray: any[] = showOn
+          viewContent += `\n`
+          viewContent += `### Show On\n`
+          for (const showOnObj of showOnArray) {
+            if (Object.keys(showOnObj).includes("keywords")) {
+              viewContent += `Keywords : ${(showOnObj["keywords"] as string[]).join(", ")}\n`
+            } else if (Object.keys(showOnObj).includes("start_time") && Object.keys(showOnObj).includes("end_time")) {
+              viewContent += `From ${moment(showOnObj["start_time"]).format()}\n\n`
+              viewContent += `To ${moment(showOnObj["end_time"]).format()}\n`
+            } else if (Object.keys(showOnObj).includes("user_ids")) {
+              viewContent += `User ID: ${(showOnObj["user_ids"] as string[]).join(", ")}\n`
+            } else {
+              console.log("cat" + cat)
+              console.log("showOnObj")
+              console.log(showOnObj)
+            }
+          }
+          viewContent += `\n`
+        }
+
         viewContent += `| Filename | Emoji | GIF | PNG |\n`
         viewContent += `| --- | --- | --- | --- |\n`
 
@@ -212,8 +245,8 @@ function searchBracket(text: string): number {
       fs.writeFileSync("./README.md", result, "utf8")
       fs.writeFileSync(`./view/all.md`, allContent)
 
-      fs.rmdirSync(folderName, {recursive: true})
-      fs.rm(fileName)
+      // fs.rmdirSync(folderName, {recursive: true})
+      // fs.rm(fileName)
     }
   })
 })()

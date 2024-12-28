@@ -1,4 +1,10 @@
 ## mf [中秋節版]
+
+### Show On
+From 2022-09-06T00:00:00+08:00
+
+To 2022-09-13T00:00:00+08:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#mf` | ![smile](../assets/faces/mf/smile.png) | ![smile](../assets/faces_png/mf/smile.png) |

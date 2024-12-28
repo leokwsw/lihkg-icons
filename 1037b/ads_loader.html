@@ -1,0 +1,129 @@
+<!DOCTYPE HTML> 
+<html lang="en-us">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8"> 
+<meta name="viewport" content="user-scalable=no,width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
+<title>LIHKG</title> 
+<style type="text/css" media="screen">
+body {
+    margin: 0;
+    padding: 0;
+}
+.li-ads {
+    width: 100%;
+}
+.li-ads iframe {
+    position: absolute;
+    border: none;
+    top: 0; right: 0;
+    bottom: 0; left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<!-- https://support.google.com/dfp_premium/answer/4578089?hl=en -->
+
+<script async src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+    results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+
+function isWKWebView() {
+    var a = /constructor/i.test(window.HTMLElement);
+    return !window.indexedDB && a || !window.statusbar.visible ? !1 : !0;
+}
+
+function callNative(action, param) {
+    var query = '';
+    if (param) {
+        for (key in param) {
+            query += ((query.length > 0) ? '&' : '') + (encodeURIComponent(key) + '=' + encodeURIComponent(param[key]));
+        }
+    }
+    window.location = 'lihkg://' + action + (query ? '?' + query : '');
+}
+
+var googletag = googletag || { cmd: [] };
+var timeoutTimer;
+var isTimeout;
+var se;
+
+googletag.cmd.push(function() {
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().addEventListener("slotRenderEnded", function(event) {
+        if (isTimeout) {
+            return;
+        }
+        clearTimeout(timeoutTimer);
+
+        if (!event.isEmpty) {
+            var param = {'success': '1'};
+            try {
+                var slotElement = document.getElementById(event.slot.getSlotElementId());
+                var rect = slotElement.getElementsByTagName('iframe')[0].getBoundingClientRect();
+                param['width'] = rect.width.toString();
+                param['height'] = rect.height.toString();
+            } catch (e) {
+            }
+            callNative('slotRenderEnded', param);
+        } else {
+            callNative('slotRenderEnded', {'success': '0'});
+        }
+    });
+    googletag.enableServices();
+});
+
+function displayAds(info) {
+    info = info || {};
+
+    var slotName = 'ads' + +new Date();
+    var slotDiv = document.createElement('div');
+    slotDiv.id = slotName; // Id must be the same as slotName
+    slotDiv.className = "li-ads";
+    document.body.appendChild(slotDiv);
+
+    //Timeout
+    isTimeout = false;
+    clearTimeout(timeoutTimer);
+    timeoutTimer = setTimeout(function() {
+        isTimeout = true;
+            callNative('slotRenderEnded', {'success': '0', '_err': 'timeout'});
+    }, 5 * 1000);
+
+    googletag.cmd.push(function() {
+        var ad_unit = getParameterByName("ad_unit") || '/244621734/ios-full-screen-priority-ads';
+        var slot = googletag.defineSlot(ad_unit, ['fluid'], slotName);
+
+        //targeting
+        var targeting = info['targeting'] || {};
+        if (!targeting['platform']) {
+            targeting['platform'] = 'ios';
+        }
+        for (var key in targeting) {
+            slot = slot.setTargeting(key, [targeting[key]]);
+        }
+
+        slot = slot.addService(googletag.pubads())
+
+        googletag.display(slotName);
+        googletag.pubads().refresh([slot]);
+    });
+}
+
+window.onload = function() {
+    callNative('documentFinishLoad', {'callback': 'displayAds'});
+};
+</script>
+</head>
+<body>
+</body>
+</html>

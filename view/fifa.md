@@ -1,4 +1,10 @@
 ## fifa [FIFA]
+
+### Show On
+From 2022-11-18T00:00:00+08:00
+
+To 2022-12-20T00:00:00+08:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#fifa` | ![smile](../assets/faces/fifa/smile.gif) | ![smile](../assets/faces_png/fifa/smile.png) |

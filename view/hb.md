@@ -1,4 +1,8 @@
 ## hb [hb]
+
+### Show On
+Keywords : 生日快樂, 生日, Happy bday, Happy Birthday, 🎂
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile_hb | `#:)#hb` | ![smile_hb](../assets/faces/lihkg/smile_hb.gif) | ![smile_hb](../assets/faces_png/lihkg/smile_hb.png) |

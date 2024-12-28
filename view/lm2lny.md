@@ -1,4 +1,10 @@
 ## lm2lny [腦魔2新年版]
+
+### Show On
+From 2024-12-31T23:59:59+08:00
+
+To 2025-02-03T00:00:00+08:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#lm2lny` | ![smile](../assets/faces/lm2lny/smile.gif) | ![smile](../assets/faces_png/lm2lny/smile.png) |

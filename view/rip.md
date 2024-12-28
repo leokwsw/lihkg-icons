@@ -1,4 +1,8 @@
 ## rip [RIP]
+
+### Show On
+Keywords : RIP, 悼念, 哀悼, R.I.P
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | flower | `#flower#rip` | ![flower](../assets/faces/rip/flower.gif) | ![flower](../assets/faces_png/rip/flower.png) |
