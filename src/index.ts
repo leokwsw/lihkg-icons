@@ -208,8 +208,8 @@ function searchBracket(text: string): number {
             if (Object.keys(showOnObj).includes("keywords")) {
               viewContent += `Keywords : ${(showOnObj["keywords"] as string[]).join(", ")}\n`
             } else if (Object.keys(showOnObj).includes("start_time") && Object.keys(showOnObj).includes("end_time")) {
-              viewContent += `From ${moment(showOnObj["start_time"]).format()}\n\n`
-              viewContent += `To ${moment(showOnObj["end_time"]).format()}\n`
+              viewContent += `From ${moment(showOnObj["start_time"]).tz("Asia/HongKong").format()}\n\n`
+              viewContent += `To ${moment(showOnObj["end_time"]).tz("Asia/HongKong").format()}\n`
             } else if (Object.keys(showOnObj).includes("user_ids")) {
               viewContent += `User ID: ${(showOnObj["user_ids"] as string[]).join(", ")}\n`
             } else {
