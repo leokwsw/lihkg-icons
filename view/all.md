@@ -1,17 +1,4 @@
 # All icons
-## rip [RIP]
-| Filename | Emoji | GIF | PNG |
-| --- | --- | --- | --- |
-| flower | `#flower#rip` | ![flower](../assets/faces/rip/flower.gif) | ![flower](../assets/faces_png/rip/flower.png) |
-| dog | `#dog#rip` | ![dog](../assets/faces/rip/dog.gif) | ![dog](../assets/faces_png/rip/dog.png) |
-| pig | `#pig#rip` | ![pig](../assets/faces/rip/pig.gif) | ![pig](../assets/faces_png/rip/pig.png) |
-| mouse | `#mouse#rip` | ![mouse](../assets/faces/rip/mouse.gif) | ![mouse](../assets/faces_png/rip/mouse.png) |
-| cat | `#cat#rip` | ![cat](../assets/faces/rip/cat.gif) | ![cat](../assets/faces_png/rip/cat.png) |
-| cow | `#cow#rip` | ![cow](../assets/faces/rip/cow.gif) | ![cow](../assets/faces_png/rip/cow.png) |
-| tiger | `#tiger#rip` | ![tiger](../assets/faces/rip/tiger.gif) | ![tiger](../assets/faces_png/rip/tiger.png) |
-| rabbit | `#rabbit#rip` | ![rabbit](../assets/faces/rip/rabbit.gif) | ![rabbit](../assets/faces_png/rip/rabbit.png) |
-| dragon | `#dragon#rip` | ![dragon](../assets/faces/rip/dragon.gif) | ![dragon](../assets/faces_png/rip/dragon.png) |
-
 ## hb [hb]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
@@ -45,6 +32,19 @@
 | dragon_hb2 | `#dragon2#hb` | ![dragon_hb2](../assets/faces/lihkg/dragon_hb2.gif) | ![dragon_hb2](../assets/faces_png/lihkg/dragon_hb2.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../assets/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../assets/faces_png/lihkg/rabbit_hb_connect.png) |
 | dragon_hb_connect | `#dragon#hb #mouse2#hb` | ![dragon_hb_connect](../assets/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../assets/faces_png/lihkg/dragon_hb_connect.png) |
+
+## rip [RIP]
+| Filename | Emoji | GIF | PNG |
+| --- | --- | --- | --- |
+| flower | `#flower#rip` | ![flower](../assets/faces/rip/flower.gif) | ![flower](../assets/faces_png/rip/flower.png) |
+| dog | `#dog#rip` | ![dog](../assets/faces/rip/dog.gif) | ![dog](../assets/faces_png/rip/dog.png) |
+| pig | `#pig#rip` | ![pig](../assets/faces/rip/pig.gif) | ![pig](../assets/faces_png/rip/pig.png) |
+| mouse | `#mouse#rip` | ![mouse](../assets/faces/rip/mouse.gif) | ![mouse](../assets/faces_png/rip/mouse.png) |
+| cat | `#cat#rip` | ![cat](../assets/faces/rip/cat.gif) | ![cat](../assets/faces_png/rip/cat.png) |
+| cow | `#cow#rip` | ![cow](../assets/faces/rip/cow.gif) | ![cow](../assets/faces_png/rip/cow.png) |
+| tiger | `#tiger#rip` | ![tiger](../assets/faces/rip/tiger.gif) | ![tiger](../assets/faces_png/rip/tiger.png) |
+| rabbit | `#rabbit#rip` | ![rabbit](../assets/faces/rip/rabbit.gif) | ![rabbit](../assets/faces_png/rip/rabbit.png) |
+| dragon | `#dragon#rip` | ![dragon](../assets/faces/rip/dragon.gif) | ![dragon](../assets/faces_png/rip/dragon.png) |
 
 ## xm [聖誕版]
 | Filename | Emoji | GIF | PNG |
@@ -109,49 +109,48 @@
 | clown_combo | `#adore#xm #:o)_2#xm` | ![clown_combo](../assets/faces/xm/clown_combo.gif) | ![clown_combo](../assets/faces_png/xm/clown_combo.png) |
 | angry_combo | `#:-[#xm #?_?#xm` | ![angry_combo](../assets/faces/xm/angry_combo.gif) | ![angry_combo](../assets/faces_png/xm/angry_combo.png) |
 
-## rabbitxm [連兔聖誕版]
+## dragonxm [dragonxm]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
-| smile | `#:)#rabbitxm` | ![smile](../assets/faces/rabbitxm/smile.gif) | ![smile](../assets/faces_png/rabbitxm/smile.png) |
-| smile2 | `#smile2#rabbitxm` | ![smile2](../assets/faces/rabbitxm/smile2.gif) | ![smile2](../assets/faces_png/rabbitxm/smile2.png) |
-| happy | `#happy#rabbitxm` | ![happy](../assets/faces/rabbitxm/happy.gif) | ![happy](../assets/faces_png/rabbitxm/happy.png) |
-| haha | `#haha#rabbitxm` | ![haha](../assets/faces/rabbitxm/haha.gif) | ![haha](../assets/faces_png/rabbitxm/haha.png) |
-| clap | `#clap#rabbitxm` | ![clap](../assets/faces/rabbitxm/clap.gif) | ![clap](../assets/faces_png/rabbitxm/clap.png) |
-| agree | `#agree#rabbitxm` | ![agree](../assets/faces/rabbitxm/agree.gif) | ![agree](../assets/faces_png/rabbitxm/agree.png) |
-| music | `#music#rabbitxm` | ![music](../assets/faces/rabbitxm/music.gif) | ![music](../assets/faces_png/rabbitxm/music.png) |
-| bye | `#bye#rabbitxm` | ![bye](../assets/faces/rabbitxm/bye.gif) | ![bye](../assets/faces_png/rabbitxm/bye.png) |
-| blink | `#blink#rabbitxm` | ![blink](../assets/faces/rabbitxm/blink.gif) | ![blink](../assets/faces_png/rabbitxm/blink.png) |
-| hear | `#hear#rabbitxm` | ![hear](../assets/faces/rabbitxm/hear.gif) | ![hear](../assets/faces_png/rabbitxm/hear.png) |
-| confuse | `#confuse#rabbitxm` | ![confuse](../assets/faces/rabbitxm/confuse.gif) | ![confuse](../assets/faces_png/rabbitxm/confuse.png) |
-| wtf | `#wtf#rabbitxm` | ![wtf](../assets/faces/rabbitxm/wtf.gif) | ![wtf](../assets/faces_png/rabbitxm/wtf.png) |
-| angry | `#:-[#rabbitxm` | ![angry](../assets/faces/rabbitxm/angry.gif) | ![angry](../assets/faces_png/rabbitxm/angry.png) |
-| axe | `#axe#rabbitxm` | ![axe](../assets/faces/rabbitxm/axe.gif) | ![axe](../assets/faces_png/rabbitxm/axe.png) |
-| banghead | `#banghead#rabbitxm` | ![banghead](../assets/faces/rabbitxm/banghead.gif) | ![banghead](../assets/faces_png/rabbitxm/banghead.png) |
-| orange | `#orange#rabbitxm` | ![orange](../assets/faces/rabbitxm/orange.gif) | ![orange](../assets/faces_png/rabbitxm/orange.png) |
-| emo | `#emo#rabbitxm` | ![emo](../assets/faces/rabbitxm/emo.gif) | ![emo](../assets/faces_png/rabbitxm/emo.png) |
-| dance | `#dance#rabbitxm` | ![dance](../assets/faces/rabbitxm/dance.gif) | ![dance](../assets/faces_png/rabbitxm/dance.png) |
-| sweat | `#sweat#rabbitxm` | ![sweat](../assets/faces/rabbitxm/sweat.gif) | ![sweat](../assets/faces_png/rabbitxm/sweat.png) |
-| trauma | `#trauma#rabbitxm` | ![trauma](../assets/faces/rabbitxm/trauma.gif) | ![trauma](../assets/faces_png/rabbitxm/trauma.png) |
-| sad | `#sad#rabbitxm` | ![sad](../assets/faces/rabbitxm/sad.gif) | ![sad](../assets/faces_png/rabbitxm/sad.png) |
-| creepy | `#creepy#rabbitxm` | ![creepy](../assets/faces/rabbitxm/creepy.gif) | ![creepy](../assets/faces_png/rabbitxm/creepy.png) |
-| scary | `#scary#rabbitxm` | ![scary](../assets/faces/rabbitxm/scary.gif) | ![scary](../assets/faces_png/rabbitxm/scary.png) |
-| drink | `#drink#rabbitxm` | ![drink](../assets/faces/rabbitxm/drink.gif) | ![drink](../assets/faces_png/rabbitxm/drink.png) |
-| eat | `#eat#rabbitxm` | ![eat](../assets/faces/rabbitxm/eat.gif) | ![eat](../assets/faces_png/rabbitxm/eat.png) |
-| saw | `#saw#rabbitxm` | ![saw](../assets/faces/rabbitxm/saw.gif) | ![saw](../assets/faces_png/rabbitxm/saw.png) |
-| stun | `#stun#rabbitxm` | ![stun](../assets/faces/rabbitxm/stun.gif) | ![stun](../assets/faces_png/rabbitxm/stun.png) |
-| tape | `#tape#rabbitxm` | ![tape](../assets/faces/rabbitxm/tape.gif) | ![tape](../assets/faces_png/rabbitxm/tape.png) |
-| yawn | `#yawn#rabbitxm` | ![yawn](../assets/faces/rabbitxm/yawn.gif) | ![yawn](../assets/faces_png/rabbitxm/yawn.png) |
-| fly | `#fly#rabbitxm` | ![fly](../assets/faces/rabbitxm/fly.gif) | ![fly](../assets/faces_png/rabbitxm/fly.png) |
-| lihkg | `#lihkg#rabbitxm` | ![lihkg](../assets/faces/rabbitxm/lihkg.gif) | ![lihkg](../assets/faces_png/rabbitxm/lihkg.png) |
-| clap_special | `#clap#rabbitxm #creepy#rabbitxm` | ![clap_special](../assets/faces/rabbitxm/clap_special.gif) | ![clap_special](../assets/faces_png/rabbitxm/clap_special.png) |
-| eat_connect | `#eat#rabbitxm #eating#lm2xm` | ![eat_connect](../assets/faces/rabbitxm/eat_connect.gif) | ![eat_connect](../assets/faces_png/rabbitxm/eat_connect.png) |
-| hammer_connect | `#it3#dogxm #axe#rabbitxm` | ![hammer_connect](../assets/faces/rabbitxm/hammer_connect.gif) | ![hammer_connect](../assets/faces_png/rabbitxm/hammer_connect.png) |
-| lihkg_special | `#saw#rabbitxm #lihkg#rabbitxm` | ![lihkg_special](../assets/faces/rabbitxm/lihkg_special.gif) | ![lihkg_special](../assets/faces_png/rabbitxm/lihkg_special.png) |
-| roast_connect | `#cooking#pigxm #:)#rabbitxm` | ![roast_connect](../assets/faces/rabbitxm/roast_connect.gif) | ![roast_connect](../assets/faces_png/rabbitxm/roast_connect.png) |
-| roast_connect2 | `#:)#rabbitxm #cooking#pigxm` | ![roast_connect2](../assets/faces/rabbitxm/roast_connect2.gif) | ![roast_connect2](../assets/faces_png/rabbitxm/roast_connect2.png) |
-| axe_connect | `#car#cowxm #axe#rabbitxm` | ![axe_connect](../assets/faces/rabbitxm/axe_connect.gif) | ![axe_connect](../assets/faces_png/rabbitxm/axe_connect.png) |
-| roast_connect3 | `#:)#rabbitxm #kill#pigxm` | ![roast_connect3](../assets/faces/rabbitxm/roast_connect3.gif) | ![roast_connect3](../assets/faces_png/rabbitxm/roast_connect3.png) |
-| saw_connect | `#saw#rabbitxm #gun#mousexm` | ![saw_connect](../assets/faces/rabbitxm/saw_connect.gif) | ![saw_connect](../assets/faces_png/rabbitxm/saw_connect.png) |
+| smile | `#:)#dragonxm` | ![smile](../assets/faces/dragonxm/smile.gif) | ![smile](../assets/faces_png/dragonxm/smile.png) |
+| happy | `#:D#dragonxm` | ![happy](../assets/faces/dragonxm/happy.gif) | ![happy](../assets/faces_png/dragonxm/happy.png) |
+| unclehappy | `#unclehappy#dragonxm` | ![unclehappy](../assets/faces/dragonxm/unclehappy.gif) | ![unclehappy](../assets/faces_png/dragonxm/unclehappy.png) |
+| unclehappy2 | `#unclehappy2#dragonxm` | ![unclehappy2](../assets/faces/dragonxm/unclehappy2.gif) | ![unclehappy2](../assets/faces_png/dragonxm/unclehappy2.png) |
+| lick | `#lick#dragonxm` | ![lick](../assets/faces/dragonxm/lick.gif) | ![lick](../assets/faces_png/dragonxm/lick.png) |
+| lick2 | `#lick2#dragonxm` | ![lick2](../assets/faces/dragonxm/lick2.gif) | ![lick2](../assets/faces_png/dragonxm/lick2.png) |
+| gj | `#gj#dragonxm` | ![gj](../assets/faces/dragonxm/gj.gif) | ![gj](../assets/faces_png/dragonxm/gj.png) |
+| disappear | `#disappear#dragonxm` | ![disappear](../assets/faces/dragonxm/disappear.gif) | ![disappear](../assets/faces_png/dragonxm/disappear.png) |
+| guitar | `#guitar#dragonxm` | ![guitar](../assets/faces/dragonxm/guitar.gif) | ![guitar](../assets/faces_png/dragonxm/guitar.png) |
+| bye | `#bye#dragonxm` | ![bye](../assets/faces/dragonxm/bye.gif) | ![bye](../assets/faces_png/dragonxm/bye.png) |
+| eat | `#eat#dragonxm` | ![eat](../assets/faces/dragonxm/eat.gif) | ![eat](../assets/faces_png/dragonxm/eat.png) |
+| ok | `#ok#dragonxm` | ![ok](../assets/faces/dragonxm/ok.gif) | ![ok](../assets/faces_png/dragonxm/ok.png) |
+| drink | `#drink#dragonxm` | ![drink](../assets/faces/dragonxm/drink.gif) | ![drink](../assets/faces_png/dragonxm/drink.png) |
+| think | `#think#dragonxm` | ![think](../assets/faces/dragonxm/think.gif) | ![think](../assets/faces_png/dragonxm/think.png) |
+| wtf | `#wtf#dragonxm` | ![wtf](../assets/faces/dragonxm/wtf.gif) | ![wtf](../assets/faces_png/dragonxm/wtf.png) |
+| phone | `#phone#dragonxm` | ![phone](../assets/faces/dragonxm/phone.gif) | ![phone](../assets/faces_png/dragonxm/phone.png) |
+| ngg | `#ngg#dragonxm` | ![ngg](../assets/faces/dragonxm/ngg.gif) | ![ngg](../assets/faces_png/dragonxm/ngg.png) |
+| mindblown | `#mindblown#dragonxm` | ![mindblown](../assets/faces/dragonxm/mindblown.gif) | ![mindblown](../assets/faces_png/dragonxm/mindblown.png) |
+| wheelchair | `#wheelchair#dragonxm` | ![wheelchair](../assets/faces/dragonxm/wheelchair.gif) | ![wheelchair](../assets/faces_png/dragonxm/wheelchair.png) |
+| angry | `#:-[#dragonxm` | ![angry](../assets/faces/dragonxm/angry.gif) | ![angry](../assets/faces_png/dragonxm/angry.png) |
+| headache | `#headache#dragonxm` | ![headache](../assets/faces/dragonxm/headache.gif) | ![headache](../assets/faces_png/dragonxm/headache.png) |
+| spit | `#spit#dragonxm` | ![spit](../assets/faces/dragonxm/spit.gif) | ![spit](../assets/faces_png/dragonxm/spit.png) |
+| midfinger | `#midfinger#dragonxm` | ![midfinger](../assets/faces/dragonxm/midfinger.gif) | ![midfinger](../assets/faces_png/dragonxm/midfinger.png) |
+| laser | `#laser#dragonxm` | ![laser](../assets/faces/dragonxm/laser.gif) | ![laser](../assets/faces_png/dragonxm/laser.png) |
+| read | `#read#dragonxm` | ![read](../assets/faces/dragonxm/read.gif) | ![read](../assets/faces_png/dragonxm/read.png) |
+| sad | `#sad#dragonxm` | ![sad](../assets/faces/dragonxm/sad.gif) | ![sad](../assets/faces_png/dragonxm/sad.png) |
+| sad2 | `#sad2#dragonxm` | ![sad2](../assets/faces/dragonxm/sad2.gif) | ![sad2](../assets/faces_png/dragonxm/sad2.png) |
+| nope | `#nope#dragonxm` | ![nope](../assets/faces/dragonxm/nope.gif) | ![nope](../assets/faces_png/dragonxm/nope.png) |
+| shock | `#shock#dragonxm` | ![shock](../assets/faces/dragonxm/shock.gif) | ![shock](../assets/faces_png/dragonxm/shock.png) |
+| backpain | `#backpain#dragonxm` | ![backpain](../assets/faces/dragonxm/backpain.gif) | ![backpain](../assets/faces_png/dragonxm/backpain.png) |
+| shiver | `#shiver#dragonxm` | ![shiver](../assets/faces/dragonxm/shiver.gif) | ![shiver](../assets/faces_png/dragonxm/shiver.png) |
+| z | `#z#dragonxm` | ![z](../assets/faces/dragonxm/z.gif) | ![z](../assets/faces_png/dragonxm/z.png) |
+| wind | `#wind#dragonxm` | ![wind](../assets/faces/dragonxm/wind.gif) | ![wind](../assets/faces_png/dragonxm/wind.png) |
+| lihkg | `#lihkg#dragonxm` | ![lihkg](../assets/faces/dragonxm/lihkg.gif) | ![lihkg](../assets/faces_png/dragonxm/lihkg.png) |
+| angry_connect | `#spit#dragonxm #gun#mousexm` | ![angry_connect](../assets/faces/dragonxm/angry_connect.gif) | ![angry_connect](../assets/faces_png/dragonxm/angry_connect.png) |
+| angry_connect2 | `#:-[#dragonxm #tired#mousexm` | ![angry_connect2](../assets/faces/dragonxm/angry_connect2.gif) | ![angry_connect2](../assets/faces_png/dragonxm/angry_connect2.png) |
+| angry_special | `#:-[#dragonxm #midfinger#dragonxm` | ![angry_special](../assets/faces/dragonxm/angry_special.gif) | ![angry_special](../assets/faces_png/dragonxm/angry_special.png) |
+| backpain_connect | `#throw#catxm #backpain#dragonxm` | ![backpain_connect](../assets/faces/dragonxm/backpain_connect.gif) | ![backpain_connect](../assets/faces_png/dragonxm/backpain_connect.png) |
+| wheelchair_connect | `#car#cowxm #wheelchair#dragonxm` | ![wheelchair_connect](../assets/faces/dragonxm/wheelchair_connect.gif) | ![wheelchair_connect](../assets/faces_png/dragonxm/wheelchair_connect.png) |
 
 ## dogxm [連狗聖誕版]
 | Filename | Emoji | GIF | PNG |
@@ -417,6 +416,50 @@
 | lihkg_connect | `#lihkg#tigerxm #drum#pigxm` | ![lihkg_connect](../assets/faces/tigerxm/lihkg_connect.gif) | ![lihkg_connect](../assets/faces_png/tigerxm/lihkg_connect.png) |
 | money_connect | `#money#tigerxm #sorry#cowxm` | ![money_connect](../assets/faces/tigerxm/money_connect.gif) | ![money_connect](../assets/faces_png/tigerxm/money_connect.png) |
 
+## rabbitxm [連兔聖誕版]
+| Filename | Emoji | GIF | PNG |
+| --- | --- | --- | --- |
+| smile | `#:)#rabbitxm` | ![smile](../assets/faces/rabbitxm/smile.gif) | ![smile](../assets/faces_png/rabbitxm/smile.png) |
+| smile2 | `#smile2#rabbitxm` | ![smile2](../assets/faces/rabbitxm/smile2.gif) | ![smile2](../assets/faces_png/rabbitxm/smile2.png) |
+| happy | `#happy#rabbitxm` | ![happy](../assets/faces/rabbitxm/happy.gif) | ![happy](../assets/faces_png/rabbitxm/happy.png) |
+| haha | `#haha#rabbitxm` | ![haha](../assets/faces/rabbitxm/haha.gif) | ![haha](../assets/faces_png/rabbitxm/haha.png) |
+| clap | `#clap#rabbitxm` | ![clap](../assets/faces/rabbitxm/clap.gif) | ![clap](../assets/faces_png/rabbitxm/clap.png) |
+| agree | `#agree#rabbitxm` | ![agree](../assets/faces/rabbitxm/agree.gif) | ![agree](../assets/faces_png/rabbitxm/agree.png) |
+| music | `#music#rabbitxm` | ![music](../assets/faces/rabbitxm/music.gif) | ![music](../assets/faces_png/rabbitxm/music.png) |
+| bye | `#bye#rabbitxm` | ![bye](../assets/faces/rabbitxm/bye.gif) | ![bye](../assets/faces_png/rabbitxm/bye.png) |
+| blink | `#blink#rabbitxm` | ![blink](../assets/faces/rabbitxm/blink.gif) | ![blink](../assets/faces_png/rabbitxm/blink.png) |
+| hear | `#hear#rabbitxm` | ![hear](../assets/faces/rabbitxm/hear.gif) | ![hear](../assets/faces_png/rabbitxm/hear.png) |
+| confuse | `#confuse#rabbitxm` | ![confuse](../assets/faces/rabbitxm/confuse.gif) | ![confuse](../assets/faces_png/rabbitxm/confuse.png) |
+| wtf | `#wtf#rabbitxm` | ![wtf](../assets/faces/rabbitxm/wtf.gif) | ![wtf](../assets/faces_png/rabbitxm/wtf.png) |
+| angry | `#:-[#rabbitxm` | ![angry](../assets/faces/rabbitxm/angry.gif) | ![angry](../assets/faces_png/rabbitxm/angry.png) |
+| axe | `#axe#rabbitxm` | ![axe](../assets/faces/rabbitxm/axe.gif) | ![axe](../assets/faces_png/rabbitxm/axe.png) |
+| banghead | `#banghead#rabbitxm` | ![banghead](../assets/faces/rabbitxm/banghead.gif) | ![banghead](../assets/faces_png/rabbitxm/banghead.png) |
+| orange | `#orange#rabbitxm` | ![orange](../assets/faces/rabbitxm/orange.gif) | ![orange](../assets/faces_png/rabbitxm/orange.png) |
+| emo | `#emo#rabbitxm` | ![emo](../assets/faces/rabbitxm/emo.gif) | ![emo](../assets/faces_png/rabbitxm/emo.png) |
+| dance | `#dance#rabbitxm` | ![dance](../assets/faces/rabbitxm/dance.gif) | ![dance](../assets/faces_png/rabbitxm/dance.png) |
+| sweat | `#sweat#rabbitxm` | ![sweat](../assets/faces/rabbitxm/sweat.gif) | ![sweat](../assets/faces_png/rabbitxm/sweat.png) |
+| trauma | `#trauma#rabbitxm` | ![trauma](../assets/faces/rabbitxm/trauma.gif) | ![trauma](../assets/faces_png/rabbitxm/trauma.png) |
+| sad | `#sad#rabbitxm` | ![sad](../assets/faces/rabbitxm/sad.gif) | ![sad](../assets/faces_png/rabbitxm/sad.png) |
+| creepy | `#creepy#rabbitxm` | ![creepy](../assets/faces/rabbitxm/creepy.gif) | ![creepy](../assets/faces_png/rabbitxm/creepy.png) |
+| scary | `#scary#rabbitxm` | ![scary](../assets/faces/rabbitxm/scary.gif) | ![scary](../assets/faces_png/rabbitxm/scary.png) |
+| drink | `#drink#rabbitxm` | ![drink](../assets/faces/rabbitxm/drink.gif) | ![drink](../assets/faces_png/rabbitxm/drink.png) |
+| eat | `#eat#rabbitxm` | ![eat](../assets/faces/rabbitxm/eat.gif) | ![eat](../assets/faces_png/rabbitxm/eat.png) |
+| saw | `#saw#rabbitxm` | ![saw](../assets/faces/rabbitxm/saw.gif) | ![saw](../assets/faces_png/rabbitxm/saw.png) |
+| stun | `#stun#rabbitxm` | ![stun](../assets/faces/rabbitxm/stun.gif) | ![stun](../assets/faces_png/rabbitxm/stun.png) |
+| tape | `#tape#rabbitxm` | ![tape](../assets/faces/rabbitxm/tape.gif) | ![tape](../assets/faces_png/rabbitxm/tape.png) |
+| yawn | `#yawn#rabbitxm` | ![yawn](../assets/faces/rabbitxm/yawn.gif) | ![yawn](../assets/faces_png/rabbitxm/yawn.png) |
+| fly | `#fly#rabbitxm` | ![fly](../assets/faces/rabbitxm/fly.gif) | ![fly](../assets/faces_png/rabbitxm/fly.png) |
+| lihkg | `#lihkg#rabbitxm` | ![lihkg](../assets/faces/rabbitxm/lihkg.gif) | ![lihkg](../assets/faces_png/rabbitxm/lihkg.png) |
+| clap_special | `#clap#rabbitxm #creepy#rabbitxm` | ![clap_special](../assets/faces/rabbitxm/clap_special.gif) | ![clap_special](../assets/faces_png/rabbitxm/clap_special.png) |
+| eat_connect | `#eat#rabbitxm #eating#lm2xm` | ![eat_connect](../assets/faces/rabbitxm/eat_connect.gif) | ![eat_connect](../assets/faces_png/rabbitxm/eat_connect.png) |
+| hammer_connect | `#it3#dogxm #axe#rabbitxm` | ![hammer_connect](../assets/faces/rabbitxm/hammer_connect.gif) | ![hammer_connect](../assets/faces_png/rabbitxm/hammer_connect.png) |
+| lihkg_special | `#saw#rabbitxm #lihkg#rabbitxm` | ![lihkg_special](../assets/faces/rabbitxm/lihkg_special.gif) | ![lihkg_special](../assets/faces_png/rabbitxm/lihkg_special.png) |
+| roast_connect | `#cooking#pigxm #:)#rabbitxm` | ![roast_connect](../assets/faces/rabbitxm/roast_connect.gif) | ![roast_connect](../assets/faces_png/rabbitxm/roast_connect.png) |
+| roast_connect2 | `#:)#rabbitxm #cooking#pigxm` | ![roast_connect2](../assets/faces/rabbitxm/roast_connect2.gif) | ![roast_connect2](../assets/faces_png/rabbitxm/roast_connect2.png) |
+| axe_connect | `#car#cowxm #axe#rabbitxm` | ![axe_connect](../assets/faces/rabbitxm/axe_connect.gif) | ![axe_connect](../assets/faces_png/rabbitxm/axe_connect.png) |
+| roast_connect3 | `#:)#rabbitxm #kill#pigxm` | ![roast_connect3](../assets/faces/rabbitxm/roast_connect3.gif) | ![roast_connect3](../assets/faces_png/rabbitxm/roast_connect3.png) |
+| saw_connect | `#saw#rabbitxm #gun#mousexm` | ![saw_connect](../assets/faces/rabbitxm/saw_connect.gif) | ![saw_connect](../assets/faces_png/rabbitxm/saw_connect.png) |
+
 ## lm2xm [腦魔2聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
@@ -619,6 +662,7 @@
 | special5 | `#bye#mf #:)#mf` | ![special5](../assets/faces/mf/special5.gif) | ![special5](../assets/faces_png/mf/special5.png) |
 | special6 | `#[photo]#mf #:)#mf` | ![special6](../assets/faces/mf/special6.gif) | ![special6](../assets/faces_png/mf/special6.png) |
 | special7 | `#@_@#mf #:-[#mf` | ![special7](../assets/faces/mf/special7.gif) | ![special7](../assets/faces_png/mf/special7.png) |
+| special8 | `#ng#mf #cn#mf` | ![special8](../assets/faces/mf/special8.gif) | ![special8](../assets/faces_png/mf/special8.png) |
 
 ## normal [普通]
 | Filename | Emoji | GIF | PNG |
@@ -704,27 +748,35 @@
 | brazil | `#brazil#fifa` | ![brazil](../assets/faces/fifa/brazil.gif) | ![brazil](../assets/faces_png/fifa/brazil.png) |
 | cameroon | `#cameroon#fifa` | ![cameroon](../assets/faces/fifa/cameroon.gif) | ![cameroon](../assets/faces_png/fifa/cameroon.png) |
 | canada | `#canada#fifa` | ![canada](../assets/faces/fifa/canada.gif) | ![canada](../assets/faces_png/fifa/canada.png) |
+| colombia | `#colombia#fifa` | ![colombia](../assets/faces/fifa/colombia.gif) | ![colombia](../assets/faces_png/fifa/colombia.png) |
 | costa_rica | `#costa_rica#fifa` | ![costa_rica](../assets/faces/fifa/costa_rica.gif) | ![costa_rica](../assets/faces_png/fifa/costa_rica.png) |
 | croatia | `#croatia#fifa` | ![croatia](../assets/faces/fifa/croatia.gif) | ![croatia](../assets/faces_png/fifa/croatia.png) |
 | denmark | `#denmark#fifa` | ![denmark](../assets/faces/fifa/denmark.gif) | ![denmark](../assets/faces_png/fifa/denmark.png) |
 | ecuador | `#ecuador#fifa` | ![ecuador](../assets/faces/fifa/ecuador.gif) | ![ecuador](../assets/faces_png/fifa/ecuador.png) |
+| egypt | `#egypt#fifa` | ![egypt](../assets/faces/fifa/egypt.gif) | ![egypt](../assets/faces_png/fifa/egypt.png) |
 | england | `#england#fifa` | ![england](../assets/faces/fifa/england.gif) | ![england](../assets/faces_png/fifa/england.png) |
 | france | `#france#fifa` | ![france](../assets/faces/fifa/france.gif) | ![france](../assets/faces_png/fifa/france.png) |
 | germany | `#germany#fifa` | ![germany](../assets/faces/fifa/germany.gif) | ![germany](../assets/faces_png/fifa/germany.png) |
 | ghana | `#ghana#fifa` | ![ghana](../assets/faces/fifa/ghana.gif) | ![ghana](../assets/faces_png/fifa/ghana.png) |
+| iceland | `#iceland#fifa` | ![iceland](../assets/faces/fifa/iceland.gif) | ![iceland](../assets/faces_png/fifa/iceland.png) |
 | iran | `#iran#fifa` | ![iran](../assets/faces/fifa/iran.gif) | ![iran](../assets/faces_png/fifa/iran.png) |
 | japan | `#japan#fifa` | ![japan](../assets/faces/fifa/japan.gif) | ![japan](../assets/faces_png/fifa/japan.png) |
 | mexico | `#mexico#fifa` | ![mexico](../assets/faces/fifa/mexico.gif) | ![mexico](../assets/faces_png/fifa/mexico.png) |
 | morocco | `#morocco#fifa` | ![morocco](../assets/faces/fifa/morocco.gif) | ![morocco](../assets/faces_png/fifa/morocco.png) |
 | netherlands | `#netherlands#fifa` | ![netherlands](../assets/faces/fifa/netherlands.gif) | ![netherlands](../assets/faces_png/fifa/netherlands.png) |
+| nigeria | `#nigeria#fifa` | ![nigeria](../assets/faces/fifa/nigeria.gif) | ![nigeria](../assets/faces_png/fifa/nigeria.png) |
+| panama | `#panama#fifa` | ![panama](../assets/faces/fifa/panama.gif) | ![panama](../assets/faces_png/fifa/panama.png) |
+| peru | `#peru#fifa` | ![peru](../assets/faces/fifa/peru.gif) | ![peru](../assets/faces_png/fifa/peru.png) |
 | poland | `#poland#fifa` | ![poland](../assets/faces/fifa/poland.gif) | ![poland](../assets/faces_png/fifa/poland.png) |
 | portugal | `#portugal#fifa` | ![portugal](../assets/faces/fifa/portugal.gif) | ![portugal](../assets/faces_png/fifa/portugal.png) |
 | qatar | `#qatar#fifa` | ![qatar](../assets/faces/fifa/qatar.gif) | ![qatar](../assets/faces_png/fifa/qatar.png) |
+| russia | `#russia#fifa` | ![russia](../assets/faces/fifa/russia.gif) | ![russia](../assets/faces_png/fifa/russia.png) |
 | saudi_arabia | `#saudi_arabia#fifa` | ![saudi_arabia](../assets/faces/fifa/saudi_arabia.gif) | ![saudi_arabia](../assets/faces_png/fifa/saudi_arabia.png) |
 | senegal | `#senegal#fifa` | ![senegal](../assets/faces/fifa/senegal.gif) | ![senegal](../assets/faces_png/fifa/senegal.png) |
 | serbia | `#serbia#fifa` | ![serbia](../assets/faces/fifa/serbia.gif) | ![serbia](../assets/faces_png/fifa/serbia.png) |
 | south_korea | `#south_korea#fifa` | ![south_korea](../assets/faces/fifa/south_korea.gif) | ![south_korea](../assets/faces_png/fifa/south_korea.png) |
 | spain | `#spain#fifa` | ![spain](../assets/faces/fifa/spain.gif) | ![spain](../assets/faces_png/fifa/spain.png) |
+| sweden | `#sweden#fifa` | ![sweden](../assets/faces/fifa/sweden.gif) | ![sweden](../assets/faces_png/fifa/sweden.png) |
 | switzerland | `#switzerland#fifa` | ![switzerland](../assets/faces/fifa/switzerland.gif) | ![switzerland](../assets/faces_png/fifa/switzerland.png) |
 | tunisia | `#tunisia#fifa` | ![tunisia](../assets/faces/fifa/tunisia.gif) | ![tunisia](../assets/faces_png/fifa/tunisia.png) |
 | usa | `#usa#fifa` | ![usa](../assets/faces/fifa/usa.gif) | ![usa](../assets/faces_png/fifa/usa.png) |
@@ -845,48 +897,34 @@
 | cook_connect | `#cooking#pig #fan#pig` | ![cook_connect](../assets/faces/pig/cook_connect.gif) | ![cook_connect](../assets/faces_png/pig/cook_connect.png) |
 | wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../assets/faces/pig/wine_connect.gif) | ![wine_connect](../assets/faces_png/pig/wine_connect.png) |
 
-## dragon [連龍]
+## snake [snake]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
-| smile | `#:)#dragon` | ![smile](../assets/faces/dragon/smile.gif) | ![smile](../assets/faces_png/dragon/smile.png) |
-| happy | `#:D#dragon` | ![happy](../assets/faces/dragon/happy.gif) | ![happy](../assets/faces_png/dragon/happy.png) |
-| unclehappy | `#unclehappy#dragon` | ![unclehappy](../assets/faces/dragon/unclehappy.gif) | ![unclehappy](../assets/faces_png/dragon/unclehappy.png) |
-| unclehappy2 | `#unclehappy2#dragon` | ![unclehappy2](../assets/faces/dragon/unclehappy2.gif) | ![unclehappy2](../assets/faces_png/dragon/unclehappy2.png) |
-| lick | `#lick#dragon` | ![lick](../assets/faces/dragon/lick.gif) | ![lick](../assets/faces_png/dragon/lick.png) |
-| lick2 | `#lick2#dragon` | ![lick2](../assets/faces/dragon/lick2.gif) | ![lick2](../assets/faces_png/dragon/lick2.png) |
-| gj | `#gj#dragon` | ![gj](../assets/faces/dragon/gj.gif) | ![gj](../assets/faces_png/dragon/gj.png) |
-| disappear | `#disappear#dragon` | ![disappear](../assets/faces/dragon/disappear.gif) | ![disappear](../assets/faces_png/dragon/disappear.png) |
-| guitar | `#guitar#dragon` | ![guitar](../assets/faces/dragon/guitar.gif) | ![guitar](../assets/faces_png/dragon/guitar.png) |
-| bye | `#bye#dragon` | ![bye](../assets/faces/dragon/bye.gif) | ![bye](../assets/faces_png/dragon/bye.png) |
-| eat | `#eat#dragon` | ![eat](../assets/faces/dragon/eat.gif) | ![eat](../assets/faces_png/dragon/eat.png) |
-| ok | `#ok#dragon` | ![ok](../assets/faces/dragon/ok.gif) | ![ok](../assets/faces_png/dragon/ok.png) |
-| drink | `#drink#dragon` | ![drink](../assets/faces/dragon/drink.gif) | ![drink](../assets/faces_png/dragon/drink.png) |
-| think | `#think#dragon` | ![think](../assets/faces/dragon/think.gif) | ![think](../assets/faces_png/dragon/think.png) |
-| wtf | `#wtf#dragon` | ![wtf](../assets/faces/dragon/wtf.gif) | ![wtf](../assets/faces_png/dragon/wtf.png) |
-| phone | `#phone#dragon` | ![phone](../assets/faces/dragon/phone.gif) | ![phone](../assets/faces_png/dragon/phone.png) |
-| ngg | `#ngg#dragon` | ![ngg](../assets/faces/dragon/ngg.gif) | ![ngg](../assets/faces_png/dragon/ngg.png) |
-| mindblown | `#mindblown#dragon` | ![mindblown](../assets/faces/dragon/mindblown.gif) | ![mindblown](../assets/faces_png/dragon/mindblown.png) |
-| wheelchair | `#wheelchair#dragon` | ![wheelchair](../assets/faces/dragon/wheelchair.gif) | ![wheelchair](../assets/faces_png/dragon/wheelchair.png) |
-| angry | `#:-[#dragon` | ![angry](../assets/faces/dragon/angry.gif) | ![angry](../assets/faces_png/dragon/angry.png) |
-| headache | `#headache#dragon` | ![headache](../assets/faces/dragon/headache.gif) | ![headache](../assets/faces_png/dragon/headache.png) |
-| spit | `#spit#dragon` | ![spit](../assets/faces/dragon/spit.gif) | ![spit](../assets/faces_png/dragon/spit.png) |
-| midfinger | `#midfinger#dragon` | ![midfinger](../assets/faces/dragon/midfinger.gif) | ![midfinger](../assets/faces_png/dragon/midfinger.png) |
-| laser | `#laser#dragon` | ![laser](../assets/faces/dragon/laser.gif) | ![laser](../assets/faces_png/dragon/laser.png) |
-| read | `#read#dragon` | ![read](../assets/faces/dragon/read.gif) | ![read](../assets/faces_png/dragon/read.png) |
-| sad | `#sad#dragon` | ![sad](../assets/faces/dragon/sad.gif) | ![sad](../assets/faces_png/dragon/sad.png) |
-| sad2 | `#sad2#dragon` | ![sad2](../assets/faces/dragon/sad2.gif) | ![sad2](../assets/faces_png/dragon/sad2.png) |
-| nope | `#nope#dragon` | ![nope](../assets/faces/dragon/nope.gif) | ![nope](../assets/faces_png/dragon/nope.png) |
-| shock | `#shock#dragon` | ![shock](../assets/faces/dragon/shock.gif) | ![shock](../assets/faces_png/dragon/shock.png) |
-| backpain | `#backpain#dragon` | ![backpain](../assets/faces/dragon/backpain.gif) | ![backpain](../assets/faces_png/dragon/backpain.png) |
-| shiver | `#shiver#dragon` | ![shiver](../assets/faces/dragon/shiver.gif) | ![shiver](../assets/faces_png/dragon/shiver.png) |
-| z | `#z#dragon` | ![z](../assets/faces/dragon/z.gif) | ![z](../assets/faces_png/dragon/z.png) |
-| wind | `#wind#dragon` | ![wind](../assets/faces/dragon/wind.gif) | ![wind](../assets/faces_png/dragon/wind.png) |
-| lihkg | `#lihkg#dragon` | ![lihkg](../assets/faces/dragon/lihkg.gif) | ![lihkg](../assets/faces_png/dragon/lihkg.png) |
-| angry_connect | `#spit#dragon #gun#mouse` | ![angry_connect](../assets/faces/dragon/angry_connect.gif) | ![angry_connect](../assets/faces_png/dragon/angry_connect.png) |
-| angry_connect2 | `#:-[#dragon #tired#mouse` | ![angry_connect2](../assets/faces/dragon/angry_connect2.gif) | ![angry_connect2](../assets/faces_png/dragon/angry_connect2.png) |
-| angry_special | `#:-[#dragon #midfinger#dragon` | ![angry_special](../assets/faces/dragon/angry_special.gif) | ![angry_special](../assets/faces_png/dragon/angry_special.png) |
-| backpain_connect | `#throw#cat #backpain#dragon` | ![backpain_connect](../assets/faces/dragon/backpain_connect.gif) | ![backpain_connect](../assets/faces_png/dragon/backpain_connect.png) |
-| wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../assets/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../assets/faces_png/dragon/wheelchair_connect.png) |
+| smile | `#:)#snake` | ![smile](../assets/faces/snake/smile.gif) | ![smile](../assets/faces_png/snake/smile.png) |
+| laugh | `#:D#snake` | ![laugh](../assets/faces/snake/laugh.gif) | ![laugh](../assets/faces_png/snake/laugh.png) |
+| nose | `#nose#snake` | ![nose](../assets/faces/snake/nose.gif) | ![nose](../assets/faces_png/snake/nose.png) |
+| want | `#want#snake` | ![want](../assets/faces/snake/want.gif) | ![want](../assets/faces_png/snake/want.png) |
+| knife | `#knife#snake` | ![knife](../assets/faces/snake/knife.gif) | ![knife](../assets/faces_png/snake/knife.png) |
+| shotgun | `#shotgun#snake` | ![shotgun](../assets/faces/snake/shotgun.gif) | ![shotgun](../assets/faces_png/snake/shotgun.png) |
+| explosion | `#explosion#snake` | ![explosion](../assets/faces/snake/explosion.gif) | ![explosion](../assets/faces_png/snake/explosion.png) |
+| sweat | `#sweat#snake` | ![sweat](../assets/faces/snake/sweat.gif) | ![sweat](../assets/faces_png/snake/sweat.png) |
+| write | `#write#snake` | ![write](../assets/faces/snake/write.gif) | ![write](../assets/faces_png/snake/write.png) |
+| confuse | `#confuse#snake` | ![confuse](../assets/faces/snake/confuse.gif) | ![confuse](../assets/faces_png/snake/confuse.png) |
+| wtf | `#wtf#snake` | ![wtf](../assets/faces/snake/wtf.gif) | ![wtf](../assets/faces_png/snake/wtf.png) |
+| scream | `#scream#snake` | ![scream](../assets/faces/snake/scream.gif) | ![scream](../assets/faces_png/snake/scream.png) |
+| shock | `#shock#snake` | ![shock](../assets/faces/snake/shock.gif) | ![shock](../assets/faces_png/snake/shock.png) |
+| wow | `#wow#snake` | ![wow](../assets/faces/snake/wow.gif) | ![wow](../assets/faces_png/snake/wow.png) |
+| boring | `#boring#snake` | ![boring](../assets/faces/snake/boring.gif) | ![boring](../assets/faces_png/snake/boring.png) |
+| sad | `#sad#snake` | ![sad](../assets/faces/snake/sad.gif) | ![sad](../assets/faces_png/snake/sad.png) |
+| bye | `#bye#snake` | ![bye](../assets/faces/snake/bye.gif) | ![bye](../assets/faces_png/snake/bye.png) |
+| eat | `#eat#snake` | ![eat](../assets/faces/snake/eat.gif) | ![eat](../assets/faces_png/snake/eat.png) |
+| drink | `#drink#snake` | ![drink](../assets/faces/snake/drink.gif) | ![drink](../assets/faces_png/snake/drink.png) |
+| think | `#think#snake` | ![think](../assets/faces/snake/think.gif) | ![think](../assets/faces_png/snake/think.png) |
+| hypnosis | `#hypnosis#snake` | ![hypnosis](../assets/faces/snake/hypnosis.gif) | ![hypnosis](../assets/faces_png/snake/hypnosis.png) |
+| arcade | `#arcade#snake` | ![arcade](../assets/faces/snake/arcade.gif) | ![arcade](../assets/faces_png/snake/arcade.png) |
+| sign | `#sign#snake` | ![sign](../assets/faces/snake/sign.gif) | ![sign](../assets/faces_png/snake/sign.png) |
+| zzz | `#zzz#snake` | ![zzz](../assets/faces/snake/zzz.gif) | ![zzz](../assets/faces_png/snake/zzz.png) |
+| lihkg | `#lihkg#snake` | ![lihkg](../assets/faces/snake/lihkg.gif) | ![lihkg](../assets/faces_png/snake/lihkg.png) |
 
 ## mouse [連鼠]
 | Filename | Emoji | GIF | PNG |
@@ -974,6 +1012,7 @@
 | bye | `#bye#cow` | ![bye](../assets/faces/cow/bye.gif) | ![bye](../assets/faces_png/cow/bye.png) |
 | hair | `#hair#cow` | ![hair](../assets/faces/cow/hair.gif) | ![hair](../assets/faces_png/cow/hair.png) |
 | slap | `#slap#cow` | ![slap](../assets/faces/cow/slap.gif) | ![slap](../assets/faces_png/cow/slap.png) |
+| geltau | `#geltau#cow` | ![geltau](../assets/faces/cow/geltau.gif) | ![geltau](../assets/faces_png/cow/geltau.png) |
 | sadbutsmile | `#sadbutsmile#cow` | ![sadbutsmile](../assets/faces/cow/sadbutsmile.gif) | ![sadbutsmile](../assets/faces_png/cow/sadbutsmile.png) |
 | door | `#door#cow` | ![door](../assets/faces/cow/door.gif) | ![door](../assets/faces_png/cow/door.png) |
 | grab | `#grab#cow` | ![grab](../assets/faces/cow/grab.gif) | ![grab](../assets/faces_png/cow/grab.png) |
@@ -1027,6 +1066,7 @@
 | like | `#like#tiger` | ![like](../assets/faces/tiger/like.gif) | ![like](../assets/faces_png/tiger/like.png) |
 | like2 | `#like2#tiger` | ![like2](../assets/faces/tiger/like2.gif) | ![like2](../assets/faces_png/tiger/like2.png) |
 | punchbag | `#punchbag#tiger` | ![punchbag](../assets/faces/tiger/punchbag.gif) | ![punchbag](../assets/faces_png/tiger/punchbag.png) |
+| fencing | `#fencing#tiger` | ![fencing](../assets/faces/tiger/fencing.gif) | ![fencing](../assets/faces_png/tiger/fencing.png) |
 | rpg7 | `#rpg7#tiger` | ![rpg7](../assets/faces/tiger/rpg7.gif) | ![rpg7](../assets/faces_png/tiger/rpg7.png) |
 | lihkg | `#lihkg#tiger` | ![lihkg](../assets/faces/tiger/lihkg.gif) | ![lihkg](../assets/faces_png/tiger/lihkg.png) |
 | lihkg2 | `#lihkg2#tiger` | ![lihkg2](../assets/faces/tiger/lihkg2.gif) | ![lihkg2](../assets/faces_png/tiger/lihkg2.png) |
@@ -1036,12 +1076,15 @@
 | like_special | `#like#tiger #like#tiger` | ![like_special](../assets/faces/tiger/like_special.gif) | ![like_special](../assets/faces_png/tiger/like_special.png) |
 | punch_special | `#punchbag#tiger #angry#tiger` | ![punch_special](../assets/faces/tiger/punch_special.gif) | ![punch_special](../assets/faces_png/tiger/punch_special.png) |
 | punchbag_connect | `#punchbag#tiger #fight2#dog` | ![punchbag_connect](../assets/faces/tiger/punchbag_connect.gif) | ![punchbag_connect](../assets/faces_png/tiger/punchbag_connect.png) |
+| fencing_connect | `#fencing#tiger #annoyed#cat` | ![fencing_connect](../assets/faces/tiger/fencing_connect.gif) | ![fencing_connect](../assets/faces_png/tiger/fencing_connect.png) |
+| fencing_connect2 | `#fencing#tiger #knife#pig` | ![fencing_connect2](../assets/faces/tiger/fencing_connect2.gif) | ![fencing_connect2](../assets/faces_png/tiger/fencing_connect2.png) |
 
 ## rabbit [連兔]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#rabbit` | ![smile](../assets/faces/rabbit/smile.gif) | ![smile](../assets/faces_png/rabbit/smile.png) |
 | smile2 | `#smile2#rabbit` | ![smile2](../assets/faces/rabbit/smile2.gif) | ![smile2](../assets/faces_png/rabbit/smile2.png) |
+| smile3 | `#smile3#rabbit` | ![smile3](../assets/faces/rabbit/smile3.gif) | ![smile3](../assets/faces_png/rabbit/smile3.png) |
 | happy | `#happy#rabbit` | ![happy](../assets/faces/rabbit/happy.gif) | ![happy](../assets/faces_png/rabbit/happy.png) |
 | haha | `#haha#rabbit` | ![haha](../assets/faces/rabbit/haha.gif) | ![haha](../assets/faces_png/rabbit/haha.png) |
 | clap | `#clap#rabbit` | ![clap](../assets/faces/rabbit/clap.gif) | ![clap](../assets/faces_png/rabbit/clap.png) |
@@ -1068,6 +1111,7 @@
 | saw | `#saw#rabbit` | ![saw](../assets/faces/rabbit/saw.gif) | ![saw](../assets/faces_png/rabbit/saw.png) |
 | stun | `#stun#rabbit` | ![stun](../assets/faces/rabbit/stun.gif) | ![stun](../assets/faces_png/rabbit/stun.png) |
 | tape | `#tape#rabbit` | ![tape](../assets/faces/rabbit/tape.gif) | ![tape](../assets/faces_png/rabbit/tape.png) |
+| badboy | `#badboy#rabbit` | ![badboy](../assets/faces/rabbit/badboy.gif) | ![badboy](../assets/faces_png/rabbit/badboy.png) |
 | yawn | `#yawn#rabbit` | ![yawn](../assets/faces/rabbit/yawn.gif) | ![yawn](../assets/faces_png/rabbit/yawn.png) |
 | fly | `#fly#rabbit` | ![fly](../assets/faces/rabbit/fly.gif) | ![fly](../assets/faces_png/rabbit/fly.png) |
 | lihkg | `#lihkg#rabbit` | ![lihkg](../assets/faces/rabbit/lihkg.gif) | ![lihkg](../assets/faces_png/rabbit/lihkg.png) |
@@ -1078,6 +1122,49 @@
 | roast_connect | `#cooking#pig #:)#rabbit` | ![roast_connect](../assets/faces/rabbit/roast_connect.gif) | ![roast_connect](../assets/faces_png/rabbit/roast_connect.png) |
 | roast_special | `#:)#rabbit #cooking#pig` | ![roast_special](../assets/faces/rabbit/roast_special.gif) | ![roast_special](../assets/faces_png/rabbit/roast_special.png) |
 | axe_connect | `#car#cow #axe#rabbit` | ![axe_connect](../assets/faces/rabbit/axe_connect.gif) | ![axe_connect](../assets/faces_png/rabbit/axe_connect.png) |
+
+## dragon [連龍]
+| Filename | Emoji | GIF | PNG |
+| --- | --- | --- | --- |
+| smile | `#:)#dragon` | ![smile](../assets/faces/dragon/smile.gif) | ![smile](../assets/faces_png/dragon/smile.png) |
+| happy | `#:D#dragon` | ![happy](../assets/faces/dragon/happy.gif) | ![happy](../assets/faces_png/dragon/happy.png) |
+| unclehappy | `#unclehappy#dragon` | ![unclehappy](../assets/faces/dragon/unclehappy.gif) | ![unclehappy](../assets/faces_png/dragon/unclehappy.png) |
+| unclehappy2 | `#unclehappy2#dragon` | ![unclehappy2](../assets/faces/dragon/unclehappy2.gif) | ![unclehappy2](../assets/faces_png/dragon/unclehappy2.png) |
+| lick | `#lick#dragon` | ![lick](../assets/faces/dragon/lick.gif) | ![lick](../assets/faces_png/dragon/lick.png) |
+| lick2 | `#lick2#dragon` | ![lick2](../assets/faces/dragon/lick2.gif) | ![lick2](../assets/faces_png/dragon/lick2.png) |
+| gj | `#gj#dragon` | ![gj](../assets/faces/dragon/gj.gif) | ![gj](../assets/faces_png/dragon/gj.png) |
+| disappear | `#disappear#dragon` | ![disappear](../assets/faces/dragon/disappear.gif) | ![disappear](../assets/faces_png/dragon/disappear.png) |
+| guitar | `#guitar#dragon` | ![guitar](../assets/faces/dragon/guitar.gif) | ![guitar](../assets/faces_png/dragon/guitar.png) |
+| bye | `#bye#dragon` | ![bye](../assets/faces/dragon/bye.gif) | ![bye](../assets/faces_png/dragon/bye.png) |
+| eat | `#eat#dragon` | ![eat](../assets/faces/dragon/eat.gif) | ![eat](../assets/faces_png/dragon/eat.png) |
+| ok | `#ok#dragon` | ![ok](../assets/faces/dragon/ok.gif) | ![ok](../assets/faces_png/dragon/ok.png) |
+| drink | `#drink#dragon` | ![drink](../assets/faces/dragon/drink.gif) | ![drink](../assets/faces_png/dragon/drink.png) |
+| think | `#think#dragon` | ![think](../assets/faces/dragon/think.gif) | ![think](../assets/faces_png/dragon/think.png) |
+| wtf | `#wtf#dragon` | ![wtf](../assets/faces/dragon/wtf.gif) | ![wtf](../assets/faces_png/dragon/wtf.png) |
+| phone | `#phone#dragon` | ![phone](../assets/faces/dragon/phone.gif) | ![phone](../assets/faces_png/dragon/phone.png) |
+| ngg | `#ngg#dragon` | ![ngg](../assets/faces/dragon/ngg.gif) | ![ngg](../assets/faces_png/dragon/ngg.png) |
+| mindblown | `#mindblown#dragon` | ![mindblown](../assets/faces/dragon/mindblown.gif) | ![mindblown](../assets/faces_png/dragon/mindblown.png) |
+| wheelchair | `#wheelchair#dragon` | ![wheelchair](../assets/faces/dragon/wheelchair.gif) | ![wheelchair](../assets/faces_png/dragon/wheelchair.png) |
+| angry | `#:-[#dragon` | ![angry](../assets/faces/dragon/angry.gif) | ![angry](../assets/faces_png/dragon/angry.png) |
+| headache | `#headache#dragon` | ![headache](../assets/faces/dragon/headache.gif) | ![headache](../assets/faces_png/dragon/headache.png) |
+| spit | `#spit#dragon` | ![spit](../assets/faces/dragon/spit.gif) | ![spit](../assets/faces_png/dragon/spit.png) |
+| midfinger | `#midfinger#dragon` | ![midfinger](../assets/faces/dragon/midfinger.gif) | ![midfinger](../assets/faces_png/dragon/midfinger.png) |
+| laser | `#laser#dragon` | ![laser](../assets/faces/dragon/laser.gif) | ![laser](../assets/faces_png/dragon/laser.png) |
+| read | `#read#dragon` | ![read](../assets/faces/dragon/read.gif) | ![read](../assets/faces_png/dragon/read.png) |
+| sad | `#sad#dragon` | ![sad](../assets/faces/dragon/sad.gif) | ![sad](../assets/faces_png/dragon/sad.png) |
+| sad2 | `#sad2#dragon` | ![sad2](../assets/faces/dragon/sad2.gif) | ![sad2](../assets/faces_png/dragon/sad2.png) |
+| nope | `#nope#dragon` | ![nope](../assets/faces/dragon/nope.gif) | ![nope](../assets/faces_png/dragon/nope.png) |
+| shock | `#shock#dragon` | ![shock](../assets/faces/dragon/shock.gif) | ![shock](../assets/faces_png/dragon/shock.png) |
+| backpain | `#backpain#dragon` | ![backpain](../assets/faces/dragon/backpain.gif) | ![backpain](../assets/faces_png/dragon/backpain.png) |
+| shiver | `#shiver#dragon` | ![shiver](../assets/faces/dragon/shiver.gif) | ![shiver](../assets/faces_png/dragon/shiver.png) |
+| z | `#z#dragon` | ![z](../assets/faces/dragon/z.gif) | ![z](../assets/faces_png/dragon/z.png) |
+| wind | `#wind#dragon` | ![wind](../assets/faces/dragon/wind.gif) | ![wind](../assets/faces_png/dragon/wind.png) |
+| lihkg | `#lihkg#dragon` | ![lihkg](../assets/faces/dragon/lihkg.gif) | ![lihkg](../assets/faces_png/dragon/lihkg.png) |
+| angry_connect | `#spit#dragon #gun#mouse` | ![angry_connect](../assets/faces/dragon/angry_connect.gif) | ![angry_connect](../assets/faces_png/dragon/angry_connect.png) |
+| angry_connect2 | `#:-[#dragon #tired#mouse` | ![angry_connect2](../assets/faces/dragon/angry_connect2.gif) | ![angry_connect2](../assets/faces_png/dragon/angry_connect2.png) |
+| angry_special | `#:-[#dragon #midfinger#dragon` | ![angry_special](../assets/faces/dragon/angry_special.gif) | ![angry_special](../assets/faces_png/dragon/angry_special.png) |
+| backpain_connect | `#throw#cat #backpain#dragon` | ![backpain_connect](../assets/faces/dragon/backpain_connect.gif) | ![backpain_connect](../assets/faces_png/dragon/backpain_connect.png) |
+| wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../assets/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../assets/faces_png/dragon/wheelchair_connect.png) |
 
 ## lm2 [腦魔2]
 | Filename | Emoji | GIF | PNG |
@@ -1398,7 +1485,7 @@
 | 41 | `#shock#lme` | ![41](../assets/faces/lomoji/41.png) | ![41](../assets/faces_png/lomoji/41.png) |
 | 42 | `#:-)#lme` | ![42](../assets/faces/lomoji/42.png) | ![42](../assets/faces_png/lomoji/42.png) |
 
-## fatcmoji [肥絲]
+## fatc [fatc]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | fat001 | `#:)#fatc` | ![fat001](../assets/faces/fatcmoji/fat001.gif) | ![fat001](../assets/faces_png/fatcmoji/fat001.png) |
@@ -1450,4 +1537,37 @@
 | fat047 | `#like#fatc` | ![fat047](../assets/faces/fatcmoji/fat047.gif) | ![fat047](../assets/faces_png/fatcmoji/fat047.png) |
 | fat048 | `#dislike#fatc` | ![fat048](../assets/faces/fatcmoji/fat048.gif) | ![fat048](../assets/faces_png/fatcmoji/fat048.png) |
 | fat049 | `#[joyce]#fatc` | ![fat049](../assets/faces/fatcmoji/fat049.gif) | ![fat049](../assets/faces_png/fatcmoji/fat049.png) |
+
+## husky [husky]
+| Filename | Emoji | GIF | PNG |
+| --- | --- | --- | --- |
+| smile | `#:)#husky` | ![smile](../assets/faces/husky/smile.gif) | ![smile](../assets/faces_png/husky/smile.png) |
+| hehe | `#hehe#husky` | ![hehe](../assets/faces/husky/hehe.gif) | ![hehe](../assets/faces_png/husky/hehe.png) |
+| haha | `#haha#husky` | ![haha](../assets/faces/husky/haha.gif) | ![haha](../assets/faces_png/husky/haha.png) |
+| bye | `#bye#husky` | ![bye](../assets/faces/husky/bye.gif) | ![bye](../assets/faces_png/husky/bye.png) |
+| 999 | `#999#husky` | ![999](../assets/faces/husky/999.gif) | ![999](../assets/faces_png/husky/999.png) |
+| FBI | `#fbi#husky` | ![FBI](../assets/faces/husky/FBI.gif) | ![FBI](../assets/faces_png/husky/FBI.png) |
+| lick | `#:P#husky` | ![lick](../assets/faces/husky/lick.gif) | ![lick](../assets/faces_png/husky/lick.png) |
+| wet | `#wet#husky` | ![wet](../assets/faces/husky/wet.gif) | ![wet](../assets/faces_png/husky/wet.png) |
+| touch | `#touch#husky` | ![touch](../assets/faces/husky/touch.gif) | ![touch](../assets/faces_png/husky/touch.png) |
+| no | `#no#husky` | ![no](../assets/faces/husky/no.gif) | ![no](../assets/faces_png/husky/no.png) |
+| scare | `#@_@#husky` | ![scare](../assets/faces/husky/scare.gif) | ![scare](../assets/faces_png/husky/scare.png) |
+| angry | `#:-[#husky` | ![angry](../assets/faces/husky/angry.gif) | ![angry](../assets/faces_png/husky/angry.png) |
+| zzz | `#zzz#husky` | ![zzz](../assets/faces/husky/zzz.gif) | ![zzz](../assets/faces_png/husky/zzz.png) |
+| cry | `#cry#husky` | ![cry](../assets/faces/husky/cry.gif) | ![cry](../assets/faces_png/husky/cry.png) |
+| give | `#give#husky` | ![give](../assets/faces/husky/give.gif) | ![give](../assets/faces_png/husky/give.png) |
+| beg | `#beg#husky` | ![beg](../assets/faces/husky/beg.gif) | ![beg](../assets/faces_png/husky/beg.png) |
+| itdog1 | `#it1#husky` | ![itdog1](../assets/faces/husky/itdog1.gif) | ![itdog1](../assets/faces_png/husky/itdog1.png) |
+| itdog2 | `#it2#husky` | ![itdog2](../assets/faces/husky/itdog2.gif) | ![itdog2](../assets/faces_png/husky/itdog2.png) |
+| run | `#run#husky` | ![run](../assets/faces/husky/run.gif) | ![run](../assets/faces_png/husky/run.png) |
+| beat | `#beat#husky` | ![beat](../assets/faces/husky/beat.gif) | ![beat](../assets/faces_png/husky/beat.png) |
+| fight1 | `#fight1#husky` | ![fight1](../assets/faces/husky/fight1.gif) | ![fight1](../assets/faces_png/husky/fight1.png) |
+| fight2 | `#fight2#husky` | ![fight2](../assets/faces/husky/fight2.gif) | ![fight2](../assets/faces_png/husky/fight2.png) |
+| lihkg | `#lihkg#husky` | ![lihkg](../assets/faces/husky/lihkg.gif) | ![lihkg](../assets/faces_png/husky/lihkg.png) |
+| beg_connect | `#give#husky #beg#husky` | ![beg_connect](../assets/faces/husky/beg_connect.gif) | ![beg_connect](../assets/faces_png/husky/beg_connect.png) |
+| beg_connect_AB | `#give#dog #beg#husky` | ![beg_connect_AB](../assets/faces/husky/beg_connect_AB.gif) | ![beg_connect_AB](../assets/faces_png/husky/beg_connect_AB.png) |
+| beg_connect_BA | `#give#husky #beg#dog` | ![beg_connect_BA](../assets/faces/husky/beg_connect_BA.gif) | ![beg_connect_BA](../assets/faces_png/husky/beg_connect_BA.png) |
+| fight_connect | `#fight1#husky #fight2#husky` | ![fight_connect](../assets/faces/husky/fight_connect.gif) | ![fight_connect](../assets/faces_png/husky/fight_connect.png) |
+| fight_connect_AB | `#fight1#dog #fight2#husky` | ![fight_connect_AB](../assets/faces/husky/fight_connect_AB.gif) | ![fight_connect_AB](../assets/faces_png/husky/fight_connect_AB.png) |
+| fight_connect_BA | `#fight1#husky #fight2#dog` | ![fight_connect_BA](../assets/faces/husky/fight_connect_BA.gif) | ![fight_connect_BA](../assets/faces_png/husky/fight_connect_BA.png) |
 

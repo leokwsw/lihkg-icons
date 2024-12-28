@@ -3,6 +3,7 @@
 | --- | --- | --- | --- |
 | smile | `#:)#rabbit` | ![smile](../assets/faces/rabbit/smile.gif) | ![smile](../assets/faces_png/rabbit/smile.png) |
 | smile2 | `#smile2#rabbit` | ![smile2](../assets/faces/rabbit/smile2.gif) | ![smile2](../assets/faces_png/rabbit/smile2.png) |
+| smile3 | `#smile3#rabbit` | ![smile3](../assets/faces/rabbit/smile3.gif) | ![smile3](../assets/faces_png/rabbit/smile3.png) |
 | happy | `#happy#rabbit` | ![happy](../assets/faces/rabbit/happy.gif) | ![happy](../assets/faces_png/rabbit/happy.png) |
 | haha | `#haha#rabbit` | ![haha](../assets/faces/rabbit/haha.gif) | ![haha](../assets/faces_png/rabbit/haha.png) |
 | clap | `#clap#rabbit` | ![clap](../assets/faces/rabbit/clap.gif) | ![clap](../assets/faces_png/rabbit/clap.png) |
@@ -29,6 +30,7 @@
 | saw | `#saw#rabbit` | ![saw](../assets/faces/rabbit/saw.gif) | ![saw](../assets/faces_png/rabbit/saw.png) |
 | stun | `#stun#rabbit` | ![stun](../assets/faces/rabbit/stun.gif) | ![stun](../assets/faces_png/rabbit/stun.png) |
 | tape | `#tape#rabbit` | ![tape](../assets/faces/rabbit/tape.gif) | ![tape](../assets/faces_png/rabbit/tape.png) |
+| badboy | `#badboy#rabbit` | ![badboy](../assets/faces/rabbit/badboy.gif) | ![badboy](../assets/faces_png/rabbit/badboy.png) |
 | yawn | `#yawn#rabbit` | ![yawn](../assets/faces/rabbit/yawn.gif) | ![yawn](../assets/faces_png/rabbit/yawn.png) |
 | fly | `#fly#rabbit` | ![fly](../assets/faces/rabbit/fly.gif) | ![fly](../assets/faces_png/rabbit/fly.png) |
 | lihkg | `#lihkg#rabbit` | ![lihkg](../assets/faces/rabbit/lihkg.gif) | ![lihkg](../assets/faces_png/rabbit/lihkg.png) |
