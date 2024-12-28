@@ -246,7 +246,7 @@ function searchBracket(text: string): number {
       fs.writeFileSync(`./view/all.md`, allContent)
 
       // fs.rmdirSync(folderName, {recursive: true})
-      // fs.rm(fileName)
+      fs.rm(fileName)
     }
   })
 })()
