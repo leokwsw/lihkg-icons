@@ -5,7 +5,7 @@ import jsdom = require("jsdom");
 import {DOMWindow} from "jsdom";
 import r from "request";
 import {mapping} from "./mapping";
-import * as moment from "moment";
+import * as moment from 'moment-timezone';
 import 'moment/locale/zh-hk';
 import {importLog} from "./saveLog";
 
@@ -59,6 +59,8 @@ function searchBracket(text: string): number {
 
 (async _ => {
   importLog("index")
+
+  moment.tz.setDefault("Asia/HongKong");
   const jar = rp.jar()
 
   let versionRes = await rp("https://itunes.apple.com/lookup?bundleId=com.lihkg.forum-ios")
@@ -82,7 +84,7 @@ function searchBracket(text: string): number {
   let fileName: string = assetUrl.split("/")[assetUrl.split("/").length - 1]
   console.log("assetUrl : " + assetUrl)
 
-  fs.writeFileSync(`property/${version}-${fileName.replace(".zip", "")}-${new Date().getTime()}.json`, JSON.stringify(JSON.parse(res), null, 2))
+  fs.writeFileSync(`property/${version}-${fileName.replace(".zip", "")}.json`, JSON.stringify(JSON.parse(res), null, 2))
   rp({
     method: "get",
     url: assetUrl,
