@@ -2,12 +2,8 @@ name: Update readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
   push:
-
-env:
-  TZ: "Asia/HongKong"
-  LOCAL_TIME: "00:00"
 
 jobs:
   update:
