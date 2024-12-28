@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1735383133,
+  "server_time": 1735383236,
   "response": {
     "asset": {
       "version": "1046",
@@ -3810,7 +3810,7 @@
             0.1,
             0.5
           ],
-          "f13": "US",
+          "f13": "TW",
           "f14": "itms-apps://itunes.apple.com/%@/app/apple-store/id1178373396?mt=8"
         },
         "zth": 50
