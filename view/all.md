@@ -1029,6 +1029,11 @@ To 2030-12-31T15:59:59+00:00
 | sign | `#sign#snake` | ![sign](../assets/faces/snake/sign.gif) | ![sign](../assets/faces_png/snake/sign.png) |
 | zzz | `#zzz#snake` | ![zzz](../assets/faces/snake/zzz.gif) | ![zzz](../assets/faces_png/snake/zzz.png) |
 | lihkg | `#lihkg#snake` | ![lihkg](../assets/faces/snake/lihkg.gif) | ![lihkg](../assets/faces_png/snake/lihkg.png) |
+| hypnosis_connect | `#hypnosis#snake #awake#mouse` | ![hypnosis_connect](../assets/faces/snake/hypnosis_connect.gif) | ![hypnosis_connect](../assets/faces_png/snake/hypnosis_connect.png) |
+| knife_connect | `#knife#snake #stun#rabbit` | ![knife_connect](../assets/faces/snake/knife_connect.gif) | ![knife_connect](../assets/faces_png/snake/knife_connect.png) |
+| shotgun_special | `#shotgun#snake #shotgun#snake #shotgun#snake` | ![shotgun_special](../assets/faces/snake/shotgun_special.gif) | ![shotgun_special](../assets/faces_png/snake/shotgun_special.png) |
+| scream_connect | `#music#rabbit #scream#snake` | ![scream_connect](../assets/faces/snake/scream_connect.gif) | ![scream_connect](../assets/faces_png/snake/scream_connect.png) |
+| eat_special | `#eat#snake #wtf#snake` | ![eat_special](../assets/faces/snake/eat_special.gif) | ![eat_special](../assets/faces_png/snake/eat_special.png) |
 
 ## mouse [連鼠]
 
