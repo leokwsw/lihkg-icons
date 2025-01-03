@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1735885481,
+  "server_time": 1735888578,
   "response": {
     "asset": {
       "version": "1046",
@@ -2229,30 +2229,6 @@
                 "url": "https://lihkg.com/api_v2/thread/category",
                 "query": {
                   "cat_id": 22
-                }
-              }
-            ]
-          },
-          {
-            "cat_id": 35,
-            "name": "電訊台",
-            "postable": true,
-            "url": "https://lihkg.com/api_v2/thread/category",
-            "query": {
-              "cat_id": 35
-            },
-            "sub_category": [
-              {
-                "cat_id": 35,
-                "sub_cat_id": -1,
-                "name": "電訊台",
-                "postable": false,
-                "filterable": false,
-                "orderable": false,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 35
                 }
               }
             ]
