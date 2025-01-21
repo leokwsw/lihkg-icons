@@ -2,7 +2,7 @@
 ## hb [hb]
 
 ### Show On
-Keywords : 生日快樂, 生日, Happy bday, Happy Birthday, 🎂
+Keywords : 生日快樂, 生日, happy bday, happy Birthday, 🎂
 
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
@@ -34,13 +34,15 @@ Keywords : 生日快樂, 生日, Happy bday, Happy Birthday, 🎂
 | rabbit3_hb | `#rabbit3#hb` | ![rabbit3_hb](../assets/faces/lihkg/rabbit3_hb.gif) | ![rabbit3_hb](../assets/faces_png/lihkg/rabbit3_hb.png) |
 | dragon_hb | `#dragon#hb` | ![dragon_hb](../assets/faces/lihkg/dragon_hb.gif) | ![dragon_hb](../assets/faces_png/lihkg/dragon_hb.png) |
 | dragon_hb2 | `#dragon2#hb` | ![dragon_hb2](../assets/faces/lihkg/dragon_hb2.gif) | ![dragon_hb2](../assets/faces_png/lihkg/dragon_hb2.png) |
+| snake_hb | `#snake#hb` | ![snake_hb](../assets/faces/lihkg/snake_hb.gif) | ![snake_hb](../assets/faces_png/lihkg/snake_hb.png) |
+| snake_hb2 | `#snake2#hb` | ![snake_hb2](../assets/faces/lihkg/snake_hb2.gif) | ![snake_hb2](../assets/faces_png/lihkg/snake_hb2.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../assets/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../assets/faces_png/lihkg/rabbit_hb_connect.png) |
 | dragon_hb_connect | `#dragon#hb #mouse2#hb` | ![dragon_hb_connect](../assets/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../assets/faces_png/lihkg/dragon_hb_connect.png) |
 
 ## rip [RIP]
 
 ### Show On
-Keywords : RIP, 悼念, 哀悼, R.I.P
+Keywords : rip, 悼念, 哀悼, r.i.p
 
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
@@ -53,6 +55,7 @@ Keywords : RIP, 悼念, 哀悼, R.I.P
 | tiger | `#tiger#rip` | ![tiger](../assets/faces/rip/tiger.gif) | ![tiger](../assets/faces_png/rip/tiger.png) |
 | rabbit | `#rabbit#rip` | ![rabbit](../assets/faces/rip/rabbit.gif) | ![rabbit](../assets/faces_png/rip/rabbit.png) |
 | dragon | `#dragon#rip` | ![dragon](../assets/faces/rip/dragon.gif) | ![dragon](../assets/faces_png/rip/dragon.png) |
+| snake | `#snake#rip` | ![snake](../assets/faces/rip/snake.gif) | ![snake](../assets/faces_png/rip/snake.png) |
 
 ## xm [聖誕版]
 
@@ -1020,6 +1023,7 @@ To 2030-12-31T15:59:59+00:00
 | wow | `#wow#snake` | ![wow](../assets/faces/snake/wow.gif) | ![wow](../assets/faces_png/snake/wow.png) |
 | boring | `#boring#snake` | ![boring](../assets/faces/snake/boring.gif) | ![boring](../assets/faces_png/snake/boring.png) |
 | sad | `#sad#snake` | ![sad](../assets/faces/snake/sad.gif) | ![sad](../assets/faces_png/snake/sad.png) |
+| sad2 | `#sad2#snake` | ![sad2](../assets/faces/snake/sad2.gif) | ![sad2](../assets/faces_png/snake/sad2.png) |
 | bye | `#bye#snake` | ![bye](../assets/faces/snake/bye.gif) | ![bye](../assets/faces_png/snake/bye.png) |
 | eat | `#eat#snake` | ![eat](../assets/faces/snake/eat.gif) | ![eat](../assets/faces_png/snake/eat.png) |
 | drink | `#drink#snake` | ![drink](../assets/faces/snake/drink.gif) | ![drink](../assets/faces_png/snake/drink.png) |

@@ -1,7 +1,7 @@
 ## rip [RIP]
 
 ### Show On
-Keywords : RIP, 悼念, 哀悼, R.I.P
+Keywords : rip, 悼念, 哀悼, r.i.p
 
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
@@ -14,4 +14,5 @@ Keywords : RIP, 悼念, 哀悼, R.I.P
 | tiger | `#tiger#rip` | ![tiger](../assets/faces/rip/tiger.gif) | ![tiger](../assets/faces_png/rip/tiger.png) |
 | rabbit | `#rabbit#rip` | ![rabbit](../assets/faces/rip/rabbit.gif) | ![rabbit](../assets/faces_png/rip/rabbit.png) |
 | dragon | `#dragon#rip` | ![dragon](../assets/faces/rip/dragon.gif) | ![dragon](../assets/faces_png/rip/dragon.png) |
+| snake | `#snake#rip` | ![snake](../assets/faces/rip/snake.gif) | ![snake](../assets/faces_png/rip/snake.png) |
 
