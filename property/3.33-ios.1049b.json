@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1738736656,
+  "server_time": 1738739778,
   "response": {
     "asset": {
       "version": "1049",
@@ -3233,109 +3233,8 @@
       "wbu": "https://lihkg.com/",
       "swbu": "https://lih.kg/",
       "pub": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzaOFjfmDduFR4znfDEgWLotEj8t1nlZDPzG80LvqA+QzFpy/ZXRQhjsQ1hLLGGS5+DL2j1vo6SMt68LjKndMPEKv+B8pJYkBZFqobQXa6As3qfbT3Tqb1vy0C6sXQKn/l2B8p0GSzeZ84BoyrPVNJGf1PB/yUXBihAFklJrtC/jLALq93er0hpuKc7ueRxIV7sEp3uDJpAKlZFYEQj46K1V+9F91Imyea1Hud68lH9WCLTdXhtQ4ALs0/d4p/S8WLhtp33MJvAMuxxISJsNUJ9W+EqsnQVzC2CUF1t5VUUujpEcd9PeSqOwYyfKRUr9Tjb/aPVP5qZXIvE/Cdpy0iwIDAQAB",
-      "ap": [
-        1585713600,
-        1586275140
-      ],
-      "ipup": "https://i.lih.kg/{WIDTH}/{URL}",
-      "lant": "1",
-      "flurry_fix": true,
-      "preload": false,
-      "hot_interval": 99999999,
-      "request_timeout": 60,
-      "ad_start_count": 909999,
-      "ad_interval_count": 999999,
-      "native": {
-        "preload": {
-          "flurry_banner": 0,
-          "flurry_popup": 0,
-          "fb_banner": 0,
-          "fb_popup": 0,
-          "admob_native": 0,
-          "interval": 900
-        }
-      },
-      "banner": {
-        "facebook": {
-          "backfill": [
-            -3,
-            -5,
-            -6
-          ]
-        },
-        "flurry": {
-          "backfill": [
-            -4,
-            -5,
-            -6
-          ]
-        },
-        "admob_native": {
-          "backfill": [
-            -3,
-            -4,
-            -5
-          ]
-        }
-      },
-      "native_popup": {
-        "rate": 0,
-        "max": 100,
-        "facebook": 0,
-        "flurry": 90,
-        "admob": 10,
-        "admob_native": 0,
-        "admob_max": 3
-      },
-      "popup": {
-        "native": 10,
-        "dfp": 90
-      },
-      "native_banner": {
-        "facebook": 0,
-        "flurry": 0,
-        "admob": 50,
-        "admob_native": 0
-      },
-      "browser": {
-        "native": 50,
-        "dfp": 50
-      },
-      "pm": {
-        "popup": {
-          "ad_interval_count": 3
-        }
-      },
-      "pm_reply": {
-        "rate": 100
-      },
-      "video": {
-        "rate": 100
-      },
-      "adult_ad": false,
-      "dc": 100,
-      "ds": 100,
-      "dd": 5000,
-      "dm": true,
-      "dsp": true,
-      "dz": true,
-      "pri": 15,
-      "maxpin": 10,
-      "sni": 1,
-      "pemsg": "到期日：%@\n注意：所有同步回帶將於到期後刪除",
-      "dnwd": [
-        0,
-        1,
-        3,
-        7
-      ],
-      "f_startTime": 1522512000,
-      "f_endTime": 1522598399,
-      "f_fadeInTime": 0.25,
-      "f_fadeOutTime": 1.5,
-      "f_appearTime": 2,
-      "f_interval": 60,
       "ios": {
+        "bw": false,
         "dc": 250,
         "ds": 250,
         "dd": 5000,
@@ -3790,7 +3689,8 @@
           "f14": "itms-apps://itunes.apple.com/%@/app/apple-store/id1178373396?mt=8"
         },
         "zth": 50
-      }
+      },
+      "dz": true
     }
   }
 }
