@@ -1,10 +1,4 @@
 ## rabbit [連兔]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#rabbit` | ![smile](../assets/faces/rabbit/smile.gif) | ![smile](../assets/faces_png/rabbit/smile.png) |

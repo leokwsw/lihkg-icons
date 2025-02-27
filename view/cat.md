@@ -1,10 +1,4 @@
 ## cat [連貓]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#cat` | ![smile](../assets/faces/cat/smile.gif) | ![smile](../assets/faces_png/cat/smile.png) |

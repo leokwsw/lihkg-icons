@@ -1,10 +1,4 @@
 ## cow [連牛]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#cow` | ![smile](../assets/faces/cow/smile.gif) | ![smile](../assets/faces_png/cow/smile.png) |

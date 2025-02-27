@@ -875,12 +875,6 @@ To 2022-12-19T16:00:00+00:00
 | kill2_connect | `#banghead#fifa #kill2#fifa` | ![kill2_connect](../assets/faces/fifa/kill2_connect.gif) | ![kill2_connect](../assets/faces_png/fifa/kill2_connect.png) |
 
 ## dog [連狗]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#dog` | ![smile](../assets/faces/dog/smile.gif) | ![smile](../assets/faces_png/dog/smile.png) |
@@ -941,12 +935,6 @@ To 2030-12-31T15:59:59+00:00
 | fight3_special2 | `#npc2#dog #fight3#dog` | ![fight3_special2](../assets/faces/dog/fight3_special2.gif) | ![fight3_special2](../assets/faces_png/dog/fight3_special2.png) |
 
 ## pig [連豬]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#pig` | ![smile](../assets/faces/pig/smile.gif) | ![smile](../assets/faces_png/pig/smile.png) |
@@ -999,12 +987,6 @@ To 2030-12-31T15:59:59+00:00
 | wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../assets/faces/pig/wine_connect.gif) | ![wine_connect](../assets/faces_png/pig/wine_connect.png) |
 
 ## snake [snake]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#snake` | ![smile](../assets/faces/snake/smile.gif) | ![smile](../assets/faces_png/snake/smile.png) |
@@ -1040,12 +1022,6 @@ To 2030-12-31T15:59:59+00:00
 | eat_special | `#eat#snake #wtf#snake` | ![eat_special](../assets/faces/snake/eat_special.gif) | ![eat_special](../assets/faces_png/snake/eat_special.png) |
 
 ## mouse [連鼠]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#mouse` | ![smile](../assets/faces/mouse/smile.gif) | ![smile](../assets/faces_png/mouse/smile.png) |
@@ -1090,12 +1066,6 @@ To 2030-12-31T15:59:59+00:00
 | miracle_special | `#pray#mouse #please#mouse #miracle#mouse` | ![miracle_special](../assets/faces/mouse/miracle_special.gif) | ![miracle_special](../assets/faces_png/mouse/miracle_special.png) |
 
 ## cat [連貓]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#cat` | ![smile](../assets/faces/cat/smile.gif) | ![smile](../assets/faces_png/cat/smile.png) |
@@ -1127,12 +1097,6 @@ To 2030-12-31T15:59:59+00:00
 | throw_connect | `#throw#cat #beg#dog` | ![throw_connect](../assets/faces/cat/throw_connect.gif) | ![throw_connect](../assets/faces_png/cat/throw_connect.png) |
 
 ## cow [連牛]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#cow` | ![smile](../assets/faces/cow/smile.gif) | ![smile](../assets/faces_png/cow/smile.png) |
@@ -1173,12 +1137,6 @@ To 2030-12-31T15:59:59+00:00
 | grab_connect | `#grab#cow #beg#dog` | ![grab_connect](../assets/faces/cow/grab_connect.gif) | ![grab_connect](../assets/faces_png/cow/grab_connect.png) |
 
 ## tiger [連虎]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#tiger` | ![smile](../assets/faces/tiger/smile.gif) | ![smile](../assets/faces_png/tiger/smile.png) |
@@ -1217,12 +1175,6 @@ To 2030-12-31T15:59:59+00:00
 | fencing_connect2 | `#fencing#tiger #knife#pig` | ![fencing_connect2](../assets/faces/tiger/fencing_connect2.gif) | ![fencing_connect2](../assets/faces_png/tiger/fencing_connect2.png) |
 
 ## rabbit [連兔]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#rabbit` | ![smile](../assets/faces/rabbit/smile.gif) | ![smile](../assets/faces_png/rabbit/smile.png) |
@@ -1267,12 +1219,6 @@ To 2030-12-31T15:59:59+00:00
 | axe_connect | `#car#cow #axe#rabbit` | ![axe_connect](../assets/faces/rabbit/axe_connect.gif) | ![axe_connect](../assets/faces_png/rabbit/axe_connect.png) |
 
 ## dragon [連龍]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#dragon` | ![smile](../assets/faces/dragon/smile.gif) | ![smile](../assets/faces_png/dragon/smile.png) |
@@ -1316,12 +1262,6 @@ To 2030-12-31T15:59:59+00:00
 | wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../assets/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../assets/faces_png/dragon/wheelchair_connect.png) |
 
 ## lm2 [腦魔2]
-
-### Show On
-From 2025-02-02T16:00:00+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#lm2` | ![smile](../assets/faces/lm2/smile.gif) | ![smile](../assets/faces_png/lm2/smile.png) |
@@ -1338,10 +1278,14 @@ To 2030-12-31T15:59:59+00:00
 | wet | `#wet#lm2` | ![wet](../assets/faces/lm2/wet.gif) | ![wet](../assets/faces_png/lm2/wet.png) |
 | jable | `#jable#lm2` | ![jable](../assets/faces/lm2/jable.gif) | ![jable](../assets/faces_png/lm2/jable.png) |
 | tongue | `#:P#lm2` | ![tongue](../assets/faces/lm2/tongue.gif) | ![tongue](../assets/faces_png/lm2/tongue.png) |
+| tongue2 | `#tongue2#lm2` | ![tongue2](../assets/faces/lm2/tongue2.gif) | ![tongue2](../assets/faces_png/lm2/tongue2.png) |
+| tongue3 | `#tongue3#lm2` | ![tongue3](../assets/faces/lm2/tongue3.gif) | ![tongue3](../assets/faces_png/lm2/tongue3.png) |
+| tongue4 | `#tongue4#lm2` | ![tongue4](../assets/faces/lm2/tongue4.gif) | ![tongue4](../assets/faces_png/lm2/tongue4.png) |
 | lick | `#lick#lm2` | ![lick](../assets/faces/lm2/lick.gif) | ![lick](../assets/faces_png/lm2/lick.png) |
 | spinning | `#spinning#lm2` | ![spinning](../assets/faces/lm2/spinning.gif) | ![spinning](../assets/faces_png/lm2/spinning.png) |
 | spinning2 | `#spinning2#lm2` | ![spinning2](../assets/faces/lm2/spinning2.gif) | ![spinning2](../assets/faces_png/lm2/spinning2.png) |
 | bouncer | `#[bouncer]#lm2` | ![bouncer](../assets/faces/lm2/bouncer.gif) | ![bouncer](../assets/faces_png/lm2/bouncer.png) |
+| huh | `#huh#lm2` | ![huh](../assets/faces/lm2/huh.gif) | ![huh](../assets/faces_png/lm2/huh.png) |
 | dead | `#xx(#lm2` | ![dead](../assets/faces/lm2/dead.gif) | ![dead](../assets/faces_png/lm2/dead.png) |
 | wonder2 | `#???#lm2` | ![wonder2](../assets/faces/lm2/wonder2.gif) | ![wonder2](../assets/faces_png/lm2/wonder2.png) |
 | wfc2 | `#wfc2#lm2` | ![wfc2](../assets/faces/lm2/wfc2.gif) | ![wfc2](../assets/faces_png/lm2/wfc2.png) |
@@ -1350,8 +1294,11 @@ To 2030-12-31T15:59:59+00:00
 | haha | `#haha#lm2` | ![haha](../assets/faces/lm2/haha.gif) | ![haha](../assets/faces_png/lm2/haha.png) |
 | nosee | `#nosee#lm2` | ![nosee](../assets/faces/lm2/nosee.gif) | ![nosee](../assets/faces_png/lm2/nosee.png) |
 | hoho | `#hoho#lm2` | ![hoho](../assets/faces/lm2/hoho.gif) | ![hoho](../assets/faces_png/lm2/hoho.png) |
+| aha | `#aha#lm2` | ![aha](../assets/faces/lm2/aha.gif) | ![aha](../assets/faces_png/lm2/aha.png) |
 | love | `#love#lm2` | ![love](../assets/faces/lm2/love.gif) | ![love](../assets/faces_png/lm2/love.png) |
+| chu | `#chu#lm2` | ![chu](../assets/faces/lm2/chu.gif) | ![chu](../assets/faces_png/lm2/chu.png) |
 | hehe | `#hehe#lm2` | ![hehe](../assets/faces/lm2/hehe.gif) | ![hehe](../assets/faces_png/lm2/hehe.png) |
+| hehe2 | `#hehe2#lm2` | ![hehe2](../assets/faces/lm2/hehe2.gif) | ![hehe2](../assets/faces_png/lm2/hehe2.png) |
 | photo | `#[photo]#lm2` | ![photo](../assets/faces/lm2/photo.gif) | ![photo](../assets/faces_png/lm2/photo.png) |
 | point1 | `#point1#lm2` | ![point1](../assets/faces/lm2/point1.gif) | ![point1](../assets/faces_png/lm2/point1.png) |
 | point2 | `#point2#lm2` | ![point2](../assets/faces/lm2/point2.gif) | ![point2](../assets/faces_png/lm2/point2.png) |
@@ -1362,19 +1309,24 @@ To 2030-12-31T15:59:59+00:00
 | donno | `#ng#lm2` | ![donno](../assets/faces/lm2/donno.gif) | ![donno](../assets/faces_png/lm2/donno.png) |
 | no | `#no#lm2` | ![no](../assets/faces/lm2/no.gif) | ![no](../assets/faces_png/lm2/no.png) |
 | brain | `#brain#lm2` | ![brain](../assets/faces/lm2/brain.gif) | ![brain](../assets/faces_png/lm2/brain.png) |
+| shock | `#shock#lm2` | ![shock](../assets/faces/lm2/shock.gif) | ![shock](../assets/faces_png/lm2/shock.png) |
+| fear | `#fear#lm2` | ![fear](../assets/faces/lm2/fear.gif) | ![fear](../assets/faces_png/lm2/fear.png) |
 | oh | `#:O#lm2` | ![oh](../assets/faces/lm2/oh.gif) | ![oh](../assets/faces_png/lm2/oh.png) |
 | bang | `#bang#lm2` | ![bang](../assets/faces/lm2/bang.gif) | ![bang](../assets/faces_png/lm2/bang.png) |
 | silly | `#silly#lm2` | ![silly](../assets/faces/lm2/silly.gif) | ![silly](../assets/faces_png/lm2/silly.png) |
 | 369 | `#[369]#lm2` | ![369](../assets/faces/lm2/369.gif) | ![369](../assets/faces_png/lm2/369.png) |
 | dllm | `#dllm#lm2` | ![dllm](../assets/faces/lm2/dllm.gif) | ![dllm](../assets/faces_png/lm2/dllm.png) |
+| what | `#what#lm2` | ![what](../assets/faces/lm2/what.gif) | ![what](../assets/faces_png/lm2/what.png) |
 | fuck | `#fuck#lm2` | ![fuck](../assets/faces/lm2/fuck.gif) | ![fuck](../assets/faces_png/lm2/fuck.png) |
 | bomb2 | `#[bomb2]#lm2` | ![bomb2](../assets/faces/lm2/bomb2.gif) | ![bomb2](../assets/faces_png/lm2/bomb2.png) |
 | bomb | `#[bomb]#lm2` | ![bomb](../assets/faces/lm2/bomb.gif) | ![bomb](../assets/faces_png/lm2/bomb.png) |
 | shoot | `#shoot#lm2` | ![shoot](../assets/faces/lm2/shoot.gif) | ![shoot](../assets/faces_png/lm2/shoot.png) |
 | hate | `#hate#lm2` | ![hate](../assets/faces/lm2/hate.gif) | ![hate](../assets/faces_png/lm2/hate.png) |
 | angry | `#:-[#lm2` | ![angry](../assets/faces/lm2/angry.gif) | ![angry](../assets/faces_png/lm2/angry.png) |
+| angry2 | `#angry2#lm2` | ![angry2](../assets/faces/lm2/angry2.gif) | ![angry2](../assets/faces_png/lm2/angry2.png) |
 | aura | `#aura#lm2` | ![aura](../assets/faces/lm2/aura.gif) | ![aura](../assets/faces_png/lm2/aura.png) |
 | saber | `#saber#lm2` | ![saber](../assets/faces/lm2/saber.gif) | ![saber](../assets/faces_png/lm2/saber.png) |
+| punch | `#punch#lm2` | ![punch](../assets/faces/lm2/punch.gif) | ![punch](../assets/faces_png/lm2/punch.png) |
 | danger | `#danger#lm2` | ![danger](../assets/faces/lm2/danger.gif) | ![danger](../assets/faces_png/lm2/danger.png) |
 | dislike | `#dislike#lm2` | ![dislike](../assets/faces/lm2/dislike.gif) | ![dislike](../assets/faces_png/lm2/dislike.png) |
 | good | `#good#lm2` | ![good](../assets/faces/lm2/good.gif) | ![good](../assets/faces_png/lm2/good.png) |
@@ -1384,13 +1336,17 @@ To 2030-12-31T15:59:59+00:00
 | rise | `#rise#lm2` | ![rise](../assets/faces/lm2/rise.gif) | ![rise](../assets/faces_png/lm2/rise.png) |
 | wfc | `#wfc#lm2` | ![wfc](../assets/faces/lm2/wfc.gif) | ![wfc](../assets/faces_png/lm2/wfc.png) |
 | think | `#think#lm2` | ![think](../assets/faces/lm2/think.gif) | ![think](../assets/faces_png/lm2/think.png) |
+| bandage | `#bandage#lm2` | ![bandage](../assets/faces/lm2/bandage.gif) | ![bandage](../assets/faces_png/lm2/bandage.png) |
 | adore | `#adore#lm2` | ![adore](../assets/faces/lm2/adore.gif) | ![adore](../assets/faces_png/lm2/adore.png) |
 | kiss2 | `#^3^#lm2` | ![kiss2](../assets/faces/lm2/kiss2.gif) | ![kiss2](../assets/faces_png/lm2/kiss2.png) |
 | kiss | `#kiss#lm2` | ![kiss](../assets/faces/lm2/kiss.gif) | ![kiss](../assets/faces_png/lm2/kiss.png) |
 | nothing | `#nothing#lm2` | ![nothing](../assets/faces/lm2/nothing.gif) | ![nothing](../assets/faces_png/lm2/nothing.png) |
 | flowerface | `#[flowerface]#lm2` | ![flowerface](../assets/faces/lm2/flowerface.gif) | ![flowerface](../assets/faces_png/lm2/flowerface.png) |
+| muscle | `#muscle#lm2` | ![muscle](../assets/faces/lm2/muscle.gif) | ![muscle](../assets/faces_png/lm2/muscle.png) |
+| tear | `#tear#lm2` | ![tear](../assets/faces/lm2/tear.gif) | ![tear](../assets/faces_png/lm2/tear.png) |
 | frown | `#:-(#lm2` | ![frown](../assets/faces/lm2/frown.gif) | ![frown](../assets/faces_png/lm2/frown.png) |
 | frownsmile | `#frownsmile#lm2` | ![frownsmile](../assets/faces/lm2/frownsmile.gif) | ![frownsmile](../assets/faces_png/lm2/frownsmile.png) |
+| angelsmile | `#angelsmile#lm2` | ![angelsmile](../assets/faces/lm2/angelsmile.gif) | ![angelsmile](../assets/faces_png/lm2/angelsmile.png) |
 | z | `#Z_Z#lm2` | ![z](../assets/faces/lm2/z.gif) | ![z](../assets/faces_png/lm2/z.png) |
 | noodles | `#noodles#lm2` | ![noodles](../assets/faces/lm2/noodles.gif) | ![noodles](../assets/faces_png/lm2/noodles.png) |
 | lightbulb | `#lightbulb#lm2` | ![lightbulb](../assets/faces/lm2/lightbulb.gif) | ![lightbulb](../assets/faces_png/lm2/lightbulb.png) |
@@ -1399,8 +1355,11 @@ To 2030-12-31T15:59:59+00:00
 | shocking | `#[shocking]#lm2` | ![shocking](../assets/faces/lm2/shocking.gif) | ![shocking](../assets/faces_png/lm2/shocking.png) |
 | @ | `#@_@#lm2` | ![@](../assets/faces/lm2/@.gif) | ![@](../assets/faces_png/lm2/@.png) |
 | yipes | `#[yipes]#lm2` | ![yipes](../assets/faces/lm2/yipes.gif) | ![yipes](../assets/faces_png/lm2/yipes.png) |
+| uggh | `#uggh#lm2` | ![uggh](../assets/faces/lm2/uggh.gif) | ![uggh](../assets/faces_png/lm2/uggh.png) |
 | cry | `#:~(#lm2` | ![cry](../assets/faces/lm2/cry.gif) | ![cry](../assets/faces_png/lm2/cry.png) |
 | dust | `#dust#lm2` | ![dust](../assets/faces/lm2/dust.gif) | ![dust](../assets/faces_png/lm2/dust.png) |
+| evil | `#evil#lm2` | ![evil](../assets/faces/lm2/evil.gif) | ![evil](../assets/faces_png/lm2/evil.png) |
+| ghost | `#ghost#lm2` | ![ghost](../assets/faces/lm2/ghost.gif) | ![ghost](../assets/faces_png/lm2/ghost.png) |
 | credit | `#credit#lm2` | ![credit](../assets/faces/lm2/credit.gif) | ![credit](../assets/faces_png/lm2/credit.png) |
 
 ## lm2lny [腦魔2新年版]
@@ -1541,10 +1500,15 @@ To 2025-02-02T16:00:00+00:00
 | poison | `#poison#fs` | ![poison](../assets/faces/fs/poison.gif) | ![poison](../assets/faces_png/fs/poison.png) |
 | pokemon_1 | `#poke1#fs` | ![pokemon_1](../assets/faces/fs/pokemon_1.gif) | ![pokemon_1](../assets/faces_png/fs/pokemon_1.png) |
 | pokemon_2 | `#poke2#fs` | ![pokemon_2](../assets/faces/fs/pokemon_2.gif) | ![pokemon_2](../assets/faces_png/fs/pokemon_2.png) |
-| smile_big | `#:)#b#fs` | ![smile_big](../assets/faces/fs/smile_big.gif) | ![smile_big](../assets/faces_png/fs/smile_big.png) |
 | superman | `#superman#fs` | ![superman](../assets/faces/fs/superman.gif) | ![superman](../assets/faces_png/fs/superman.png) |
 
 ## big [普通]
+
+### Show On
+From 1970-01-01T00:00:00+00:00
+
+To 1970-01-01T00:00:00+00:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#b` | ![smile](../assets/faces/big/smile.gif) | ![smile](../assets/faces_png/big/smile.png) |
@@ -1601,6 +1565,12 @@ To 2025-02-02T16:00:00+00:00
 | lomore_shocking | `#shocking#lm#b` | ![lomore_shocking](../assets/faces/big/lomore_shocking.gif) | ![lomore_shocking](../assets/faces_png/big/lomore_shocking.png) |
 
 ## lomoji [腦魔Moji]
+
+### Show On
+From 1970-01-01T00:00:00+00:00
+
+To 1970-01-01T00:00:00+00:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | 05 | `#:)#lme` | ![05](../assets/faces/lomoji/05.png) | ![05](../assets/faces_png/lomoji/05.png) |

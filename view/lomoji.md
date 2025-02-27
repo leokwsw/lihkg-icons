@@ -1,4 +1,10 @@
 ## lomoji [腦魔Moji]
+
+### Show On
+From 1970-01-01T00:00:00+00:00
+
+To 1970-01-01T00:00:00+00:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | 05 | `#:)#lme` | ![05](../assets/faces/lomoji/05.png) | ![05](../assets/faces_png/lomoji/05.png) |

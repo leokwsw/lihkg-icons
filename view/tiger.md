@@ -1,10 +1,4 @@
 ## tiger [連虎]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#tiger` | ![smile](../assets/faces/tiger/smile.gif) | ![smile](../assets/faces_png/tiger/smile.png) |

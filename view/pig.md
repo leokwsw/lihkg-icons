@@ -1,10 +1,4 @@
 ## pig [連豬]
-
-### Show On
-From 2024-12-31T15:59:59+00:00
-
-To 2030-12-31T15:59:59+00:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#pig` | ![smile](../assets/faces/pig/smile.gif) | ![smile](../assets/faces_png/pig/smile.png) |
