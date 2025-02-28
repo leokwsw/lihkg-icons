@@ -70,6 +70,6 @@ To 2022-12-20T00:00:00+08:00
 | usa | `#usa#fifa` | ![usa](../../assets/ios/faces/fifa/usa.gif) | ![usa](../../assets/ios/faces_png/fifa/usa.png) |
 | uruguay | `#uruguay#fifa` | ![uruguay](../../assets/ios/faces/fifa/uruguay.gif) | ![uruguay](../../assets/ios/faces_png/fifa/uruguay.png) |
 | wales | `#wales#fifa` | ![wales](../../assets/ios/faces/fifa/wales.gif) | ![wales](../../assets/ios/faces_png/fifa/wales.png) |
-| kill_connect | `#kill#fifa #slick#fifa` | ![kill_connect](../assets/faces/fifa/kill_connect.gif) | ![kill_connect](../assets/faces_png/fifa/kill_connect.png) |
-| kill2_connect | `#banghead#fifa #kill2#fifa` | ![kill2_connect](../assets/faces/fifa/kill2_connect.gif) | ![kill2_connect](../assets/faces_png/fifa/kill2_connect.png) |
+| kill_connect | `undefined` | ![kill_connect](../../assets/ios/faces/fifa/kill_connect.gif) | ![kill_connect](../../assets/ios/faces_png/fifa/kill_connect.png) |
+| kill2_connect | `undefined` | ![kill2_connect](../../assets/ios/faces/fifa/kill2_connect.gif) | ![kill2_connect](../../assets/ios/faces_png/fifa/kill2_connect.png) |
 

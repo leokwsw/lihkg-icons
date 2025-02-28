@@ -55,9 +55,9 @@ To 2024-12-31T23:59:59+08:00
 | surviving | `#surviving#pigxm` | ![surviving](../../assets/ios/faces/pigxm/surviving.gif) | ![surviving](../../assets/ios/faces_png/pigxm/surviving.png) |
 | free | `#free#pigxm` | ![free](../../assets/ios/faces/pigxm/free.gif) | ![free](../../assets/ios/faces_png/pigxm/free.png) |
 | lihkg | `#lihkg#pigxm` | ![lihkg](../../assets/ios/faces/pigxm/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/pigxm/lihkg.png) |
-| whip_special | `#play#pigxm #whip#pigxm` | ![whip_special](../assets/faces/pigxm/whip_special.gif) | ![whip_special](../assets/faces_png/pigxm/whip_special.png) |
-| whip_connect | `#whip#pigxm #fight2#dogxm` | ![whip_connect](../assets/faces/pigxm/whip_connect.gif) | ![whip_connect](../assets/faces_png/pigxm/whip_connect.png) |
-| knife_connect | `#fight1#dogxm #kill#pigxm` | ![knife_connect](../assets/faces/pigxm/knife_connect.gif) | ![knife_connect](../assets/faces_png/pigxm/knife_connect.png) |
-| argue_connect | `#stop#dogxm #argue#pigxm` | ![argue_connect](../assets/faces/pigxm/argue_connect.gif) | ![argue_connect](../assets/faces_png/pigxm/argue_connect.png) |
-| cook_connect | `#cooking#pigxm #fan#pigxm` | ![cook_connect](../assets/faces/pigxm/cook_connect.gif) | ![cook_connect](../assets/faces_png/pigxm/cook_connect.png) |
+| whip_special | `undefined` | ![whip_special](../../assets/ios/faces/pigxm/whip_special.gif) | ![whip_special](../../assets/ios/faces_png/pigxm/whip_special.png) |
+| whip_connect | `undefined` | ![whip_connect](../../assets/ios/faces/pigxm/whip_connect.gif) | ![whip_connect](../../assets/ios/faces_png/pigxm/whip_connect.png) |
+| knife_connect | `undefined` | ![knife_connect](../../assets/ios/faces/pigxm/knife_connect.gif) | ![knife_connect](../../assets/ios/faces_png/pigxm/knife_connect.png) |
+| argue_connect | `undefined` | ![argue_connect](../../assets/ios/faces/pigxm/argue_connect.gif) | ![argue_connect](../../assets/ios/faces_png/pigxm/argue_connect.png) |
+| cook_connect | `undefined` | ![cook_connect](../../assets/ios/faces/pigxm/cook_connect.gif) | ![cook_connect](../../assets/ios/faces_png/pigxm/cook_connect.png) |
 

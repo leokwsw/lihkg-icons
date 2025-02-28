@@ -84,5 +84,5 @@ To 2024-12-31T23:59:59+08:00
 | yipes | `#[yipes]#lm2xm` | ![yipes](../../assets/ios/faces/lm2xm/yipes.gif) | ![yipes](../../assets/ios/faces_png/lm2xm/yipes.png) |
 | cry | `#:~(#lm2xm` | ![cry](../../assets/ios/faces/lm2xm/cry.gif) | ![cry](../../assets/ios/faces_png/lm2xm/cry.png) |
 | dust | `#dust#lm2xm` | ![dust](../../assets/ios/faces/lm2xm/dust.gif) | ![dust](../../assets/ios/faces_png/lm2xm/dust.png) |
-| credit | `#credit#lm2xm` | ![credit](../assets/faces/lm2xm/credit.gif) | ![credit](../assets/faces_png/lm2xm/credit.png) |
+| credit | `undefined` | ![credit](../../assets/ios/faces/lm2xm/credit.gif) | ![credit](../../assets/ios/faces_png/lm2xm/credit.png) |
 

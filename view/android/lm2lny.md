@@ -84,5 +84,5 @@ To 2025-02-03T00:00:00+08:00
 | yipes | `#[yipes]#lm2lny` | ![yipes](../../assets/android/faces/lm2lny/yipes.gif) | ![yipes](../../assets/android/faces_png/lm2lny/yipes.png) |
 | cry | `#:~(#lm2lny` | ![cry](../../assets/android/faces/lm2lny/cry.gif) | ![cry](../../assets/android/faces_png/lm2lny/cry.png) |
 | dust | `#dust#lm2lny` | ![dust](../../assets/android/faces/lm2lny/dust.gif) | ![dust](../../assets/android/faces_png/lm2lny/dust.png) |
-| credit | `#credit#lm2lny` | ![credit](../assets/faces/lm2lny/credit.gif) | ![credit](../assets/faces_png/lm2lny/credit.png) |
+| credit | `undefined` | ![credit](../../assets/android/faces/lm2lny/credit.gif) | ![credit](../../assets/android/faces_png/lm2lny/credit.png) |
 

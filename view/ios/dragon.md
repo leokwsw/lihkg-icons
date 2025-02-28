@@ -35,9 +35,9 @@
 | z | `#z#dragon` | ![z](../../assets/ios/faces/dragon/z.gif) | ![z](../../assets/ios/faces_png/dragon/z.png) |
 | wind | `#wind#dragon` | ![wind](../../assets/ios/faces/dragon/wind.gif) | ![wind](../../assets/ios/faces_png/dragon/wind.png) |
 | lihkg | `#lihkg#dragon` | ![lihkg](../../assets/ios/faces/dragon/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/dragon/lihkg.png) |
-| angry_connect | `#spit#dragon #gun#mouse` | ![angry_connect](../assets/faces/dragon/angry_connect.gif) | ![angry_connect](../assets/faces_png/dragon/angry_connect.png) |
-| angry_connect2 | `#:-[#dragon #tired#mouse` | ![angry_connect2](../assets/faces/dragon/angry_connect2.gif) | ![angry_connect2](../assets/faces_png/dragon/angry_connect2.png) |
-| angry_special | `#:-[#dragon #midfinger#dragon` | ![angry_special](../assets/faces/dragon/angry_special.gif) | ![angry_special](../assets/faces_png/dragon/angry_special.png) |
-| backpain_connect | `#throw#cat #backpain#dragon` | ![backpain_connect](../assets/faces/dragon/backpain_connect.gif) | ![backpain_connect](../assets/faces_png/dragon/backpain_connect.png) |
-| wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../assets/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../assets/faces_png/dragon/wheelchair_connect.png) |
+| angry_connect | `undefined` | ![angry_connect](../../assets/ios/faces/dragon/angry_connect.gif) | ![angry_connect](../../assets/ios/faces_png/dragon/angry_connect.png) |
+| angry_connect2 | `undefined` | ![angry_connect2](../../assets/ios/faces/dragon/angry_connect2.gif) | ![angry_connect2](../../assets/ios/faces_png/dragon/angry_connect2.png) |
+| angry_special | `undefined` | ![angry_special](../../assets/ios/faces/dragon/angry_special.gif) | ![angry_special](../../assets/ios/faces_png/dragon/angry_special.png) |
+| backpain_connect | `undefined` | ![backpain_connect](../../assets/ios/faces/dragon/backpain_connect.gif) | ![backpain_connect](../../assets/ios/faces_png/dragon/backpain_connect.png) |
+| wheelchair_connect | `undefined` | ![wheelchair_connect](../../assets/ios/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../../assets/ios/faces_png/dragon/wheelchair_connect.png) |
 

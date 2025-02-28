@@ -30,10 +30,10 @@ To 1970-01-01T08:00:00+08:00
 | fight1 | `#fight1#husky` | ![fight1](../../assets/ios/faces/husky/fight1.gif) | ![fight1](../../assets/ios/faces_png/husky/fight1.png) |
 | fight2 | `#fight2#husky` | ![fight2](../../assets/ios/faces/husky/fight2.gif) | ![fight2](../../assets/ios/faces_png/husky/fight2.png) |
 | lihkg | `#lihkg#husky` | ![lihkg](../../assets/ios/faces/husky/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/husky/lihkg.png) |
-| beg_connect | `#give#husky #beg#husky` | ![beg_connect](../assets/faces/husky/beg_connect.gif) | ![beg_connect](../assets/faces_png/husky/beg_connect.png) |
-| beg_connect_AB | `#give#dog #beg#husky` | ![beg_connect_AB](../assets/faces/husky/beg_connect_AB.gif) | ![beg_connect_AB](../assets/faces_png/husky/beg_connect_AB.png) |
-| beg_connect_BA | `#give#husky #beg#dog` | ![beg_connect_BA](../assets/faces/husky/beg_connect_BA.gif) | ![beg_connect_BA](../assets/faces_png/husky/beg_connect_BA.png) |
-| fight_connect | `#fight1#husky #fight2#husky` | ![fight_connect](../assets/faces/husky/fight_connect.gif) | ![fight_connect](../assets/faces_png/husky/fight_connect.png) |
-| fight_connect_AB | `#fight1#dog #fight2#husky` | ![fight_connect_AB](../assets/faces/husky/fight_connect_AB.gif) | ![fight_connect_AB](../assets/faces_png/husky/fight_connect_AB.png) |
-| fight_connect_BA | `#fight1#husky #fight2#dog` | ![fight_connect_BA](../assets/faces/husky/fight_connect_BA.gif) | ![fight_connect_BA](../assets/faces_png/husky/fight_connect_BA.png) |
+| beg_connect | `undefined` | ![beg_connect](../../assets/ios/faces/husky/beg_connect.gif) | ![beg_connect](../../assets/ios/faces_png/husky/beg_connect.png) |
+| beg_connect_AB | `undefined` | ![beg_connect_AB](../../assets/ios/faces/husky/beg_connect_AB.gif) | ![beg_connect_AB](../../assets/ios/faces_png/husky/beg_connect_AB.png) |
+| beg_connect_BA | `undefined` | ![beg_connect_BA](../../assets/ios/faces/husky/beg_connect_BA.gif) | ![beg_connect_BA](../../assets/ios/faces_png/husky/beg_connect_BA.png) |
+| fight_connect | `undefined` | ![fight_connect](../../assets/ios/faces/husky/fight_connect.gif) | ![fight_connect](../../assets/ios/faces_png/husky/fight_connect.png) |
+| fight_connect_AB | `undefined` | ![fight_connect_AB](../../assets/ios/faces/husky/fight_connect_AB.gif) | ![fight_connect_AB](../../assets/ios/faces_png/husky/fight_connect_AB.png) |
+| fight_connect_BA | `undefined` | ![fight_connect_BA](../../assets/ios/faces/husky/fight_connect_BA.gif) | ![fight_connect_BA](../../assets/ios/faces_png/husky/fight_connect_BA.png) |
 

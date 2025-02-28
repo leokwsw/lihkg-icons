@@ -32,12 +32,12 @@ To 2024-12-31T23:59:59+08:00
 | rpg7 | `#rpg7#tigerxm` | ![rpg7](../../assets/ios/faces/tigerxm/rpg7.gif) | ![rpg7](../../assets/ios/faces_png/tigerxm/rpg7.png) |
 | lihkg | `#lihkg#tigerxm` | ![lihkg](../../assets/ios/faces/tigerxm/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/tigerxm/lihkg.png) |
 | lihkg2 | `#lihkg2#tigerxm` | ![lihkg2](../../assets/ios/faces/tigerxm/lihkg2.gif) | ![lihkg2](../../assets/ios/faces_png/tigerxm/lihkg2.png) |
-| fire_special | `#angry#tigerxm #fire#tigerxm` | ![fire_special](../assets/faces/tigerxm/fire_special.gif) | ![fire_special](../assets/faces_png/tigerxm/fire_special.png) |
-| sad_special | `#sad#tigerxm #happy#tigerxm` | ![sad_special](../assets/faces/tigerxm/sad_special.gif) | ![sad_special](../assets/faces_png/tigerxm/sad_special.png) |
-| shock_special | `#oh#tigerxm #nlhg#tigerxm` | ![shock_special](../assets/faces/tigerxm/shock_special.gif) | ![shock_special](../assets/faces_png/tigerxm/shock_special.png) |
-| like_special | `#like#tigerxm #like#tigerxm` | ![like_special](../assets/faces/tigerxm/like_special.gif) | ![like_special](../assets/faces_png/tigerxm/like_special.png) |
-| punch_special | `#punchbag#tigerxm #angry#tigerxm` | ![punch_special](../assets/faces/tigerxm/punch_special.gif) | ![punch_special](../assets/faces_png/tigerxm/punch_special.png) |
-| punchbag_connect | `#punchbag#tigerxm #fight2#dogxm` | ![punchbag_connect](../assets/faces/tigerxm/punchbag_connect.gif) | ![punchbag_connect](../assets/faces_png/tigerxm/punchbag_connect.png) |
-| lihkg_connect | `#lihkg#tigerxm #drum#pigxm` | ![lihkg_connect](../assets/faces/tigerxm/lihkg_connect.gif) | ![lihkg_connect](../assets/faces_png/tigerxm/lihkg_connect.png) |
-| money_connect | `#money#tigerxm #sorry#cowxm` | ![money_connect](../assets/faces/tigerxm/money_connect.gif) | ![money_connect](../assets/faces_png/tigerxm/money_connect.png) |
+| fire_special | `undefined` | ![fire_special](../../assets/ios/faces/tigerxm/fire_special.gif) | ![fire_special](../../assets/ios/faces_png/tigerxm/fire_special.png) |
+| sad_special | `undefined` | ![sad_special](../../assets/ios/faces/tigerxm/sad_special.gif) | ![sad_special](../../assets/ios/faces_png/tigerxm/sad_special.png) |
+| shock_special | `undefined` | ![shock_special](../../assets/ios/faces/tigerxm/shock_special.gif) | ![shock_special](../../assets/ios/faces_png/tigerxm/shock_special.png) |
+| like_special | `undefined` | ![like_special](../../assets/ios/faces/tigerxm/like_special.gif) | ![like_special](../../assets/ios/faces_png/tigerxm/like_special.png) |
+| punch_special | `undefined` | ![punch_special](../../assets/ios/faces/tigerxm/punch_special.gif) | ![punch_special](../../assets/ios/faces_png/tigerxm/punch_special.png) |
+| punchbag_connect | `undefined` | ![punchbag_connect](../../assets/ios/faces/tigerxm/punchbag_connect.gif) | ![punchbag_connect](../../assets/ios/faces_png/tigerxm/punchbag_connect.png) |
+| lihkg_connect | `undefined` | ![lihkg_connect](../../assets/ios/faces/tigerxm/lihkg_connect.gif) | ![lihkg_connect](../../assets/ios/faces_png/tigerxm/lihkg_connect.png) |
+| money_connect | `undefined` | ![money_connect](../../assets/ios/faces/tigerxm/money_connect.gif) | ![money_connect](../../assets/ios/faces_png/tigerxm/money_connect.png) |
 

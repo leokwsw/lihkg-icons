@@ -105,5 +105,5 @@
 | burnt | `#burnt#lm2` | ![burnt](../../assets/ios/faces/lm2/burnt.gif) | ![burnt](../../assets/ios/faces_png/lm2/burnt.png) |
 | evil | `#evil#lm2` | ![evil](../../assets/ios/faces/lm2/evil.gif) | ![evil](../../assets/ios/faces_png/lm2/evil.png) |
 | ghost | `#ghost#lm2` | ![ghost](../../assets/ios/faces/lm2/ghost.gif) | ![ghost](../../assets/ios/faces_png/lm2/ghost.png) |
-| credit | `#credit#lm2` | ![credit](../assets/faces/lm2/credit.gif) | ![credit](../assets/faces_png/lm2/credit.png) |
+| credit | `undefined` | ![credit](../../assets/ios/faces/lm2/credit.gif) | ![credit](../../assets/ios/faces_png/lm2/credit.png) |
 

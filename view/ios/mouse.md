@@ -38,7 +38,7 @@
 | rubbish | `#rubbish#mouse` | ![rubbish](../../assets/ios/faces/mouse/rubbish.gif) | ![rubbish](../../assets/ios/faces_png/mouse/rubbish.png) |
 | wind | `#wind#mouse` | ![wind](../../assets/ios/faces/mouse/wind.gif) | ![wind](../../assets/ios/faces_png/mouse/wind.png) |
 | lihkg | `#lihkg#mouse` | ![lihkg](../../assets/ios/faces/mouse/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/mouse/lihkg.png) |
-| smile_special | `#:)#mouse #stare#cat` | ![smile_special](../assets/faces/mouse/smile_special.gif) | ![smile_special](../assets/faces_png/mouse/smile_special.png) |
-| vampire_special | `#awake#mouse #vampire#mouse` | ![vampire_special](../assets/faces/mouse/vampire_special.gif) | ![vampire_special](../assets/faces_png/mouse/vampire_special.png) |
-| miracle_special | `#pray#mouse #please#mouse #miracle#mouse` | ![miracle_special](../assets/faces/mouse/miracle_special.gif) | ![miracle_special](../assets/faces_png/mouse/miracle_special.png) |
+| smile_special | `undefined` | ![smile_special](../../assets/ios/faces/mouse/smile_special.gif) | ![smile_special](../../assets/ios/faces_png/mouse/smile_special.png) |
+| vampire_special | `undefined` | ![vampire_special](../../assets/ios/faces/mouse/vampire_special.gif) | ![vampire_special](../../assets/ios/faces_png/mouse/vampire_special.png) |
+| miracle_special | `undefined` | ![miracle_special](../../assets/ios/faces/mouse/miracle_special.gif) | ![miracle_special](../../assets/ios/faces_png/mouse/miracle_special.png) |
 

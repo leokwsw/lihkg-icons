@@ -34,7 +34,7 @@
 | car | `#car#cow` | ![car](../../assets/ios/faces/cow/car.gif) | ![car](../../assets/ios/faces_png/cow/car.png) |
 | linguistic | `#linguistic#cow` | ![linguistic](../../assets/ios/faces/cow/linguistic.gif) | ![linguistic](../../assets/ios/faces_png/cow/linguistic.png) |
 | lihkg | `#lihkg#cow` | ![lihkg](../../assets/ios/faces/cow/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/cow/lihkg.png) |
-| power_special | `#gold#cow #power#cow` | ![power_special](../assets/faces/cow/power_special.gif) | ![power_special](../assets/faces_png/cow/power_special.png) |
-| bus_special | `#crowd#cow #bus#cow` | ![bus_special](../assets/faces/cow/bus_special.gif) | ![bus_special](../assets/faces_png/cow/bus_special.png) |
-| grab_connect | `#grab#cow #beg#dog` | ![grab_connect](../assets/faces/cow/grab_connect.gif) | ![grab_connect](../assets/faces_png/cow/grab_connect.png) |
+| power_special | `undefined` | ![power_special](../../assets/ios/faces/cow/power_special.gif) | ![power_special](../../assets/ios/faces_png/cow/power_special.png) |
+| bus_special | `undefined` | ![bus_special](../../assets/ios/faces/cow/bus_special.gif) | ![bus_special](../../assets/ios/faces_png/cow/bus_special.png) |
+| grab_connect | `undefined` | ![grab_connect](../../assets/ios/faces/cow/grab_connect.gif) | ![grab_connect](../../assets/ios/faces_png/cow/grab_connect.png) |
 

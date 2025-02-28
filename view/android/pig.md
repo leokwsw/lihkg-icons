@@ -44,9 +44,9 @@
 | surviving | `#surviving#pig` | ![surviving](../../assets/android/faces/pig/surviving.gif) | ![surviving](../../assets/android/faces_png/pig/surviving.png) |
 | free | `#free#pig` | ![free](../../assets/android/faces/pig/free.gif) | ![free](../../assets/android/faces_png/pig/free.png) |
 | lihkg | `#lihkg#pig` | ![lihkg](../../assets/android/faces/pig/lihkg.gif) | ![lihkg](../../assets/android/faces_png/pig/lihkg.png) |
-| whip_special | `#play#pig #whip#pig` | ![whip_special](../assets/faces/pig/whip_special.gif) | ![whip_special](../assets/faces_png/pig/whip_special.png) |
-| whip_connect | `#whip#pig #fight2#dog` | ![whip_connect](../assets/faces/pig/whip_connect.gif) | ![whip_connect](../assets/faces_png/pig/whip_connect.png) |
-| knife_connect | `#fight1#dog #kill#pig` | ![knife_connect](../assets/faces/pig/knife_connect.gif) | ![knife_connect](../assets/faces_png/pig/knife_connect.png) |
-| cook_connect | `#cooking#pig #fan#pig` | ![cook_connect](../assets/faces/pig/cook_connect.gif) | ![cook_connect](../assets/faces_png/pig/cook_connect.png) |
-| wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../assets/faces/pig/wine_connect.gif) | ![wine_connect](../assets/faces_png/pig/wine_connect.png) |
+| whip_special | `undefined` | ![whip_special](../../assets/android/faces/pig/whip_special.gif) | ![whip_special](../../assets/android/faces_png/pig/whip_special.png) |
+| whip_connect | `undefined` | ![whip_connect](../../assets/android/faces/pig/whip_connect.gif) | ![whip_connect](../../assets/android/faces_png/pig/whip_connect.png) |
+| knife_connect | `undefined` | ![knife_connect](../../assets/android/faces/pig/knife_connect.gif) | ![knife_connect](../../assets/android/faces_png/pig/knife_connect.png) |
+| cook_connect | `undefined` | ![cook_connect](../../assets/android/faces/pig/cook_connect.gif) | ![cook_connect](../../assets/android/faces_png/pig/cook_connect.png) |
+| wine_connect | `undefined` | ![wine_connect](../../assets/android/faces/pig/wine_connect.gif) | ![wine_connect](../../assets/android/faces_png/pig/wine_connect.png) |
 
