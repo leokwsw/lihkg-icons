@@ -1,0 +1,26 @@
+[{
+  "thumbnail": "/assets/thumbnail/pattern_dog.jpg",
+  "origin": "https://cdn.lihkg.com/wp/an/pattern_dog.jpg",
+  "preset_blur" : 0,
+  "preset_brightness" : 15
+},{
+  "thumbnail": "/assets/thumbnail/pattern_pig.jpg",
+  "origin": "https://cdn.lihkg.com/wp/an/pattern_pig.jpg",
+  "preset_blur" : 0,
+  "preset_brightness" : 12
+},{
+  "thumbnail": "/assets/thumbnail/static_1.jpg",
+  "origin": "https://cdn.lihkg.com/wp/an/static_1.jpg",
+  "preset_blur" : 4,
+  "preset_brightness" : 30
+},{
+  "thumbnail": "/assets/thumbnail/static_2.jpg",
+  "origin": "https://cdn.lihkg.com/wp/an/static_2.jpg",
+  "preset_blur" : 4,
+  "preset_brightness" : 30
+},{
+  "thumbnail": "/assets/thumbnail/static_3.jpg",
+  "origin": "https://cdn.lihkg.com/wp/an/static_3.jpg",
+  "preset_blur" : 4,
+  "preset_brightness" : 30
+}]

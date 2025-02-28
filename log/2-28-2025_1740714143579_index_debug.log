@@ -1,0 +1,97 @@
+{
+  title: 'Google Translate',
+  description: '• Text translation: Translate between 108 languages by typing\n' +
+    '• Tap to Translate: Copy text in any app and tap the Google Translate icon to translate (all languages)\n' +
+    '• Offline: Translate with no internet connection (59 languages)\n' +
+    '• Instant camera translation: Translate text in images instantly by just pointing your camera (94 languages)\n' +
+    '• Photos: Take or import photos for higher quality translations (90 languages)\n' +
+    '• Conversations: Translate bilingual conversations on the fly (70 languages)\n' +
+    '• Handwriting: Draw text characters instead of typing (96 languages)\n' +
+    '• Phrasebook: Star and save translated words and phrases for future reference (all languages)\n' +
+    '• Cross-device syncing: Login to sync phrasebook between app and desktop\n' +
+    '• Transcribe: Continuously translate someone speaking a different language in near real-time (8 languages)\n' +
+    '\n' +
+    'Translations between the following languages are supported:\n' +
+    'Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Aymara, Azerbaijani, Bambara, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Bulgarian, Catalan, Cebuano, Chichewa, Chinese (Simplified), Chinese (Traditional), Corsican, Croatian, Czech, Danish, Dhivehi, Dogri, Dutch, English, Esperanto, Estonian, Ewe, Filipino, Finnish, French, Frisian, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Ilocano, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latin, Latvian, Lingala, Lithuanian, Luganda, Luxembourgish, Macedonian, Maithili, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Meiteilon (Manipuri), Mizo, Mongolian, Myanmar (Burmese), Nepali, Norwegian, Odia (Oriya), Oromo, Pashto, Persian, Polish, Portuguese, Punjabi, Quechua, Romanian, Russian, Samoan, Sanskrit, Scots Gaelic, Sepedi, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Tigrinya, Tsonga, Turkish, Turkmen, Twi, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu\n' +
+    '\n' +
+    'Permissions Notice\n' +
+    'Google Translate may ask for the following optional permissions*:\n' +
+    '• Microphone for speech translation\n' +
+    '• Camera for translating text via the camera\n' +
+    '• External storage for downloading offline translation data\n' +
+    '• Contacts for setup and management of your account\n' +
+    '\n' +
+    '*Note: The app may be used even if optional permissions are not granted.',
+  descriptionHTML: '• Text translation: Translate between 108 languages by typing<br>• Tap to Translate: Copy text in any app and tap the Google Translate icon to translate (all languages)<br>• Offline: Translate with no internet connection (59 languages)<br>• Instant camera translation: Translate text in images instantly by just pointing your camera (94 languages)<br>• Photos: Take or import photos for higher quality translations (90 languages)<br>• Conversations: Translate bilingual conversations on the fly (70 languages)<br>• Handwriting: Draw text characters instead of typing (96 languages)<br>• Phrasebook: Star and save translated words and phrases for future reference (all languages)<br>• Cross-device syncing: Login to sync phrasebook between app and desktop<br>• Transcribe: Continuously translate someone speaking a different language in near real-time (8 languages)<br><br>Translations between the following languages are supported:<br>Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Aymara, Azerbaijani, Bambara, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Bulgarian, Catalan, Cebuano, Chichewa, Chinese (Simplified), Chinese (Traditional), Corsican, Croatian, Czech, Danish, Dhivehi, Dogri, Dutch, English, Esperanto, Estonian, Ewe, Filipino, Finnish, French, Frisian, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Ilocano, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latin, Latvian, Lingala, Lithuanian, Luganda, Luxembourgish, Macedonian, Maithili, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Meiteilon (Manipuri), Mizo, Mongolian, Myanmar (Burmese), Nepali, Norwegian, Odia (Oriya), Oromo, Pashto, Persian, Polish, Portuguese, Punjabi, Quechua, Romanian, Russian, Samoan, Sanskrit, Scots Gaelic, Sepedi, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Tigrinya, Tsonga, Turkish, Turkmen, Twi, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu<br><br>Permissions Notice<br>Google Translate may ask for the following optional permissions*:<br>• Microphone for speech translation<br>• Camera for translating text via the camera<br>• External storage for downloading offline translation data<br>• Contacts for setup and management of your account<br><br>*Note: The app may be used even if optional permissions are not granted.',
+  summary: 'The world is closer than ever with over 100 languages',
+  installs: '1,000,000,000+',
+  minInstalls: 1000000000,
+  maxInstalls: 1445652817,
+  score: 4.269186,
+  scoreText: '4.3',
+  ratings: 9006438,
+  reviews: 188100,
+  histogram: { '1': 980959, '2': 290053, '3': 458911, '4': 870178, '5': 6406316 },
+  price: 0,
+  originalPrice: undefined,
+  discountEndDate: undefined,
+  free: true,
+  currency: 'USD',
+  priceText: 'Free',
+  available: true,
+  offersIAP: false,
+  IAPRange: undefined,
+  androidVersion: 'VARY',
+  androidVersionText: 'Varies with device',
+  androidMaxVersion: 'VARY',
+  developer: 'Google LLC',
+  developerId: '5700313618786177705',
+  developerEmail: 'translate-mobile-support@google.com',
+  developerWebsite: 'http://support.google.com/translate',
+  developerAddress: '1600 Amphitheatre Parkway, Mountain View 94043',
+  developerLegalName: 'Google LLC',
+  developerLegalEmail: 'support@google.com',
+  developerLegalAddress: '1600 Amphitheatre Pkwy, Mountain View, CA 94043, United States',
+  developerLegalPhoneNumber: '+1 650-253-0000',
+  privacyPolicy: 'http://www.google.com/policies/privacy/',
+  developerInternalID: '5700313618786177705',
+  genre: 'Tools',
+  genreId: 'TOOLS',
+  categories: [ { name: 'Tools', id: 'TOOLS' } ],
+  icon: 'https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA',
+  headerImage: 'https://play-lh.googleusercontent.com/e4Sfy0cOmqpike76V6N6n-tDVbtbmt6MxbnbkKBZ_7hPHZRfsCeZhMBZK8eFDoDa1Vf-',
+  screenshots: [
+    'https://play-lh.googleusercontent.com/ZoSP1VfNTX1xNDW0VQKZkyfacz-UT-Rp6T2HCmwt-PWU3BCPseBUn34XzMCLkwBrw3I',
+    'https://play-lh.googleusercontent.com/bFSIzhZcc4ZqrpUa5PrVJM3NZE72yKb-WJvw_DZJAN5yNWPYggPQnV__v9p-yJJ7iCI',
+    'https://play-lh.googleusercontent.com/ZtJcUzdsRdpvZlaecTB1tkxkYfDrKdjJ1RY1l507dJGQcgifZ7qzCP9sO9go_bVDtZf2',
+    'https://play-lh.googleusercontent.com/yvb-wnjnNpjvhLfByPdz57VcAlGi2aqTdM9lO3MgYl5dG0UKGFYON9PVnqX5cVZUvg',
+    'https://play-lh.googleusercontent.com/y84tB3QBTZOcMlwcrKIJZa8JWZPR-JvnYZGZgJmmacPlODSpYcAFMUJOgTlaYYRurBc',
+    'https://play-lh.googleusercontent.com/Ua4roghJ3ZsQR92exHH8SYXJAFmibJBvZf0ERUNJIVUzSplZNWgY1D35QLCkbnhIT7w',
+    'https://play-lh.googleusercontent.com/yGIyPUq0vYqwmNaULIMDZJs5DygY1LUxdpcJhiwgu4TZAzUoAXCk6sPSLVnKnu5j-ds',
+    'https://play-lh.googleusercontent.com/fJkJ6iKd_kgMaVIwWWH3K4tZNFOZpwa3BvSoTysBEytLAveWMERGDs_GlnqTRgyBBVM',
+    'https://play-lh.googleusercontent.com/OJCN4BTNewoJiichKJXuxpjgYs1shyubWrC1cpClap4Nh1C4w2rL8hPihfbMbIqss1h8',
+    'https://play-lh.googleusercontent.com/UT9XHHiSrgxVT2obEe4cXIxPcLjDrDjd0XSQnbebFWR2DCrVLLPBkJgZZLn6yiFxUSL2',
+    'https://play-lh.googleusercontent.com/RvqAet_s5lHqUiq6BRPByRnh5l0MHM7Ht96v-gCo1CWPvEPYIzw54WTJGPcDO3MoZMw',
+    'https://play-lh.googleusercontent.com/Lh9cP_zkQ21AouP33N1oiK0LzuXPDhDE4LiZe_2Ws_j6m-ldOMpuosnLa9sYXLtHx58',
+    'https://play-lh.googleusercontent.com/xstAMvA33OJhdxlaTow-022SM0ufOSiiz0NMP6xpmcSka9m8coIsYF5KmPNIWpuhva4',
+    'https://play-lh.googleusercontent.com/AFRqMJCcaPwSwDLLFg_721s4skOwdm0lvJ3YJ_PEUb2BT1Xnv21j_v1iixkOV5yDq4g',
+    'https://play-lh.googleusercontent.com/RVBzHnQia932MqRbUOg1tVtnbyJGHn3r3kaaVjv6M_54qlSZH8jsjBz80L3VfQi0RXQ'
+  ],
+  video: undefined,
+  videoImage: undefined,
+  previewVideo: undefined,
+  contentRating: 'Everyone',
+  contentRatingDescription: undefined,
+  adSupported: false,
+  released: undefined,
+  updated: 1740603750000,
+  version: 'VARY',
+  recentChanges: 'Bug fixes and improvements',
+  comments: [],
+  preregister: false,
+  earlyAccessEnabled: false,
+  isAvailableInPlayPass: false,
+  appId: 'com.google.android.apps.translate',
+  url: 'https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en&gl=us'
+}
+iOS version : 4.0

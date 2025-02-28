@@ -1,0 +1,79 @@
+{
+  title: 'LIHKG 討論區',
+  description: 'The purpose of the LIHKG discussion area is free discussion, where you can speak freely!\n' +
+    'Quickly browse hot topics in the city, gather current affairs, entertainment, creativity, and daily life discussions!\n' +
+    "Members are the core of the discussion forum, and they will definitely accept and follow up on everyone's opinions.\n" +
+    '\n' +
+    '• Well-designed interface\n' +
+    '• Multimedia viewing mode: view videos and photos of all topics at once\n' +
+    '• Custom interface settings, black and white themes, optional background\n' +
+    '• Leave a name and subscribe to track members\n' +
+    '• Topic shortcuts: quickly access the topics you are most interested in\n' +
+    '• Notification Center: Keep up with the latest discussions\n' +
+    '\n' +
+    '\n' +
+    'More functions will be launched one after another, pay close attention',
+  descriptionHTML: 'The purpose of the LIHKG discussion area is free discussion, where you can speak freely!<br>Quickly browse hot topics in the city, gather current affairs, entertainment, creativity, and daily life discussions!<br>Members are the core of the discussion forum, and they will definitely accept and follow up on everyone&#39;s opinions.<br><br>• Well-designed interface<br>• Multimedia viewing mode: view videos and photos of all topics at once<br>• Custom interface settings, black and white themes, optional background<br>• Leave a name and subscribe to track members<br>• Topic shortcuts: quickly access the topics you are most interested in<br>• Notification Center: Keep up with the latest discussions<br><br><br>More functions will be launched one after another, pay close attention',
+  summary: 'The purpose of the LIHKG discussion area is free discussion, where you can speak freely!\n' +
+    'Quickly browse hot topics in the city, gather current affairs, entertainment, creativity, and daily life discussions!',
+  installs: '500,000+',
+  minInstalls: 500000,
+  maxInstalls: 661778,
+  score: 3.39,
+  scoreText: '3.4',
+  ratings: 5970,
+  reviews: 53,
+  histogram: { '1': 2120, '2': 39, '3': 157, '4': 471, '5': 3102 },
+  price: 0,
+  originalPrice: undefined,
+  discountEndDate: undefined,
+  free: true,
+  currency: 'USD',
+  priceText: 'Free',
+  available: true,
+  offersIAP: false,
+  IAPRange: undefined,
+  androidVersion: '5.0',
+  androidVersionText: '5.0',
+  androidMaxVersion: 'VARY',
+  developer: 'LIHKG',
+  developerId: 'LIHKG',
+  developerEmail: 'admin@lihkg.com',
+  developerWebsite: 'https://lihkg.com',
+  developerAddress: undefined,
+  developerLegalName: '許業珩',
+  developerLegalEmail: 'info@lihkg.com',
+  developerLegalAddress: 'Taiwan',
+  developerLegalPhoneNumber: undefined,
+  privacyPolicy: 'https://help.lihkg.com/privacy/policy/',
+  developerInternalID: 'LIHKG',
+  genre: 'Social',
+  genreId: 'SOCIAL',
+  categories: [ { name: 'Social', id: 'SOCIAL' } ],
+  icon: 'https://play-lh.googleusercontent.com/ztTzXjfodzR-FpE1mrJHLj1JsoAp9CTdZBdljzROfhqjDvUNh-jK6gFkfxcB8z0eQA',
+  headerImage: 'https://play-lh.googleusercontent.com/cYYI_iSIeAFjMFsZC9aDN-jBYEKbgu72L3DLE3bIRRprXfj5J0KR3SFpVNjkUGqbPSc',
+  screenshots: [
+    'https://play-lh.googleusercontent.com/c5DNxbE6dGjYpuQKxNkYCLooLDkh8x0_dXQLpPLNnC3tXmPsg3Vc95OJJFx3MDIjqC0',
+    'https://play-lh.googleusercontent.com/vZPBjEJwrCwd054QVHanMWocjF_FOh_MpUfXc5ggaYsu6lYeiiVSi2d5ltFsJIRsGsY',
+    'https://play-lh.googleusercontent.com/Y9wMEuzV7HUPR6AScYSkezHvO5qUWuWxOhQkC8MXgK-mLllhfeSoAeeakrBY7ih05Yk',
+    'https://play-lh.googleusercontent.com/6E6UZfXws0hxzzr4DpQbB1a5iDLj6gaObwL0mOzraivHuKNMX7yTLTfZGvZ_h7xCmHM'
+  ],
+  video: undefined,
+  videoImage: undefined,
+  previewVideo: undefined,
+  contentRating: 'Mature 17+',
+  contentRatingDescription: undefined,
+  adSupported: true,
+  released: 'Nov 28, 2016',
+  updated: 1740647618000,
+  version: '17.2.8',
+  recentChanges: '修復錯誤並提升效能，改善使用體驗。',
+  comments: [],
+  preregister: false,
+  earlyAccessEnabled: false,
+  isAvailableInPlayPass: false,
+  appId: 'com.lihkg.app',
+  url: 'https://play.google.com/store/apps/details?id=com.lihkg.app&hl=en&gl=us'
+}
+iOS version : 4.0
+assetUrl : https://cdn.lihkg.com/upload/patch/ios.1100b.zip
