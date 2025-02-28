@@ -1,0 +1,38 @@
+iOS version : 4.0
+res
+{
+  success: 1,
+  server_time: 1740679982,
+  response: {
+    asset: { version: '1052', patch: [Array] },
+    lihkg: false,
+    category_list: [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    fixed_category_list: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    config: {
+      is_gm: false,
+      game_version: 2,
+      sticker_version: 2,
+      uploader: [Array],
+      wbu: 'https://lihkg.com/',
+      swbu: 'https://lih.kg/',
+      pub: 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzaOFjfmDduFR4znfDEgWLotEj8t1nlZDPzG80LvqA+QzFpy/ZXRQhjsQ1hLLGGS5+DL2j1vo6SMt68LjKndMPEKv+B8pJYkBZFqobQXa6As3qfbT3Tqb1vy0C6sXQKn/l2B8p0GSzeZ84BoyrPVNJGf1PB/yUXBihAFklJrtC/jLALq93er0hpuKc7ueRxIV7sEp3uDJpAKlZFYEQj46K1V+9F91Imyea1Hud68lH9WCLTdXhtQ4ALs0/d4p/S8WLhtp33MJvAMuxxISJsNUJ9W+EqsnQVzC2CUF1t5VUUujpEcd9PeSqOwYyfKRUr9Tjb/aPVP5qZXIvE/Cdpy0iwIDAQAB',
+      dm: true,
+      dsp: true,
+      ios: [Object],
+      dz: true
+    }
+  }
+}
+assetUrl : https://cdn.lihkg.com/upload/patch/ios.1052u.zip

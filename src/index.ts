@@ -9,6 +9,8 @@ import * as moment from 'moment-timezone';
 import 'moment/locale/zh-hk';
 import {importLog} from "./saveLog";
 
+moment.tz.setDefault("Asia/Hong_Kong");
+
 // @ts-ignore
 const {JSDOM} = jsdom
 
@@ -60,25 +62,24 @@ function searchBracket(text: string): number {
 (async _ => {
   importLog("index")
 
-  moment.tz.setDefault("Asia/HongKong");
+  moment.tz.setDefault("Asia/Hong_Kong");
   const jar = rp.jar()
 
   let versionRes = await rp("https://itunes.apple.com/lookup?bundleId=com.lihkg.forum-ios")
-  let version = JSON.parse(versionRes)["results"][0]["version"]
+  let version: string = JSON.parse(versionRes)["results"][0]["version"]
 
   console.log("iOS version : " + version)
 
   let res = await rp({
-    url: "https://lihkg.com/api_v2/system/property",
+    method: "POST",
+    url: "https://lihkg.com/api_v2/system/property?asset_v=0",
     headers: {
-      "User-Agent": `LIHKG/${version} iOS/14.7.1 iPhone/iPhone 6s`
+      "X-LI-USER": "1",
+      "Content-Type": "application/x-www-form-urlencoded",
+      "User-Agent": `LIHKG/4.00 iOS/18.3.1 iPhone/iPhone16,1`,
     },
-    jar: jar
+    jar: jar,
   })
-
-
-  console.log("res")
-  console.log(res)
 
   let assetUrl = JSON.parse(res)["response"]["asset"]["patch"][0]["url"]
   let fileName: string = assetUrl.split("/")[assetUrl.split("/").length - 1]
@@ -100,7 +101,7 @@ function searchBracket(text: string): number {
     const fileSizeInMegabytes = fileSizeInBytes / (1024 * 1024);
 
     if (fileSizeInMegabytes > 0) {
-      let folderName = fileName.split(".")[0]
+      let folderName = fileName.replace(".zip", "").replace(".", "/")
 
       const zip = new AdmZip(fileName);
 
@@ -208,8 +209,8 @@ function searchBracket(text: string): number {
             if (Object.keys(showOnObj).includes("keywords")) {
               viewContent += `Keywords : ${(showOnObj["keywords"] as string[]).join(", ")}\n`
             } else if (Object.keys(showOnObj).includes("start_time") && Object.keys(showOnObj).includes("end_time")) {
-              viewContent += `From ${moment(showOnObj["start_time"]).tz("Asia/HongKong").format()}\n\n`
-              viewContent += `To ${moment(showOnObj["end_time"]).tz("Asia/HongKong").format()}\n`
+              viewContent += `From ${moment(showOnObj["start_time"]).tz("Asia/Hong_Kong").format()}\n\n`
+              viewContent += `To ${moment(showOnObj["end_time"]).tz("Asia/Hong_Kong").format()}\n`
             } else if (Object.keys(showOnObj).includes("user_ids")) {
               viewContent += `User ID: ${(showOnObj["user_ids"] as string[]).join(", ")}\n`
             } else {
