@@ -44,9 +44,9 @@
 | surviving | `#surviving#pig` | ![surviving](../../assets/ios/faces/pig/surviving.gif) | ![surviving](../../assets/ios/faces_png/pig/surviving.png) |
 | free | `#free#pig` | ![free](../../assets/ios/faces/pig/free.gif) | ![free](../../assets/ios/faces_png/pig/free.png) |
 | lihkg | `#lihkg#pig` | ![lihkg](../../assets/ios/faces/pig/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/pig/lihkg.png) |
-| whip_special | `undefined` | ![whip_special](../../assets/ios/faces/pig/whip_special.gif) | ![whip_special](../../assets/ios/faces_png/pig/whip_special.png) |
-| whip_connect | `undefined` | ![whip_connect](../../assets/ios/faces/pig/whip_connect.gif) | ![whip_connect](../../assets/ios/faces_png/pig/whip_connect.png) |
-| knife_connect | `undefined` | ![knife_connect](../../assets/ios/faces/pig/knife_connect.gif) | ![knife_connect](../../assets/ios/faces_png/pig/knife_connect.png) |
-| cook_connect | `undefined` | ![cook_connect](../../assets/ios/faces/pig/cook_connect.gif) | ![cook_connect](../../assets/ios/faces_png/pig/cook_connect.png) |
-| wine_connect | `undefined` | ![wine_connect](../../assets/ios/faces/pig/wine_connect.gif) | ![wine_connect](../../assets/ios/faces_png/pig/wine_connect.png) |
+| whip_special | `#play#pig #whip#pig` | ![whip_special](../../assets/ios/faces/pig/whip_special.gif) | ![whip_special](../../assets/ios/faces_png/pig/whip_special.png) |
+| whip_connect | `#whip#pig #fight2#dog` | ![whip_connect](../../assets/ios/faces/pig/whip_connect.gif) | ![whip_connect](../../assets/ios/faces_png/pig/whip_connect.png) |
+| knife_connect | `#fight1#dog #kill#pig` | ![knife_connect](../../assets/ios/faces/pig/knife_connect.gif) | ![knife_connect](../../assets/ios/faces_png/pig/knife_connect.png) |
+| cook_connect | `#cooking#pig #fan#pig` | ![cook_connect](../../assets/ios/faces/pig/cook_connect.gif) | ![cook_connect](../../assets/ios/faces_png/pig/cook_connect.png) |
+| wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../../assets/ios/faces/pig/wine_connect.gif) | ![wine_connect](../../assets/ios/faces_png/pig/wine_connect.png) |
 

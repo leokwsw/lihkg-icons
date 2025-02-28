@@ -34,7 +34,7 @@
 | car | `#car#cow` | ![car](../../assets/android/faces/cow/car.gif) | ![car](../../assets/android/faces_png/cow/car.png) |
 | linguistic | `#linguistic#cow` | ![linguistic](../../assets/android/faces/cow/linguistic.gif) | ![linguistic](../../assets/android/faces_png/cow/linguistic.png) |
 | lihkg | `#lihkg#cow` | ![lihkg](../../assets/android/faces/cow/lihkg.gif) | ![lihkg](../../assets/android/faces_png/cow/lihkg.png) |
-| power_special | `undefined` | ![power_special](../../assets/android/faces/cow/power_special.gif) | ![power_special](../../assets/android/faces_png/cow/power_special.png) |
-| bus_special | `undefined` | ![bus_special](../../assets/android/faces/cow/bus_special.gif) | ![bus_special](../../assets/android/faces_png/cow/bus_special.png) |
-| grab_connect | `undefined` | ![grab_connect](../../assets/android/faces/cow/grab_connect.gif) | ![grab_connect](../../assets/android/faces_png/cow/grab_connect.png) |
+| power_special | `#gold#cow #power#cow` | ![power_special](../../assets/android/faces/cow/power_special.gif) | ![power_special](../../assets/android/faces_png/cow/power_special.png) |
+| bus_special | `#crowd#cow #bus#cow` | ![bus_special](../../assets/android/faces/cow/bus_special.gif) | ![bus_special](../../assets/android/faces_png/cow/bus_special.png) |
+| grab_connect | `#grab#cow #beg#dog` | ![grab_connect](../../assets/android/faces/cow/grab_connect.gif) | ![grab_connect](../../assets/android/faces_png/cow/grab_connect.png) |
 

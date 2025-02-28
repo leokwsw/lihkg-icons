@@ -33,5 +33,5 @@ To 2024-12-31T23:59:59+08:00
 | stretching | `#stretching#catxm` | ![stretching](../../assets/ios/faces/catxm/stretching.gif) | ![stretching](../../assets/ios/faces_png/catxm/stretching.png) |
 | lucky | `#lucky#catxm` | ![lucky](../../assets/ios/faces/catxm/lucky.gif) | ![lucky](../../assets/ios/faces_png/catxm/lucky.png) |
 | lihkg | `#lihkg#catxm` | ![lihkg](../../assets/ios/faces/catxm/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/catxm/lihkg.png) |
-| throw_connect | `undefined` | ![throw_connect](../../assets/ios/faces/catxm/throw_connect.gif) | ![throw_connect](../../assets/ios/faces_png/catxm/throw_connect.png) |
+| throw_connect | `#throw#catxm #beg#dogxm` | ![throw_connect](../../assets/ios/faces/catxm/throw_connect.gif) | ![throw_connect](../../assets/ios/faces_png/catxm/throw_connect.png) |
 

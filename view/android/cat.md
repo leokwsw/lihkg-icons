@@ -27,5 +27,5 @@
 | stretching | `#stretching#cat` | ![stretching](../../assets/android/faces/cat/stretching.gif) | ![stretching](../../assets/android/faces_png/cat/stretching.png) |
 | lucky | `#lucky#cat` | ![lucky](../../assets/android/faces/cat/lucky.gif) | ![lucky](../../assets/android/faces_png/cat/lucky.png) |
 | lihkg | `#lihkg#cat` | ![lihkg](../../assets/android/faces/cat/lihkg.gif) | ![lihkg](../../assets/android/faces_png/cat/lihkg.png) |
-| throw_connect | `undefined` | ![throw_connect](../../assets/android/faces/cat/throw_connect.gif) | ![throw_connect](../../assets/android/faces_png/cat/throw_connect.png) |
+| throw_connect | `#throw#cat #beg#dog` | ![throw_connect](../../assets/android/faces/cat/throw_connect.gif) | ![throw_connect](../../assets/android/faces_png/cat/throw_connect.png) |
 

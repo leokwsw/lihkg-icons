@@ -36,8 +36,8 @@ Keywords : 生日快樂, 生日, happy bday, happy Birthday, 🎂
 | dragon_hb2 | `#dragon2#hb` | ![dragon_hb2](../../assets/android/faces/lihkg/dragon_hb2.gif) | ![dragon_hb2](../../assets/android/faces_png/lihkg/dragon_hb2.png) |
 | snake_hb | `#snake#hb` | ![snake_hb](../../assets/android/faces/lihkg/snake_hb.gif) | ![snake_hb](../../assets/android/faces_png/lihkg/snake_hb.png) |
 | snake_hb2 | `#snake2#hb` | ![snake_hb2](../../assets/android/faces/lihkg/snake_hb2.gif) | ![snake_hb2](../../assets/android/faces_png/lihkg/snake_hb2.png) |
-| rabbit_hb_connect | `undefined` | ![rabbit_hb_connect](../../assets/android/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../../assets/android/faces_png/lihkg/rabbit_hb_connect.png) |
-| dragon_hb_connect | `undefined` | ![dragon_hb_connect](../../assets/android/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../../assets/android/faces_png/lihkg/dragon_hb_connect.png) |
+| rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../../assets/android/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../../assets/android/faces_png/lihkg/rabbit_hb_connect.png) |
+| dragon_hb_connect | `#dragon#hb #mouse2#hb` | ![dragon_hb_connect](../../assets/android/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../../assets/android/faces_png/lihkg/dragon_hb_connect.png) |
 
 ## rip [RIP]
 
@@ -122,9 +122,9 @@ To 2024-12-31T23:59:59+08:00
 | shocking_p | `#[shocking_p]#xm` | ![shocking_p](../../assets/android/faces/xm/shocking_p.gif) | ![shocking_p](../../assets/android/faces_png/xm/shocking_p.png) |
 | shocking_r | `#[shocking_r]#xm` | ![shocking_r](../../assets/android/faces/xm/shocking_r.gif) | ![shocking_r](../../assets/android/faces_png/xm/shocking_r.png) |
 | shocking_y | `#[shocking_y]#xm` | ![shocking_y](../../assets/android/faces/xm/shocking_y.gif) | ![shocking_y](../../assets/android/faces_png/xm/shocking_y.png) |
-| 369_combo | `undefined` | ![369_combo](../../assets/android/faces/xm/369_combo.gif) | ![369_combo](../../assets/android/faces_png/xm/369_combo.png) |
-| clown_combo | `undefined` | ![clown_combo](../../assets/android/faces/xm/clown_combo.gif) | ![clown_combo](../../assets/android/faces_png/xm/clown_combo.png) |
-| angry_combo | `undefined` | ![angry_combo](../../assets/android/faces/xm/angry_combo.gif) | ![angry_combo](../../assets/android/faces_png/xm/angry_combo.png) |
+| 369_combo | `#[sosad]#xm #[369_2]#xm #[banghead]#xm` | ![369_combo](../../assets/android/faces/xm/369_combo.gif) | ![369_combo](../../assets/android/faces_png/xm/369_combo.png) |
+| clown_combo | `#adore#xm #:o)_2#xm` | ![clown_combo](../../assets/android/faces/xm/clown_combo.gif) | ![clown_combo](../../assets/android/faces_png/xm/clown_combo.png) |
+| angry_combo | `#:-[#xm #?_?#xm` | ![angry_combo](../../assets/android/faces/xm/angry_combo.gif) | ![angry_combo](../../assets/android/faces_png/xm/angry_combo.png) |
 
 ## dragonxm [dragonxm]
 
@@ -169,11 +169,11 @@ To 2024-12-31T23:59:59+08:00
 | z | `#z#dragonxm` | ![z](../../assets/android/faces/dragonxm/z.gif) | ![z](../../assets/android/faces_png/dragonxm/z.png) |
 | wind | `#wind#dragonxm` | ![wind](../../assets/android/faces/dragonxm/wind.gif) | ![wind](../../assets/android/faces_png/dragonxm/wind.png) |
 | lihkg | `#lihkg#dragonxm` | ![lihkg](../../assets/android/faces/dragonxm/lihkg.gif) | ![lihkg](../../assets/android/faces_png/dragonxm/lihkg.png) |
-| angry_connect | `undefined` | ![angry_connect](../../assets/android/faces/dragonxm/angry_connect.gif) | ![angry_connect](../../assets/android/faces_png/dragonxm/angry_connect.png) |
-| angry_connect2 | `undefined` | ![angry_connect2](../../assets/android/faces/dragonxm/angry_connect2.gif) | ![angry_connect2](../../assets/android/faces_png/dragonxm/angry_connect2.png) |
-| angry_special | `undefined` | ![angry_special](../../assets/android/faces/dragonxm/angry_special.gif) | ![angry_special](../../assets/android/faces_png/dragonxm/angry_special.png) |
-| backpain_connect | `undefined` | ![backpain_connect](../../assets/android/faces/dragonxm/backpain_connect.gif) | ![backpain_connect](../../assets/android/faces_png/dragonxm/backpain_connect.png) |
-| wheelchair_connect | `undefined` | ![wheelchair_connect](../../assets/android/faces/dragonxm/wheelchair_connect.gif) | ![wheelchair_connect](../../assets/android/faces_png/dragonxm/wheelchair_connect.png) |
+| angry_connect | `#spit#dragonxm #gun#mousexm` | ![angry_connect](../../assets/android/faces/dragonxm/angry_connect.gif) | ![angry_connect](../../assets/android/faces_png/dragonxm/angry_connect.png) |
+| angry_connect2 | `#:-[#dragonxm #tired#mousexm` | ![angry_connect2](../../assets/android/faces/dragonxm/angry_connect2.gif) | ![angry_connect2](../../assets/android/faces_png/dragonxm/angry_connect2.png) |
+| angry_special | `#:-[#dragonxm #midfinger#dragonxm` | ![angry_special](../../assets/android/faces/dragonxm/angry_special.gif) | ![angry_special](../../assets/android/faces_png/dragonxm/angry_special.png) |
+| backpain_connect | `#throw#catxm #backpain#dragonxm` | ![backpain_connect](../../assets/android/faces/dragonxm/backpain_connect.gif) | ![backpain_connect](../../assets/android/faces_png/dragonxm/backpain_connect.png) |
+| wheelchair_connect | `#car#cowxm #wheelchair#dragonxm` | ![wheelchair_connect](../../assets/android/faces/dragonxm/wheelchair_connect.gif) | ![wheelchair_connect](../../assets/android/faces_png/dragonxm/wheelchair_connect.png) |
 
 ## dogxm [連狗聖誕版]
 
@@ -231,10 +231,10 @@ To 2024-12-31T23:59:59+08:00
 | fight2 | `#fight2#dogxm` | ![fight2](../../assets/android/faces/dogxm/fight2.gif) | ![fight2](../../assets/android/faces_png/dogxm/fight2.png) |
 | npc2 | `#npc2#dogxm` | ![npc2](../../assets/android/faces/dogxm/npc2.gif) | ![npc2](../../assets/android/faces_png/dogxm/npc2.png) |
 | lihkg | `#lihkg#dogxm` | ![lihkg](../../assets/android/faces/dogxm/lihkg.gif) | ![lihkg](../../assets/android/faces_png/dogxm/lihkg.png) |
-| beg_connect | `undefined` | ![beg_connect](../../assets/android/faces/dogxm/beg_connect.gif) | ![beg_connect](../../assets/android/faces_png/dogxm/beg_connect.png) |
-| fight_connect | `undefined` | ![fight_connect](../../assets/android/faces/dogxm/fight_connect.gif) | ![fight_connect](../../assets/android/faces_png/dogxm/fight_connect.png) |
-| fight_connect2 | `undefined` | ![fight_connect2](../../assets/android/faces/dogxm/fight_connect2.gif) | ![fight_connect2](../../assets/android/faces_png/dogxm/fight_connect2.png) |
-| fight_connect3 | `undefined` | ![fight_connect3](../../assets/android/faces/dogxm/fight_connect3.gif) | ![fight_connect3](../../assets/android/faces_png/dogxm/fight_connect3.png) |
+| beg_connect | `#give#dogxm #beg#dogxm` | ![beg_connect](../../assets/android/faces/dogxm/beg_connect.gif) | ![beg_connect](../../assets/android/faces_png/dogxm/beg_connect.png) |
+| fight_connect | `#fight1#dogxm #fight2#dogxm` | ![fight_connect](../../assets/android/faces/dogxm/fight_connect.gif) | ![fight_connect](../../assets/android/faces_png/dogxm/fight_connect.png) |
+| fight_connect2 | `#fight2#dogxm #fight1#dogxm` | ![fight_connect2](../../assets/android/faces/dogxm/fight_connect2.gif) | ![fight_connect2](../../assets/android/faces_png/dogxm/fight_connect2.png) |
+| fight_connect3 | `#fight1#dogxm #npc2#dogxm` | ![fight_connect3](../../assets/android/faces/dogxm/fight_connect3.gif) | ![fight_connect3](../../assets/android/faces_png/dogxm/fight_connect3.png) |
 
 ## pigxm [連豬聖誕版]
 
@@ -293,11 +293,11 @@ To 2024-12-31T23:59:59+08:00
 | surviving | `#surviving#pigxm` | ![surviving](../../assets/android/faces/pigxm/surviving.gif) | ![surviving](../../assets/android/faces_png/pigxm/surviving.png) |
 | free | `#free#pigxm` | ![free](../../assets/android/faces/pigxm/free.gif) | ![free](../../assets/android/faces_png/pigxm/free.png) |
 | lihkg | `#lihkg#pigxm` | ![lihkg](../../assets/android/faces/pigxm/lihkg.gif) | ![lihkg](../../assets/android/faces_png/pigxm/lihkg.png) |
-| whip_special | `undefined` | ![whip_special](../../assets/android/faces/pigxm/whip_special.gif) | ![whip_special](../../assets/android/faces_png/pigxm/whip_special.png) |
-| whip_connect | `undefined` | ![whip_connect](../../assets/android/faces/pigxm/whip_connect.gif) | ![whip_connect](../../assets/android/faces_png/pigxm/whip_connect.png) |
-| knife_connect | `undefined` | ![knife_connect](../../assets/android/faces/pigxm/knife_connect.gif) | ![knife_connect](../../assets/android/faces_png/pigxm/knife_connect.png) |
-| argue_connect | `undefined` | ![argue_connect](../../assets/android/faces/pigxm/argue_connect.gif) | ![argue_connect](../../assets/android/faces_png/pigxm/argue_connect.png) |
-| cook_connect | `undefined` | ![cook_connect](../../assets/android/faces/pigxm/cook_connect.gif) | ![cook_connect](../../assets/android/faces_png/pigxm/cook_connect.png) |
+| whip_special | `#play#pigxm #whip#pigxm` | ![whip_special](../../assets/android/faces/pigxm/whip_special.gif) | ![whip_special](../../assets/android/faces_png/pigxm/whip_special.png) |
+| whip_connect | `#whip#pigxm #fight2#dogxm` | ![whip_connect](../../assets/android/faces/pigxm/whip_connect.gif) | ![whip_connect](../../assets/android/faces_png/pigxm/whip_connect.png) |
+| knife_connect | `#fight1#dogxm #kill#pigxm` | ![knife_connect](../../assets/android/faces/pigxm/knife_connect.gif) | ![knife_connect](../../assets/android/faces_png/pigxm/knife_connect.png) |
+| argue_connect | `#stop#dogxm #argue#pigxm` | ![argue_connect](../../assets/android/faces/pigxm/argue_connect.gif) | ![argue_connect](../../assets/android/faces_png/pigxm/argue_connect.png) |
+| cook_connect | `#cooking#pigxm #fan#pigxm` | ![cook_connect](../../assets/android/faces/pigxm/cook_connect.gif) | ![cook_connect](../../assets/android/faces_png/pigxm/cook_connect.png) |
 
 ## mousexm [連鼠聖誕版]
 
@@ -344,11 +344,11 @@ To 2024-12-31T23:59:59+08:00
 | annoyed | `#annoyed#mousexm` | ![annoyed](../../assets/android/faces/mousexm/annoyed.gif) | ![annoyed](../../assets/android/faces_png/mousexm/annoyed.png) |
 | rubbish | `#rubbish#mousexm` | ![rubbish](../../assets/android/faces/mousexm/rubbish.gif) | ![rubbish](../../assets/android/faces_png/mousexm/rubbish.png) |
 | lihkg | `#lihkg#mousexm` | ![lihkg](../../assets/android/faces/mousexm/lihkg.gif) | ![lihkg](../../assets/android/faces_png/mousexm/lihkg.png) |
-| smile_special | `undefined` | ![smile_special](../../assets/android/faces/mousexm/smile_special.gif) | ![smile_special](../../assets/android/faces_png/mousexm/smile_special.png) |
-| vampire_special | `undefined` | ![vampire_special](../../assets/android/faces/mousexm/vampire_special.gif) | ![vampire_special](../../assets/android/faces_png/mousexm/vampire_special.png) |
-| gun_connect | `undefined` | ![gun_connect](../../assets/android/faces/mousexm/gun_connect.gif) | ![gun_connect](../../assets/android/faces_png/mousexm/gun_connect.png) |
-| stop_medicine_argue_connect | `undefined` | ![stop_medicine_argue_connect](../../assets/android/faces/mousexm/stop_medicine_argue_connect.gif) | ![stop_medicine_argue_connect](../../assets/android/faces_png/mousexm/stop_medicine_argue_connect.png) |
-| miracle_special | `undefined` | ![miracle_special](../../assets/android/faces/mousexm/miracle_special.gif) | ![miracle_special](../../assets/android/faces_png/mousexm/miracle_special.png) |
+| smile_special | `#:)#mousexm #stare#catxm` | ![smile_special](../../assets/android/faces/mousexm/smile_special.gif) | ![smile_special](../../assets/android/faces_png/mousexm/smile_special.png) |
+| vampire_special | `#awake#mousexm #vampire#mousexm` | ![vampire_special](../../assets/android/faces/mousexm/vampire_special.gif) | ![vampire_special](../../assets/android/faces_png/mousexm/vampire_special.png) |
+| gun_connect | `#gun#mousexm #disappointed#catxm` | ![gun_connect](../../assets/android/faces/mousexm/gun_connect.gif) | ![gun_connect](../../assets/android/faces_png/mousexm/gun_connect.png) |
+| stop_medicine_argue_connect | `#stop#dogxm #medicine#mousexm #argue#pigxm` | ![stop_medicine_argue_connect](../../assets/android/faces/mousexm/stop_medicine_argue_connect.gif) | ![stop_medicine_argue_connect](../../assets/android/faces_png/mousexm/stop_medicine_argue_connect.png) |
+| miracle_special | `#pray#mousexm #please#mousexm #miracle#mousexm` | ![miracle_special](../../assets/android/faces/mousexm/miracle_special.gif) | ![miracle_special](../../assets/android/faces_png/mousexm/miracle_special.png) |
 
 ## catxm [連貓聖誕版]
 
@@ -385,7 +385,7 @@ To 2024-12-31T23:59:59+08:00
 | stretching | `#stretching#catxm` | ![stretching](../../assets/android/faces/catxm/stretching.gif) | ![stretching](../../assets/android/faces_png/catxm/stretching.png) |
 | lucky | `#lucky#catxm` | ![lucky](../../assets/android/faces/catxm/lucky.gif) | ![lucky](../../assets/android/faces_png/catxm/lucky.png) |
 | lihkg | `#lihkg#catxm` | ![lihkg](../../assets/android/faces/catxm/lihkg.gif) | ![lihkg](../../assets/android/faces_png/catxm/lihkg.png) |
-| throw_connect | `undefined` | ![throw_connect](../../assets/android/faces/catxm/throw_connect.gif) | ![throw_connect](../../assets/android/faces_png/catxm/throw_connect.png) |
+| throw_connect | `#throw#catxm #beg#dogxm` | ![throw_connect](../../assets/android/faces/catxm/throw_connect.gif) | ![throw_connect](../../assets/android/faces_png/catxm/throw_connect.png) |
 
 ## cowxm [連牛聖誕版]
 
@@ -427,10 +427,10 @@ To 2024-12-31T23:59:59+08:00
 | car | `#car#cowxm` | ![car](../../assets/android/faces/cowxm/car.gif) | ![car](../../assets/android/faces_png/cowxm/car.png) |
 | linguistic | `#linguistic#cowxm` | ![linguistic](../../assets/android/faces/cowxm/linguistic.gif) | ![linguistic](../../assets/android/faces_png/cowxm/linguistic.png) |
 | lihkg | `#lihkg#cowxm` | ![lihkg](../../assets/android/faces/cowxm/lihkg.gif) | ![lihkg](../../assets/android/faces_png/cowxm/lihkg.png) |
-| power_special | `undefined` | ![power_special](../../assets/android/faces/cowxm/power_special.gif) | ![power_special](../../assets/android/faces_png/cowxm/power_special.png) |
-| bus_special | `undefined` | ![bus_special](../../assets/android/faces/cowxm/bus_special.gif) | ![bus_special](../../assets/android/faces_png/cowxm/bus_special.png) |
-| grab_connect | `undefined` | ![grab_connect](../../assets/android/faces/cowxm/grab_connect.gif) | ![grab_connect](../../assets/android/faces_png/cowxm/grab_connect.png) |
-| bicycle_connect | `undefined` | ![bicycle_connect](../../assets/android/faces/cowxm/bicycle_connect.gif) | ![bicycle_connect](../../assets/android/faces_png/cowxm/bicycle_connect.png) |
+| power_special | `#gold#cowxm #power#cowxm` | ![power_special](../../assets/android/faces/cowxm/power_special.gif) | ![power_special](../../assets/android/faces_png/cowxm/power_special.png) |
+| bus_special | `#crowd#cowxm #bus#cowxm` | ![bus_special](../../assets/android/faces/cowxm/bus_special.gif) | ![bus_special](../../assets/android/faces_png/cowxm/bus_special.png) |
+| grab_connect | `#grab#cowxm #beg#dogxm` | ![grab_connect](../../assets/android/faces/cowxm/grab_connect.gif) | ![grab_connect](../../assets/android/faces_png/cowxm/grab_connect.png) |
+| bicycle_connect | `#whip#pigxm #bicycle#cowxm` | ![bicycle_connect](../../assets/android/faces/cowxm/bicycle_connect.gif) | ![bicycle_connect](../../assets/android/faces_png/cowxm/bicycle_connect.png) |
 
 ## tigerxm [連虎聖誕版]
 
@@ -466,14 +466,14 @@ To 2024-12-31T23:59:59+08:00
 | rpg7 | `#rpg7#tigerxm` | ![rpg7](../../assets/android/faces/tigerxm/rpg7.gif) | ![rpg7](../../assets/android/faces_png/tigerxm/rpg7.png) |
 | lihkg | `#lihkg#tigerxm` | ![lihkg](../../assets/android/faces/tigerxm/lihkg.gif) | ![lihkg](../../assets/android/faces_png/tigerxm/lihkg.png) |
 | lihkg2 | `#lihkg2#tigerxm` | ![lihkg2](../../assets/android/faces/tigerxm/lihkg2.gif) | ![lihkg2](../../assets/android/faces_png/tigerxm/lihkg2.png) |
-| fire_special | `undefined` | ![fire_special](../../assets/android/faces/tigerxm/fire_special.gif) | ![fire_special](../../assets/android/faces_png/tigerxm/fire_special.png) |
-| sad_special | `undefined` | ![sad_special](../../assets/android/faces/tigerxm/sad_special.gif) | ![sad_special](../../assets/android/faces_png/tigerxm/sad_special.png) |
-| shock_special | `undefined` | ![shock_special](../../assets/android/faces/tigerxm/shock_special.gif) | ![shock_special](../../assets/android/faces_png/tigerxm/shock_special.png) |
-| like_special | `undefined` | ![like_special](../../assets/android/faces/tigerxm/like_special.gif) | ![like_special](../../assets/android/faces_png/tigerxm/like_special.png) |
-| punch_special | `undefined` | ![punch_special](../../assets/android/faces/tigerxm/punch_special.gif) | ![punch_special](../../assets/android/faces_png/tigerxm/punch_special.png) |
-| punchbag_connect | `undefined` | ![punchbag_connect](../../assets/android/faces/tigerxm/punchbag_connect.gif) | ![punchbag_connect](../../assets/android/faces_png/tigerxm/punchbag_connect.png) |
-| lihkg_connect | `undefined` | ![lihkg_connect](../../assets/android/faces/tigerxm/lihkg_connect.gif) | ![lihkg_connect](../../assets/android/faces_png/tigerxm/lihkg_connect.png) |
-| money_connect | `undefined` | ![money_connect](../../assets/android/faces/tigerxm/money_connect.gif) | ![money_connect](../../assets/android/faces_png/tigerxm/money_connect.png) |
+| fire_special | `#angry#tigerxm #fire#tigerxm` | ![fire_special](../../assets/android/faces/tigerxm/fire_special.gif) | ![fire_special](../../assets/android/faces_png/tigerxm/fire_special.png) |
+| sad_special | `#sad#tigerxm #happy#tigerxm` | ![sad_special](../../assets/android/faces/tigerxm/sad_special.gif) | ![sad_special](../../assets/android/faces_png/tigerxm/sad_special.png) |
+| shock_special | `#oh#tigerxm #nlhg#tigerxm` | ![shock_special](../../assets/android/faces/tigerxm/shock_special.gif) | ![shock_special](../../assets/android/faces_png/tigerxm/shock_special.png) |
+| like_special | `#like#tigerxm #like#tigerxm` | ![like_special](../../assets/android/faces/tigerxm/like_special.gif) | ![like_special](../../assets/android/faces_png/tigerxm/like_special.png) |
+| punch_special | `#punchbag#tigerxm #angry#tigerxm` | ![punch_special](../../assets/android/faces/tigerxm/punch_special.gif) | ![punch_special](../../assets/android/faces_png/tigerxm/punch_special.png) |
+| punchbag_connect | `#punchbag#tigerxm #fight2#dogxm` | ![punchbag_connect](../../assets/android/faces/tigerxm/punchbag_connect.gif) | ![punchbag_connect](../../assets/android/faces_png/tigerxm/punchbag_connect.png) |
+| lihkg_connect | `#lihkg#tigerxm #drum#pigxm` | ![lihkg_connect](../../assets/android/faces/tigerxm/lihkg_connect.gif) | ![lihkg_connect](../../assets/android/faces_png/tigerxm/lihkg_connect.png) |
+| money_connect | `#money#tigerxm #sorry#cowxm` | ![money_connect](../../assets/android/faces/tigerxm/money_connect.gif) | ![money_connect](../../assets/android/faces_png/tigerxm/money_connect.png) |
 
 ## rabbitxm [連兔聖誕版]
 
@@ -515,15 +515,15 @@ To 2024-12-31T23:59:59+08:00
 | yawn | `#yawn#rabbitxm` | ![yawn](../../assets/android/faces/rabbitxm/yawn.gif) | ![yawn](../../assets/android/faces_png/rabbitxm/yawn.png) |
 | fly | `#fly#rabbitxm` | ![fly](../../assets/android/faces/rabbitxm/fly.gif) | ![fly](../../assets/android/faces_png/rabbitxm/fly.png) |
 | lihkg | `#lihkg#rabbitxm` | ![lihkg](../../assets/android/faces/rabbitxm/lihkg.gif) | ![lihkg](../../assets/android/faces_png/rabbitxm/lihkg.png) |
-| clap_special | `undefined` | ![clap_special](../../assets/android/faces/rabbitxm/clap_special.gif) | ![clap_special](../../assets/android/faces_png/rabbitxm/clap_special.png) |
-| eat_connect | `undefined` | ![eat_connect](../../assets/android/faces/rabbitxm/eat_connect.gif) | ![eat_connect](../../assets/android/faces_png/rabbitxm/eat_connect.png) |
-| hammer_connect | `undefined` | ![hammer_connect](../../assets/android/faces/rabbitxm/hammer_connect.gif) | ![hammer_connect](../../assets/android/faces_png/rabbitxm/hammer_connect.png) |
-| lihkg_special | `undefined` | ![lihkg_special](../../assets/android/faces/rabbitxm/lihkg_special.gif) | ![lihkg_special](../../assets/android/faces_png/rabbitxm/lihkg_special.png) |
-| roast_connect | `undefined` | ![roast_connect](../../assets/android/faces/rabbitxm/roast_connect.gif) | ![roast_connect](../../assets/android/faces_png/rabbitxm/roast_connect.png) |
-| roast_connect2 | `undefined` | ![roast_connect2](../../assets/android/faces/rabbitxm/roast_connect2.gif) | ![roast_connect2](../../assets/android/faces_png/rabbitxm/roast_connect2.png) |
-| axe_connect | `undefined` | ![axe_connect](../../assets/android/faces/rabbitxm/axe_connect.gif) | ![axe_connect](../../assets/android/faces_png/rabbitxm/axe_connect.png) |
-| roast_connect3 | `undefined` | ![roast_connect3](../../assets/android/faces/rabbitxm/roast_connect3.gif) | ![roast_connect3](../../assets/android/faces_png/rabbitxm/roast_connect3.png) |
-| saw_connect | `undefined` | ![saw_connect](../../assets/android/faces/rabbitxm/saw_connect.gif) | ![saw_connect](../../assets/android/faces_png/rabbitxm/saw_connect.png) |
+| clap_special | `#clap#rabbitxm #creepy#rabbitxm` | ![clap_special](../../assets/android/faces/rabbitxm/clap_special.gif) | ![clap_special](../../assets/android/faces_png/rabbitxm/clap_special.png) |
+| eat_connect | `#eat#rabbitxm #eating#lm2xm` | ![eat_connect](../../assets/android/faces/rabbitxm/eat_connect.gif) | ![eat_connect](../../assets/android/faces_png/rabbitxm/eat_connect.png) |
+| hammer_connect | `#it3#dogxm #axe#rabbitxm` | ![hammer_connect](../../assets/android/faces/rabbitxm/hammer_connect.gif) | ![hammer_connect](../../assets/android/faces_png/rabbitxm/hammer_connect.png) |
+| lihkg_special | `#saw#rabbitxm #lihkg#rabbitxm` | ![lihkg_special](../../assets/android/faces/rabbitxm/lihkg_special.gif) | ![lihkg_special](../../assets/android/faces_png/rabbitxm/lihkg_special.png) |
+| roast_connect | `#cooking#pigxm #:)#rabbitxm` | ![roast_connect](../../assets/android/faces/rabbitxm/roast_connect.gif) | ![roast_connect](../../assets/android/faces_png/rabbitxm/roast_connect.png) |
+| roast_connect2 | `#:)#rabbitxm #cooking#pigxm` | ![roast_connect2](../../assets/android/faces/rabbitxm/roast_connect2.gif) | ![roast_connect2](../../assets/android/faces_png/rabbitxm/roast_connect2.png) |
+| axe_connect | `#car#cowxm #axe#rabbitxm` | ![axe_connect](../../assets/android/faces/rabbitxm/axe_connect.gif) | ![axe_connect](../../assets/android/faces_png/rabbitxm/axe_connect.png) |
+| roast_connect3 | `#:)#rabbitxm #kill#pigxm` | ![roast_connect3](../../assets/android/faces/rabbitxm/roast_connect3.gif) | ![roast_connect3](../../assets/android/faces_png/rabbitxm/roast_connect3.png) |
+| saw_connect | `#saw#rabbitxm #gun#mousexm` | ![saw_connect](../../assets/android/faces/rabbitxm/saw_connect.gif) | ![saw_connect](../../assets/android/faces_png/rabbitxm/saw_connect.png) |
 
 ## lm2xm [腦魔2聖誕版]
 
@@ -611,7 +611,7 @@ To 2024-12-31T23:59:59+08:00
 | yipes | `#[yipes]#lm2xm` | ![yipes](../../assets/android/faces/lm2xm/yipes.gif) | ![yipes](../../assets/android/faces_png/lm2xm/yipes.png) |
 | cry | `#:~(#lm2xm` | ![cry](../../assets/android/faces/lm2xm/cry.gif) | ![cry](../../assets/android/faces_png/lm2xm/cry.png) |
 | dust | `#dust#lm2xm` | ![dust](../../assets/android/faces/lm2xm/dust.gif) | ![dust](../../assets/android/faces_png/lm2xm/dust.png) |
-| credit | `undefined` | ![credit](../../assets/android/faces/lm2xm/credit.gif) | ![credit](../../assets/android/faces_png/lm2xm/credit.png) |
+| credit | `#credit#lm2xm` | ![credit](../../assets/android/faces/lm2xm/credit.gif) | ![credit](../../assets/android/faces_png/lm2xm/credit.png) |
 
 ## lny [農曆新年版]
 
@@ -738,14 +738,14 @@ To 2022-09-13T00:00:00+08:00
 | fuck | `#fuck#mf` | ![fuck](../../assets/android/faces/mf/fuck.gif) | ![fuck](../../assets/android/faces_png/mf/fuck.png) |
 | no | `#no#mf` | ![no](../../assets/android/faces/mf/no.gif) | ![no](../../assets/android/faces_png/mf/no.png) |
 | kill2 | `#kill2#mf` | ![kill2](../../assets/android/faces/mf/kill2.gif) | ![kill2](../../assets/android/faces_png/mf/kill2.png) |
-| special | `undefined` | ![special](../../assets/android/faces/mf/special.gif) | ![special](../../assets/android/faces_png/mf/special.png) |
-| special2 | `undefined` | ![special2](../../assets/android/faces/mf/special2.gif) | ![special2](../../assets/android/faces_png/mf/special2.png) |
-| special3 | `undefined` | ![special3](../../assets/android/faces/mf/special3.gif) | ![special3](../../assets/android/faces_png/mf/special3.png) |
-| special4 | `undefined` | ![special4](../../assets/android/faces/mf/special4.gif) | ![special4](../../assets/android/faces_png/mf/special4.png) |
-| special5 | `undefined` | ![special5](../../assets/android/faces/mf/special5.gif) | ![special5](../../assets/android/faces_png/mf/special5.png) |
-| special6 | `undefined` | ![special6](../../assets/android/faces/mf/special6.gif) | ![special6](../../assets/android/faces_png/mf/special6.png) |
-| special7 | `undefined` | ![special7](../../assets/android/faces/mf/special7.gif) | ![special7](../../assets/android/faces_png/mf/special7.png) |
-| special8 | `undefined` | ![special8](../../assets/android/faces/mf/special8.gif) | ![special8](../../assets/android/faces_png/mf/special8.png) |
+| special | `#:o)#mf #:)#mf` | ![special](../../assets/android/faces/mf/special.gif) | ![special](../../assets/android/faces_png/mf/special.png) |
+| special2 | `#:o)#mf #hoho#mf` | ![special2](../../assets/android/faces/mf/special2.gif) | ![special2](../../assets/android/faces_png/mf/special2.png) |
+| special3 | `#:o)#mf #good#mf` | ![special3](../../assets/android/faces/mf/special3.gif) | ![special3](../../assets/android/faces_png/mf/special3.png) |
+| special4 | `#:o)#mf #:-(#mf` | ![special4](../../assets/android/faces/mf/special4.gif) | ![special4](../../assets/android/faces_png/mf/special4.png) |
+| special5 | `#bye#mf #:)#mf` | ![special5](../../assets/android/faces/mf/special5.gif) | ![special5](../../assets/android/faces_png/mf/special5.png) |
+| special6 | `#[photo]#mf #:)#mf` | ![special6](../../assets/android/faces/mf/special6.gif) | ![special6](../../assets/android/faces_png/mf/special6.png) |
+| special7 | `#@_@#mf #:-[#mf` | ![special7](../../assets/android/faces/mf/special7.gif) | ![special7](../../assets/android/faces_png/mf/special7.png) |
+| special8 | `#ng#mf #cn#mf` | ![special8](../../assets/android/faces/mf/special8.gif) | ![special8](../../assets/android/faces_png/mf/special8.png) |
 
 ## normal [普通]
 | Filename | Emoji | GIF | PNG |
@@ -871,8 +871,8 @@ To 2022-12-20T00:00:00+08:00
 | usa | `#usa#fifa` | ![usa](../../assets/android/faces/fifa/usa.gif) | ![usa](../../assets/android/faces_png/fifa/usa.png) |
 | uruguay | `#uruguay#fifa` | ![uruguay](../../assets/android/faces/fifa/uruguay.gif) | ![uruguay](../../assets/android/faces_png/fifa/uruguay.png) |
 | wales | `#wales#fifa` | ![wales](../../assets/android/faces/fifa/wales.gif) | ![wales](../../assets/android/faces_png/fifa/wales.png) |
-| kill_connect | `undefined` | ![kill_connect](../../assets/android/faces/fifa/kill_connect.gif) | ![kill_connect](../../assets/android/faces_png/fifa/kill_connect.png) |
-| kill2_connect | `undefined` | ![kill2_connect](../../assets/android/faces/fifa/kill2_connect.gif) | ![kill2_connect](../../assets/android/faces_png/fifa/kill2_connect.png) |
+| kill_connect | `#kill#fifa #slick#fifa` | ![kill_connect](../../assets/android/faces/fifa/kill_connect.gif) | ![kill_connect](../../assets/android/faces_png/fifa/kill_connect.png) |
+| kill2_connect | `#banghead#fifa #kill2#fifa` | ![kill2_connect](../../assets/android/faces/fifa/kill2_connect.gif) | ![kill2_connect](../../assets/android/faces_png/fifa/kill2_connect.png) |
 
 ## dog [連狗]
 | Filename | Emoji | GIF | PNG |
@@ -925,14 +925,14 @@ To 2022-12-20T00:00:00+08:00
 | fight3 | `#fight3#dog` | ![fight3](../../assets/android/faces/dog/fight3.gif) | ![fight3](../../assets/android/faces_png/dog/fight3.png) |
 | npc2 | `#npc2#dog` | ![npc2](../../assets/android/faces/dog/npc2.gif) | ![npc2](../../assets/android/faces_png/dog/npc2.png) |
 | lihkg | `#lihkg#dog` | ![lihkg](../../assets/android/faces/dog/lihkg.gif) | ![lihkg](../../assets/android/faces_png/dog/lihkg.png) |
-| beg_connect | `undefined` | ![beg_connect](../../assets/android/faces/dog/beg_connect.gif) | ![beg_connect](../../assets/android/faces_png/dog/beg_connect.png) |
-| fight_connect | `undefined` | ![fight_connect](../../assets/android/faces/dog/fight_connect.gif) | ![fight_connect](../../assets/android/faces_png/dog/fight_connect.png) |
-| fight_connect2 | `undefined` | ![fight_connect2](../../assets/android/faces/dog/fight_connect2.gif) | ![fight_connect2](../../assets/android/faces_png/dog/fight_connect2.png) |
-| fight_connect3 | `undefined` | ![fight_connect3](../../assets/android/faces/dog/fight_connect3.gif) | ![fight_connect3](../../assets/android/faces_png/dog/fight_connect3.png) |
-| fight3_special | `undefined` | ![fight3_special](../../assets/android/faces/dog/fight3_special.gif) | ![fight3_special](../../assets/android/faces_png/dog/fight3_special.png) |
-| fight_special | `undefined` | ![fight_special](../../assets/android/faces/dog/fight_special.gif) | ![fight_special](../../assets/android/faces_png/dog/fight_special.png) |
-| fight3_connect | `undefined` | ![fight3_connect](../../assets/android/faces/dog/fight3_connect.gif) | ![fight3_connect](../../assets/android/faces_png/dog/fight3_connect.png) |
-| fight3_special2 | `undefined` | ![fight3_special2](../../assets/android/faces/dog/fight3_special2.gif) | ![fight3_special2](../../assets/android/faces_png/dog/fight3_special2.png) |
+| beg_connect | `#give#dog #beg#dog` | ![beg_connect](../../assets/android/faces/dog/beg_connect.gif) | ![beg_connect](../../assets/android/faces_png/dog/beg_connect.png) |
+| fight_connect | `#fight1#dog #fight2#dog` | ![fight_connect](../../assets/android/faces/dog/fight_connect.gif) | ![fight_connect](../../assets/android/faces_png/dog/fight_connect.png) |
+| fight_connect2 | `#fight2#dog #fight1#dog` | ![fight_connect2](../../assets/android/faces/dog/fight_connect2.gif) | ![fight_connect2](../../assets/android/faces_png/dog/fight_connect2.png) |
+| fight_connect3 | `#fight1#dog #npc2#dog` | ![fight_connect3](../../assets/android/faces/dog/fight_connect3.gif) | ![fight_connect3](../../assets/android/faces_png/dog/fight_connect3.png) |
+| fight3_special | `#fight3#dog #fight3#dog #fight3#dog` | ![fight3_special](../../assets/android/faces/dog/fight3_special.gif) | ![fight3_special](../../assets/android/faces_png/dog/fight3_special.png) |
+| fight_special | `#fight1#dog #fight3#dog` | ![fight_special](../../assets/android/faces/dog/fight_special.gif) | ![fight_special](../../assets/android/faces_png/dog/fight_special.png) |
+| fight3_connect | `#power#cow #fight3#dog` | ![fight3_connect](../../assets/android/faces/dog/fight3_connect.gif) | ![fight3_connect](../../assets/android/faces_png/dog/fight3_connect.png) |
+| fight3_special2 | `#npc2#dog #fight3#dog` | ![fight3_special2](../../assets/android/faces/dog/fight3_special2.gif) | ![fight3_special2](../../assets/android/faces_png/dog/fight3_special2.png) |
 
 ## pig [連豬]
 | Filename | Emoji | GIF | PNG |
@@ -980,11 +980,11 @@ To 2022-12-20T00:00:00+08:00
 | surviving | `#surviving#pig` | ![surviving](../../assets/android/faces/pig/surviving.gif) | ![surviving](../../assets/android/faces_png/pig/surviving.png) |
 | free | `#free#pig` | ![free](../../assets/android/faces/pig/free.gif) | ![free](../../assets/android/faces_png/pig/free.png) |
 | lihkg | `#lihkg#pig` | ![lihkg](../../assets/android/faces/pig/lihkg.gif) | ![lihkg](../../assets/android/faces_png/pig/lihkg.png) |
-| whip_special | `undefined` | ![whip_special](../../assets/android/faces/pig/whip_special.gif) | ![whip_special](../../assets/android/faces_png/pig/whip_special.png) |
-| whip_connect | `undefined` | ![whip_connect](../../assets/android/faces/pig/whip_connect.gif) | ![whip_connect](../../assets/android/faces_png/pig/whip_connect.png) |
-| knife_connect | `undefined` | ![knife_connect](../../assets/android/faces/pig/knife_connect.gif) | ![knife_connect](../../assets/android/faces_png/pig/knife_connect.png) |
-| cook_connect | `undefined` | ![cook_connect](../../assets/android/faces/pig/cook_connect.gif) | ![cook_connect](../../assets/android/faces_png/pig/cook_connect.png) |
-| wine_connect | `undefined` | ![wine_connect](../../assets/android/faces/pig/wine_connect.gif) | ![wine_connect](../../assets/android/faces_png/pig/wine_connect.png) |
+| whip_special | `#play#pig #whip#pig` | ![whip_special](../../assets/android/faces/pig/whip_special.gif) | ![whip_special](../../assets/android/faces_png/pig/whip_special.png) |
+| whip_connect | `#whip#pig #fight2#dog` | ![whip_connect](../../assets/android/faces/pig/whip_connect.gif) | ![whip_connect](../../assets/android/faces_png/pig/whip_connect.png) |
+| knife_connect | `#fight1#dog #kill#pig` | ![knife_connect](../../assets/android/faces/pig/knife_connect.gif) | ![knife_connect](../../assets/android/faces_png/pig/knife_connect.png) |
+| cook_connect | `#cooking#pig #fan#pig` | ![cook_connect](../../assets/android/faces/pig/cook_connect.gif) | ![cook_connect](../../assets/android/faces_png/pig/cook_connect.png) |
+| wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../../assets/android/faces/pig/wine_connect.gif) | ![wine_connect](../../assets/android/faces_png/pig/wine_connect.png) |
 
 ## snake [snake]
 | Filename | Emoji | GIF | PNG |
@@ -1015,11 +1015,11 @@ To 2022-12-20T00:00:00+08:00
 | sign | `#sign#snake` | ![sign](../../assets/android/faces/snake/sign.gif) | ![sign](../../assets/android/faces_png/snake/sign.png) |
 | zzz | `#zzz#snake` | ![zzz](../../assets/android/faces/snake/zzz.gif) | ![zzz](../../assets/android/faces_png/snake/zzz.png) |
 | lihkg | `#lihkg#snake` | ![lihkg](../../assets/android/faces/snake/lihkg.gif) | ![lihkg](../../assets/android/faces_png/snake/lihkg.png) |
-| hypnosis_connect | `undefined` | ![hypnosis_connect](../../assets/android/faces/snake/hypnosis_connect.gif) | ![hypnosis_connect](../../assets/android/faces_png/snake/hypnosis_connect.png) |
-| knife_connect | `undefined` | ![knife_connect](../../assets/android/faces/snake/knife_connect.gif) | ![knife_connect](../../assets/android/faces_png/snake/knife_connect.png) |
-| shotgun_special | `undefined` | ![shotgun_special](../../assets/android/faces/snake/shotgun_special.gif) | ![shotgun_special](../../assets/android/faces_png/snake/shotgun_special.png) |
-| scream_connect | `undefined` | ![scream_connect](../../assets/android/faces/snake/scream_connect.gif) | ![scream_connect](../../assets/android/faces_png/snake/scream_connect.png) |
-| eat_special | `undefined` | ![eat_special](../../assets/android/faces/snake/eat_special.gif) | ![eat_special](../../assets/android/faces_png/snake/eat_special.png) |
+| hypnosis_connect | `#hypnosis#snake #awake#mouse` | ![hypnosis_connect](../../assets/android/faces/snake/hypnosis_connect.gif) | ![hypnosis_connect](../../assets/android/faces_png/snake/hypnosis_connect.png) |
+| knife_connect | `#knife#snake #stun#rabbit` | ![knife_connect](../../assets/android/faces/snake/knife_connect.gif) | ![knife_connect](../../assets/android/faces_png/snake/knife_connect.png) |
+| shotgun_special | `#shotgun#snake #shotgun#snake #shotgun#snake` | ![shotgun_special](../../assets/android/faces/snake/shotgun_special.gif) | ![shotgun_special](../../assets/android/faces_png/snake/shotgun_special.png) |
+| scream_connect | `#music#rabbit #scream#snake` | ![scream_connect](../../assets/android/faces/snake/scream_connect.gif) | ![scream_connect](../../assets/android/faces_png/snake/scream_connect.png) |
+| eat_special | `#eat#snake #wtf#snake` | ![eat_special](../../assets/android/faces/snake/eat_special.gif) | ![eat_special](../../assets/android/faces_png/snake/eat_special.png) |
 
 ## mouse [連鼠]
 | Filename | Emoji | GIF | PNG |
@@ -1061,9 +1061,9 @@ To 2022-12-20T00:00:00+08:00
 | rubbish | `#rubbish#mouse` | ![rubbish](../../assets/android/faces/mouse/rubbish.gif) | ![rubbish](../../assets/android/faces_png/mouse/rubbish.png) |
 | wind | `#wind#mouse` | ![wind](../../assets/android/faces/mouse/wind.gif) | ![wind](../../assets/android/faces_png/mouse/wind.png) |
 | lihkg | `#lihkg#mouse` | ![lihkg](../../assets/android/faces/mouse/lihkg.gif) | ![lihkg](../../assets/android/faces_png/mouse/lihkg.png) |
-| smile_special | `undefined` | ![smile_special](../../assets/android/faces/mouse/smile_special.gif) | ![smile_special](../../assets/android/faces_png/mouse/smile_special.png) |
-| vampire_special | `undefined` | ![vampire_special](../../assets/android/faces/mouse/vampire_special.gif) | ![vampire_special](../../assets/android/faces_png/mouse/vampire_special.png) |
-| miracle_special | `undefined` | ![miracle_special](../../assets/android/faces/mouse/miracle_special.gif) | ![miracle_special](../../assets/android/faces_png/mouse/miracle_special.png) |
+| smile_special | `#:)#mouse #stare#cat` | ![smile_special](../../assets/android/faces/mouse/smile_special.gif) | ![smile_special](../../assets/android/faces_png/mouse/smile_special.png) |
+| vampire_special | `#awake#mouse #vampire#mouse` | ![vampire_special](../../assets/android/faces/mouse/vampire_special.gif) | ![vampire_special](../../assets/android/faces_png/mouse/vampire_special.png) |
+| miracle_special | `#pray#mouse #please#mouse #miracle#mouse` | ![miracle_special](../../assets/android/faces/mouse/miracle_special.gif) | ![miracle_special](../../assets/android/faces_png/mouse/miracle_special.png) |
 
 ## cat [連貓]
 | Filename | Emoji | GIF | PNG |
@@ -1094,7 +1094,7 @@ To 2022-12-20T00:00:00+08:00
 | stretching | `#stretching#cat` | ![stretching](../../assets/android/faces/cat/stretching.gif) | ![stretching](../../assets/android/faces_png/cat/stretching.png) |
 | lucky | `#lucky#cat` | ![lucky](../../assets/android/faces/cat/lucky.gif) | ![lucky](../../assets/android/faces_png/cat/lucky.png) |
 | lihkg | `#lihkg#cat` | ![lihkg](../../assets/android/faces/cat/lihkg.gif) | ![lihkg](../../assets/android/faces_png/cat/lihkg.png) |
-| throw_connect | `undefined` | ![throw_connect](../../assets/android/faces/cat/throw_connect.gif) | ![throw_connect](../../assets/android/faces_png/cat/throw_connect.png) |
+| throw_connect | `#throw#cat #beg#dog` | ![throw_connect](../../assets/android/faces/cat/throw_connect.gif) | ![throw_connect](../../assets/android/faces_png/cat/throw_connect.png) |
 
 ## cow [連牛]
 | Filename | Emoji | GIF | PNG |
@@ -1132,9 +1132,9 @@ To 2022-12-20T00:00:00+08:00
 | car | `#car#cow` | ![car](../../assets/android/faces/cow/car.gif) | ![car](../../assets/android/faces_png/cow/car.png) |
 | linguistic | `#linguistic#cow` | ![linguistic](../../assets/android/faces/cow/linguistic.gif) | ![linguistic](../../assets/android/faces_png/cow/linguistic.png) |
 | lihkg | `#lihkg#cow` | ![lihkg](../../assets/android/faces/cow/lihkg.gif) | ![lihkg](../../assets/android/faces_png/cow/lihkg.png) |
-| power_special | `undefined` | ![power_special](../../assets/android/faces/cow/power_special.gif) | ![power_special](../../assets/android/faces_png/cow/power_special.png) |
-| bus_special | `undefined` | ![bus_special](../../assets/android/faces/cow/bus_special.gif) | ![bus_special](../../assets/android/faces_png/cow/bus_special.png) |
-| grab_connect | `undefined` | ![grab_connect](../../assets/android/faces/cow/grab_connect.gif) | ![grab_connect](../../assets/android/faces_png/cow/grab_connect.png) |
+| power_special | `#gold#cow #power#cow` | ![power_special](../../assets/android/faces/cow/power_special.gif) | ![power_special](../../assets/android/faces_png/cow/power_special.png) |
+| bus_special | `#crowd#cow #bus#cow` | ![bus_special](../../assets/android/faces/cow/bus_special.gif) | ![bus_special](../../assets/android/faces_png/cow/bus_special.png) |
+| grab_connect | `#grab#cow #beg#dog` | ![grab_connect](../../assets/android/faces/cow/grab_connect.gif) | ![grab_connect](../../assets/android/faces_png/cow/grab_connect.png) |
 
 ## tiger [連虎]
 | Filename | Emoji | GIF | PNG |
@@ -1165,14 +1165,14 @@ To 2022-12-20T00:00:00+08:00
 | rpg7 | `#rpg7#tiger` | ![rpg7](../../assets/android/faces/tiger/rpg7.gif) | ![rpg7](../../assets/android/faces_png/tiger/rpg7.png) |
 | lihkg | `#lihkg#tiger` | ![lihkg](../../assets/android/faces/tiger/lihkg.gif) | ![lihkg](../../assets/android/faces_png/tiger/lihkg.png) |
 | lihkg2 | `#lihkg2#tiger` | ![lihkg2](../../assets/android/faces/tiger/lihkg2.gif) | ![lihkg2](../../assets/android/faces_png/tiger/lihkg2.png) |
-| fire_special | `undefined` | ![fire_special](../../assets/android/faces/tiger/fire_special.gif) | ![fire_special](../../assets/android/faces_png/tiger/fire_special.png) |
-| sad_special | `undefined` | ![sad_special](../../assets/android/faces/tiger/sad_special.gif) | ![sad_special](../../assets/android/faces_png/tiger/sad_special.png) |
-| shock_special | `undefined` | ![shock_special](../../assets/android/faces/tiger/shock_special.gif) | ![shock_special](../../assets/android/faces_png/tiger/shock_special.png) |
-| like_special | `undefined` | ![like_special](../../assets/android/faces/tiger/like_special.gif) | ![like_special](../../assets/android/faces_png/tiger/like_special.png) |
-| punch_special | `undefined` | ![punch_special](../../assets/android/faces/tiger/punch_special.gif) | ![punch_special](../../assets/android/faces_png/tiger/punch_special.png) |
-| punchbag_connect | `undefined` | ![punchbag_connect](../../assets/android/faces/tiger/punchbag_connect.gif) | ![punchbag_connect](../../assets/android/faces_png/tiger/punchbag_connect.png) |
-| fencing_connect | `undefined` | ![fencing_connect](../../assets/android/faces/tiger/fencing_connect.gif) | ![fencing_connect](../../assets/android/faces_png/tiger/fencing_connect.png) |
-| fencing_connect2 | `undefined` | ![fencing_connect2](../../assets/android/faces/tiger/fencing_connect2.gif) | ![fencing_connect2](../../assets/android/faces_png/tiger/fencing_connect2.png) |
+| fire_special | `#angry#tiger #fire#tiger` | ![fire_special](../../assets/android/faces/tiger/fire_special.gif) | ![fire_special](../../assets/android/faces_png/tiger/fire_special.png) |
+| sad_special | `#sad#tiger #happy#tiger` | ![sad_special](../../assets/android/faces/tiger/sad_special.gif) | ![sad_special](../../assets/android/faces_png/tiger/sad_special.png) |
+| shock_special | `#oh#tiger #nlhg#tiger` | ![shock_special](../../assets/android/faces/tiger/shock_special.gif) | ![shock_special](../../assets/android/faces_png/tiger/shock_special.png) |
+| like_special | `#like#tiger #like#tiger` | ![like_special](../../assets/android/faces/tiger/like_special.gif) | ![like_special](../../assets/android/faces_png/tiger/like_special.png) |
+| punch_special | `#punchbag#tiger #angry#tiger` | ![punch_special](../../assets/android/faces/tiger/punch_special.gif) | ![punch_special](../../assets/android/faces_png/tiger/punch_special.png) |
+| punchbag_connect | `#punchbag#tiger #fight2#dog` | ![punchbag_connect](../../assets/android/faces/tiger/punchbag_connect.gif) | ![punchbag_connect](../../assets/android/faces_png/tiger/punchbag_connect.png) |
+| fencing_connect | `#fencing#tiger #annoyed#cat` | ![fencing_connect](../../assets/android/faces/tiger/fencing_connect.gif) | ![fencing_connect](../../assets/android/faces_png/tiger/fencing_connect.png) |
+| fencing_connect2 | `#fencing#tiger #knife#pig` | ![fencing_connect2](../../assets/android/faces/tiger/fencing_connect2.gif) | ![fencing_connect2](../../assets/android/faces_png/tiger/fencing_connect2.png) |
 
 ## rabbit [連兔]
 | Filename | Emoji | GIF | PNG |
@@ -1210,13 +1210,13 @@ To 2022-12-20T00:00:00+08:00
 | yawn | `#yawn#rabbit` | ![yawn](../../assets/android/faces/rabbit/yawn.gif) | ![yawn](../../assets/android/faces_png/rabbit/yawn.png) |
 | fly | `#fly#rabbit` | ![fly](../../assets/android/faces/rabbit/fly.gif) | ![fly](../../assets/android/faces_png/rabbit/fly.png) |
 | lihkg | `#lihkg#rabbit` | ![lihkg](../../assets/android/faces/rabbit/lihkg.gif) | ![lihkg](../../assets/android/faces_png/rabbit/lihkg.png) |
-| clap_special | `undefined` | ![clap_special](../../assets/android/faces/rabbit/clap_special.gif) | ![clap_special](../../assets/android/faces_png/rabbit/clap_special.png) |
-| eat_connect | `undefined` | ![eat_connect](../../assets/android/faces/rabbit/eat_connect.gif) | ![eat_connect](../../assets/android/faces_png/rabbit/eat_connect.png) |
-| hammer_connect | `undefined` | ![hammer_connect](../../assets/android/faces/rabbit/hammer_connect.gif) | ![hammer_connect](../../assets/android/faces_png/rabbit/hammer_connect.png) |
-| lihkg_special | `undefined` | ![lihkg_special](../../assets/android/faces/rabbit/lihkg_special.gif) | ![lihkg_special](../../assets/android/faces_png/rabbit/lihkg_special.png) |
-| roast_connect | `undefined` | ![roast_connect](../../assets/android/faces/rabbit/roast_connect.gif) | ![roast_connect](../../assets/android/faces_png/rabbit/roast_connect.png) |
-| roast_special | `undefined` | ![roast_special](../../assets/android/faces/rabbit/roast_special.gif) | ![roast_special](../../assets/android/faces_png/rabbit/roast_special.png) |
-| axe_connect | `undefined` | ![axe_connect](../../assets/android/faces/rabbit/axe_connect.gif) | ![axe_connect](../../assets/android/faces_png/rabbit/axe_connect.png) |
+| clap_special | `#clap#rabbit #creepy#rabbit` | ![clap_special](../../assets/android/faces/rabbit/clap_special.gif) | ![clap_special](../../assets/android/faces_png/rabbit/clap_special.png) |
+| eat_connect | `#eat#rabbit #eating#lm2` | ![eat_connect](../../assets/android/faces/rabbit/eat_connect.gif) | ![eat_connect](../../assets/android/faces_png/rabbit/eat_connect.png) |
+| hammer_connect | `#it3#dog #axe#rabbit` | ![hammer_connect](../../assets/android/faces/rabbit/hammer_connect.gif) | ![hammer_connect](../../assets/android/faces_png/rabbit/hammer_connect.png) |
+| lihkg_special | `#saw#rabbit #lihkg#rabbit` | ![lihkg_special](../../assets/android/faces/rabbit/lihkg_special.gif) | ![lihkg_special](../../assets/android/faces_png/rabbit/lihkg_special.png) |
+| roast_connect | `#cooking#pig #:)#rabbit` | ![roast_connect](../../assets/android/faces/rabbit/roast_connect.gif) | ![roast_connect](../../assets/android/faces_png/rabbit/roast_connect.png) |
+| roast_special | `#:)#rabbit #cooking#pig` | ![roast_special](../../assets/android/faces/rabbit/roast_special.gif) | ![roast_special](../../assets/android/faces_png/rabbit/roast_special.png) |
+| axe_connect | `#car#cow #axe#rabbit` | ![axe_connect](../../assets/android/faces/rabbit/axe_connect.gif) | ![axe_connect](../../assets/android/faces_png/rabbit/axe_connect.png) |
 
 ## dragon [連龍]
 | Filename | Emoji | GIF | PNG |
@@ -1255,11 +1255,11 @@ To 2022-12-20T00:00:00+08:00
 | z | `#z#dragon` | ![z](../../assets/android/faces/dragon/z.gif) | ![z](../../assets/android/faces_png/dragon/z.png) |
 | wind | `#wind#dragon` | ![wind](../../assets/android/faces/dragon/wind.gif) | ![wind](../../assets/android/faces_png/dragon/wind.png) |
 | lihkg | `#lihkg#dragon` | ![lihkg](../../assets/android/faces/dragon/lihkg.gif) | ![lihkg](../../assets/android/faces_png/dragon/lihkg.png) |
-| angry_connect | `undefined` | ![angry_connect](../../assets/android/faces/dragon/angry_connect.gif) | ![angry_connect](../../assets/android/faces_png/dragon/angry_connect.png) |
-| angry_connect2 | `undefined` | ![angry_connect2](../../assets/android/faces/dragon/angry_connect2.gif) | ![angry_connect2](../../assets/android/faces_png/dragon/angry_connect2.png) |
-| angry_special | `undefined` | ![angry_special](../../assets/android/faces/dragon/angry_special.gif) | ![angry_special](../../assets/android/faces_png/dragon/angry_special.png) |
-| backpain_connect | `undefined` | ![backpain_connect](../../assets/android/faces/dragon/backpain_connect.gif) | ![backpain_connect](../../assets/android/faces_png/dragon/backpain_connect.png) |
-| wheelchair_connect | `undefined` | ![wheelchair_connect](../../assets/android/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../../assets/android/faces_png/dragon/wheelchair_connect.png) |
+| angry_connect | `#spit#dragon #gun#mouse` | ![angry_connect](../../assets/android/faces/dragon/angry_connect.gif) | ![angry_connect](../../assets/android/faces_png/dragon/angry_connect.png) |
+| angry_connect2 | `#:-[#dragon #tired#mouse` | ![angry_connect2](../../assets/android/faces/dragon/angry_connect2.gif) | ![angry_connect2](../../assets/android/faces_png/dragon/angry_connect2.png) |
+| angry_special | `#:-[#dragon #midfinger#dragon` | ![angry_special](../../assets/android/faces/dragon/angry_special.gif) | ![angry_special](../../assets/android/faces_png/dragon/angry_special.png) |
+| backpain_connect | `#throw#cat #backpain#dragon` | ![backpain_connect](../../assets/android/faces/dragon/backpain_connect.gif) | ![backpain_connect](../../assets/android/faces_png/dragon/backpain_connect.png) |
+| wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../../assets/android/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../../assets/android/faces_png/dragon/wheelchair_connect.png) |
 
 ## lm2 [腦魔2]
 | Filename | Emoji | GIF | PNG |
@@ -1368,7 +1368,7 @@ To 2022-12-20T00:00:00+08:00
 | burnt | `#burnt#lm2` | ![burnt](../../assets/android/faces/lm2/burnt.gif) | ![burnt](../../assets/android/faces_png/lm2/burnt.png) |
 | evil | `#evil#lm2` | ![evil](../../assets/android/faces/lm2/evil.gif) | ![evil](../../assets/android/faces_png/lm2/evil.png) |
 | ghost | `#ghost#lm2` | ![ghost](../../assets/android/faces/lm2/ghost.gif) | ![ghost](../../assets/android/faces_png/lm2/ghost.png) |
-| credit | `undefined` | ![credit](../../assets/android/faces/lm2/credit.gif) | ![credit](../../assets/android/faces_png/lm2/credit.png) |
+| credit | `#credit#lm2` | ![credit](../../assets/android/faces/lm2/credit.gif) | ![credit](../../assets/android/faces_png/lm2/credit.png) |
 
 ## lm2lny [腦魔2新年版]
 
@@ -1456,7 +1456,7 @@ To 2025-02-03T00:00:00+08:00
 | yipes | `#[yipes]#lm2lny` | ![yipes](../../assets/android/faces/lm2lny/yipes.gif) | ![yipes](../../assets/android/faces_png/lm2lny/yipes.png) |
 | cry | `#:~(#lm2lny` | ![cry](../../assets/android/faces/lm2lny/cry.gif) | ![cry](../../assets/android/faces_png/lm2lny/cry.png) |
 | dust | `#dust#lm2lny` | ![dust](../../assets/android/faces/lm2lny/dust.gif) | ![dust](../../assets/android/faces_png/lm2lny/dust.png) |
-| credit | `undefined` | ![credit](../../assets/android/faces/lm2lny/credit.gif) | ![credit](../../assets/android/faces_png/lm2lny/credit.png) |
+| credit | `#credit#lm2lny` | ![credit](../../assets/android/faces/lm2lny/credit.gif) | ![credit](../../assets/android/faces_png/lm2lny/credit.png) |
 
 ## fs [FS]
 | Filename | Emoji | GIF | PNG |
@@ -1713,10 +1713,10 @@ To 1970-01-01T08:00:00+08:00
 | fight1 | `#fight1#husky` | ![fight1](../../assets/android/faces/husky/fight1.gif) | ![fight1](../../assets/android/faces_png/husky/fight1.png) |
 | fight2 | `#fight2#husky` | ![fight2](../../assets/android/faces/husky/fight2.gif) | ![fight2](../../assets/android/faces_png/husky/fight2.png) |
 | lihkg | `#lihkg#husky` | ![lihkg](../../assets/android/faces/husky/lihkg.gif) | ![lihkg](../../assets/android/faces_png/husky/lihkg.png) |
-| beg_connect | `undefined` | ![beg_connect](../../assets/android/faces/husky/beg_connect.gif) | ![beg_connect](../../assets/android/faces_png/husky/beg_connect.png) |
-| beg_connect_AB | `undefined` | ![beg_connect_AB](../../assets/android/faces/husky/beg_connect_AB.gif) | ![beg_connect_AB](../../assets/android/faces_png/husky/beg_connect_AB.png) |
-| beg_connect_BA | `undefined` | ![beg_connect_BA](../../assets/android/faces/husky/beg_connect_BA.gif) | ![beg_connect_BA](../../assets/android/faces_png/husky/beg_connect_BA.png) |
-| fight_connect | `undefined` | ![fight_connect](../../assets/android/faces/husky/fight_connect.gif) | ![fight_connect](../../assets/android/faces_png/husky/fight_connect.png) |
-| fight_connect_AB | `undefined` | ![fight_connect_AB](../../assets/android/faces/husky/fight_connect_AB.gif) | ![fight_connect_AB](../../assets/android/faces_png/husky/fight_connect_AB.png) |
-| fight_connect_BA | `undefined` | ![fight_connect_BA](../../assets/android/faces/husky/fight_connect_BA.gif) | ![fight_connect_BA](../../assets/android/faces_png/husky/fight_connect_BA.png) |
+| beg_connect | `#give#husky #beg#husky` | ![beg_connect](../../assets/android/faces/husky/beg_connect.gif) | ![beg_connect](../../assets/android/faces_png/husky/beg_connect.png) |
+| beg_connect_AB | `#give#dog #beg#husky` | ![beg_connect_AB](../../assets/android/faces/husky/beg_connect_AB.gif) | ![beg_connect_AB](../../assets/android/faces_png/husky/beg_connect_AB.png) |
+| beg_connect_BA | `#give#husky #beg#dog` | ![beg_connect_BA](../../assets/android/faces/husky/beg_connect_BA.gif) | ![beg_connect_BA](../../assets/android/faces_png/husky/beg_connect_BA.png) |
+| fight_connect | `#fight1#husky #fight2#husky` | ![fight_connect](../../assets/android/faces/husky/fight_connect.gif) | ![fight_connect](../../assets/android/faces_png/husky/fight_connect.png) |
+| fight_connect_AB | `#fight1#dog #fight2#husky` | ![fight_connect_AB](../../assets/android/faces/husky/fight_connect_AB.gif) | ![fight_connect_AB](../../assets/android/faces_png/husky/fight_connect_AB.png) |
+| fight_connect_BA | `#fight1#husky #fight2#dog` | ![fight_connect_BA](../../assets/android/faces/husky/fight_connect_BA.gif) | ![fight_connect_BA](../../assets/android/faces_png/husky/fight_connect_BA.png) |
 

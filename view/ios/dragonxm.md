@@ -41,9 +41,9 @@ To 2024-12-31T23:59:59+08:00
 | z | `#z#dragonxm` | ![z](../../assets/ios/faces/dragonxm/z.gif) | ![z](../../assets/ios/faces_png/dragonxm/z.png) |
 | wind | `#wind#dragonxm` | ![wind](../../assets/ios/faces/dragonxm/wind.gif) | ![wind](../../assets/ios/faces_png/dragonxm/wind.png) |
 | lihkg | `#lihkg#dragonxm` | ![lihkg](../../assets/ios/faces/dragonxm/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/dragonxm/lihkg.png) |
-| angry_connect | `undefined` | ![angry_connect](../../assets/ios/faces/dragonxm/angry_connect.gif) | ![angry_connect](../../assets/ios/faces_png/dragonxm/angry_connect.png) |
-| angry_connect2 | `undefined` | ![angry_connect2](../../assets/ios/faces/dragonxm/angry_connect2.gif) | ![angry_connect2](../../assets/ios/faces_png/dragonxm/angry_connect2.png) |
-| angry_special | `undefined` | ![angry_special](../../assets/ios/faces/dragonxm/angry_special.gif) | ![angry_special](../../assets/ios/faces_png/dragonxm/angry_special.png) |
-| backpain_connect | `undefined` | ![backpain_connect](../../assets/ios/faces/dragonxm/backpain_connect.gif) | ![backpain_connect](../../assets/ios/faces_png/dragonxm/backpain_connect.png) |
-| wheelchair_connect | `undefined` | ![wheelchair_connect](../../assets/ios/faces/dragonxm/wheelchair_connect.gif) | ![wheelchair_connect](../../assets/ios/faces_png/dragonxm/wheelchair_connect.png) |
+| angry_connect | `#spit#dragonxm #gun#mousexm` | ![angry_connect](../../assets/ios/faces/dragonxm/angry_connect.gif) | ![angry_connect](../../assets/ios/faces_png/dragonxm/angry_connect.png) |
+| angry_connect2 | `#:-[#dragonxm #tired#mousexm` | ![angry_connect2](../../assets/ios/faces/dragonxm/angry_connect2.gif) | ![angry_connect2](../../assets/ios/faces_png/dragonxm/angry_connect2.png) |
+| angry_special | `#:-[#dragonxm #midfinger#dragonxm` | ![angry_special](../../assets/ios/faces/dragonxm/angry_special.gif) | ![angry_special](../../assets/ios/faces_png/dragonxm/angry_special.png) |
+| backpain_connect | `#throw#catxm #backpain#dragonxm` | ![backpain_connect](../../assets/ios/faces/dragonxm/backpain_connect.gif) | ![backpain_connect](../../assets/ios/faces_png/dragonxm/backpain_connect.png) |
+| wheelchair_connect | `#car#cowxm #wheelchair#dragonxm` | ![wheelchair_connect](../../assets/ios/faces/dragonxm/wheelchair_connect.gif) | ![wheelchair_connect](../../assets/ios/faces_png/dragonxm/wheelchair_connect.png) |
 

@@ -33,5 +33,5 @@ To 2024-12-31T23:59:59+08:00
 | stretching | `#stretching#catxm` | ![stretching](../../assets/android/faces/catxm/stretching.gif) | ![stretching](../../assets/android/faces_png/catxm/stretching.png) |
 | lucky | `#lucky#catxm` | ![lucky](../../assets/android/faces/catxm/lucky.gif) | ![lucky](../../assets/android/faces_png/catxm/lucky.png) |
 | lihkg | `#lihkg#catxm` | ![lihkg](../../assets/android/faces/catxm/lihkg.gif) | ![lihkg](../../assets/android/faces_png/catxm/lihkg.png) |
-| throw_connect | `undefined` | ![throw_connect](../../assets/android/faces/catxm/throw_connect.gif) | ![throw_connect](../../assets/android/faces_png/catxm/throw_connect.png) |
+| throw_connect | `#throw#catxm #beg#dogxm` | ![throw_connect](../../assets/android/faces/catxm/throw_connect.gif) | ![throw_connect](../../assets/android/faces_png/catxm/throw_connect.png) |
 

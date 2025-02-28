@@ -105,5 +105,5 @@
 | burnt | `#burnt#lm2` | ![burnt](../../assets/android/faces/lm2/burnt.gif) | ![burnt](../../assets/android/faces_png/lm2/burnt.png) |
 | evil | `#evil#lm2` | ![evil](../../assets/android/faces/lm2/evil.gif) | ![evil](../../assets/android/faces_png/lm2/evil.png) |
 | ghost | `#ghost#lm2` | ![ghost](../../assets/android/faces/lm2/ghost.gif) | ![ghost](../../assets/android/faces_png/lm2/ghost.png) |
-| credit | `undefined` | ![credit](../../assets/android/faces/lm2/credit.gif) | ![credit](../../assets/android/faces_png/lm2/credit.png) |
+| credit | `#credit#lm2` | ![credit](../../assets/android/faces/lm2/credit.gif) | ![credit](../../assets/android/faces_png/lm2/credit.png) |
 

@@ -38,7 +38,7 @@
 | rubbish | `#rubbish#mouse` | ![rubbish](../../assets/android/faces/mouse/rubbish.gif) | ![rubbish](../../assets/android/faces_png/mouse/rubbish.png) |
 | wind | `#wind#mouse` | ![wind](../../assets/android/faces/mouse/wind.gif) | ![wind](../../assets/android/faces_png/mouse/wind.png) |
 | lihkg | `#lihkg#mouse` | ![lihkg](../../assets/android/faces/mouse/lihkg.gif) | ![lihkg](../../assets/android/faces_png/mouse/lihkg.png) |
-| smile_special | `undefined` | ![smile_special](../../assets/android/faces/mouse/smile_special.gif) | ![smile_special](../../assets/android/faces_png/mouse/smile_special.png) |
-| vampire_special | `undefined` | ![vampire_special](../../assets/android/faces/mouse/vampire_special.gif) | ![vampire_special](../../assets/android/faces_png/mouse/vampire_special.png) |
-| miracle_special | `undefined` | ![miracle_special](../../assets/android/faces/mouse/miracle_special.gif) | ![miracle_special](../../assets/android/faces_png/mouse/miracle_special.png) |
+| smile_special | `#:)#mouse #stare#cat` | ![smile_special](../../assets/android/faces/mouse/smile_special.gif) | ![smile_special](../../assets/android/faces_png/mouse/smile_special.png) |
+| vampire_special | `#awake#mouse #vampire#mouse` | ![vampire_special](../../assets/android/faces/mouse/vampire_special.gif) | ![vampire_special](../../assets/android/faces_png/mouse/vampire_special.png) |
+| miracle_special | `#pray#mouse #please#mouse #miracle#mouse` | ![miracle_special](../../assets/android/faces/mouse/miracle_special.gif) | ![miracle_special](../../assets/android/faces_png/mouse/miracle_special.png) |
 

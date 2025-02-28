@@ -49,12 +49,12 @@
 | fight3 | `#fight3#dog` | ![fight3](../../assets/android/faces/dog/fight3.gif) | ![fight3](../../assets/android/faces_png/dog/fight3.png) |
 | npc2 | `#npc2#dog` | ![npc2](../../assets/android/faces/dog/npc2.gif) | ![npc2](../../assets/android/faces_png/dog/npc2.png) |
 | lihkg | `#lihkg#dog` | ![lihkg](../../assets/android/faces/dog/lihkg.gif) | ![lihkg](../../assets/android/faces_png/dog/lihkg.png) |
-| beg_connect | `undefined` | ![beg_connect](../../assets/android/faces/dog/beg_connect.gif) | ![beg_connect](../../assets/android/faces_png/dog/beg_connect.png) |
-| fight_connect | `undefined` | ![fight_connect](../../assets/android/faces/dog/fight_connect.gif) | ![fight_connect](../../assets/android/faces_png/dog/fight_connect.png) |
-| fight_connect2 | `undefined` | ![fight_connect2](../../assets/android/faces/dog/fight_connect2.gif) | ![fight_connect2](../../assets/android/faces_png/dog/fight_connect2.png) |
-| fight_connect3 | `undefined` | ![fight_connect3](../../assets/android/faces/dog/fight_connect3.gif) | ![fight_connect3](../../assets/android/faces_png/dog/fight_connect3.png) |
-| fight3_special | `undefined` | ![fight3_special](../../assets/android/faces/dog/fight3_special.gif) | ![fight3_special](../../assets/android/faces_png/dog/fight3_special.png) |
-| fight_special | `undefined` | ![fight_special](../../assets/android/faces/dog/fight_special.gif) | ![fight_special](../../assets/android/faces_png/dog/fight_special.png) |
-| fight3_connect | `undefined` | ![fight3_connect](../../assets/android/faces/dog/fight3_connect.gif) | ![fight3_connect](../../assets/android/faces_png/dog/fight3_connect.png) |
-| fight3_special2 | `undefined` | ![fight3_special2](../../assets/android/faces/dog/fight3_special2.gif) | ![fight3_special2](../../assets/android/faces_png/dog/fight3_special2.png) |
+| beg_connect | `#give#dog #beg#dog` | ![beg_connect](../../assets/android/faces/dog/beg_connect.gif) | ![beg_connect](../../assets/android/faces_png/dog/beg_connect.png) |
+| fight_connect | `#fight1#dog #fight2#dog` | ![fight_connect](../../assets/android/faces/dog/fight_connect.gif) | ![fight_connect](../../assets/android/faces_png/dog/fight_connect.png) |
+| fight_connect2 | `#fight2#dog #fight1#dog` | ![fight_connect2](../../assets/android/faces/dog/fight_connect2.gif) | ![fight_connect2](../../assets/android/faces_png/dog/fight_connect2.png) |
+| fight_connect3 | `#fight1#dog #npc2#dog` | ![fight_connect3](../../assets/android/faces/dog/fight_connect3.gif) | ![fight_connect3](../../assets/android/faces_png/dog/fight_connect3.png) |
+| fight3_special | `#fight3#dog #fight3#dog #fight3#dog` | ![fight3_special](../../assets/android/faces/dog/fight3_special.gif) | ![fight3_special](../../assets/android/faces_png/dog/fight3_special.png) |
+| fight_special | `#fight1#dog #fight3#dog` | ![fight_special](../../assets/android/faces/dog/fight_special.gif) | ![fight_special](../../assets/android/faces_png/dog/fight_special.png) |
+| fight3_connect | `#power#cow #fight3#dog` | ![fight3_connect](../../assets/android/faces/dog/fight3_connect.gif) | ![fight3_connect](../../assets/android/faces_png/dog/fight3_connect.png) |
+| fight3_special2 | `#npc2#dog #fight3#dog` | ![fight3_special2](../../assets/android/faces/dog/fight3_special2.gif) | ![fight3_special2](../../assets/android/faces_png/dog/fight3_special2.png) |
 

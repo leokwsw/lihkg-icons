@@ -27,5 +27,5 @@
 | stretching | `#stretching#cat` | ![stretching](../../assets/ios/faces/cat/stretching.gif) | ![stretching](../../assets/ios/faces_png/cat/stretching.png) |
 | lucky | `#lucky#cat` | ![lucky](../../assets/ios/faces/cat/lucky.gif) | ![lucky](../../assets/ios/faces_png/cat/lucky.png) |
 | lihkg | `#lihkg#cat` | ![lihkg](../../assets/ios/faces/cat/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/cat/lihkg.png) |
-| throw_connect | `undefined` | ![throw_connect](../../assets/ios/faces/cat/throw_connect.gif) | ![throw_connect](../../assets/ios/faces_png/cat/throw_connect.png) |
+| throw_connect | `#throw#cat #beg#dog` | ![throw_connect](../../assets/ios/faces/cat/throw_connect.gif) | ![throw_connect](../../assets/ios/faces_png/cat/throw_connect.png) |
 

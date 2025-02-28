@@ -38,13 +38,13 @@ To 2024-12-31T23:59:59+08:00
 | yawn | `#yawn#rabbitxm` | ![yawn](../../assets/android/faces/rabbitxm/yawn.gif) | ![yawn](../../assets/android/faces_png/rabbitxm/yawn.png) |
 | fly | `#fly#rabbitxm` | ![fly](../../assets/android/faces/rabbitxm/fly.gif) | ![fly](../../assets/android/faces_png/rabbitxm/fly.png) |
 | lihkg | `#lihkg#rabbitxm` | ![lihkg](../../assets/android/faces/rabbitxm/lihkg.gif) | ![lihkg](../../assets/android/faces_png/rabbitxm/lihkg.png) |
-| clap_special | `undefined` | ![clap_special](../../assets/android/faces/rabbitxm/clap_special.gif) | ![clap_special](../../assets/android/faces_png/rabbitxm/clap_special.png) |
-| eat_connect | `undefined` | ![eat_connect](../../assets/android/faces/rabbitxm/eat_connect.gif) | ![eat_connect](../../assets/android/faces_png/rabbitxm/eat_connect.png) |
-| hammer_connect | `undefined` | ![hammer_connect](../../assets/android/faces/rabbitxm/hammer_connect.gif) | ![hammer_connect](../../assets/android/faces_png/rabbitxm/hammer_connect.png) |
-| lihkg_special | `undefined` | ![lihkg_special](../../assets/android/faces/rabbitxm/lihkg_special.gif) | ![lihkg_special](../../assets/android/faces_png/rabbitxm/lihkg_special.png) |
-| roast_connect | `undefined` | ![roast_connect](../../assets/android/faces/rabbitxm/roast_connect.gif) | ![roast_connect](../../assets/android/faces_png/rabbitxm/roast_connect.png) |
-| roast_connect2 | `undefined` | ![roast_connect2](../../assets/android/faces/rabbitxm/roast_connect2.gif) | ![roast_connect2](../../assets/android/faces_png/rabbitxm/roast_connect2.png) |
-| axe_connect | `undefined` | ![axe_connect](../../assets/android/faces/rabbitxm/axe_connect.gif) | ![axe_connect](../../assets/android/faces_png/rabbitxm/axe_connect.png) |
-| roast_connect3 | `undefined` | ![roast_connect3](../../assets/android/faces/rabbitxm/roast_connect3.gif) | ![roast_connect3](../../assets/android/faces_png/rabbitxm/roast_connect3.png) |
-| saw_connect | `undefined` | ![saw_connect](../../assets/android/faces/rabbitxm/saw_connect.gif) | ![saw_connect](../../assets/android/faces_png/rabbitxm/saw_connect.png) |
+| clap_special | `#clap#rabbitxm #creepy#rabbitxm` | ![clap_special](../../assets/android/faces/rabbitxm/clap_special.gif) | ![clap_special](../../assets/android/faces_png/rabbitxm/clap_special.png) |
+| eat_connect | `#eat#rabbitxm #eating#lm2xm` | ![eat_connect](../../assets/android/faces/rabbitxm/eat_connect.gif) | ![eat_connect](../../assets/android/faces_png/rabbitxm/eat_connect.png) |
+| hammer_connect | `#it3#dogxm #axe#rabbitxm` | ![hammer_connect](../../assets/android/faces/rabbitxm/hammer_connect.gif) | ![hammer_connect](../../assets/android/faces_png/rabbitxm/hammer_connect.png) |
+| lihkg_special | `#saw#rabbitxm #lihkg#rabbitxm` | ![lihkg_special](../../assets/android/faces/rabbitxm/lihkg_special.gif) | ![lihkg_special](../../assets/android/faces_png/rabbitxm/lihkg_special.png) |
+| roast_connect | `#cooking#pigxm #:)#rabbitxm` | ![roast_connect](../../assets/android/faces/rabbitxm/roast_connect.gif) | ![roast_connect](../../assets/android/faces_png/rabbitxm/roast_connect.png) |
+| roast_connect2 | `#:)#rabbitxm #cooking#pigxm` | ![roast_connect2](../../assets/android/faces/rabbitxm/roast_connect2.gif) | ![roast_connect2](../../assets/android/faces_png/rabbitxm/roast_connect2.png) |
+| axe_connect | `#car#cowxm #axe#rabbitxm` | ![axe_connect](../../assets/android/faces/rabbitxm/axe_connect.gif) | ![axe_connect](../../assets/android/faces_png/rabbitxm/axe_connect.png) |
+| roast_connect3 | `#:)#rabbitxm #kill#pigxm` | ![roast_connect3](../../assets/android/faces/rabbitxm/roast_connect3.gif) | ![roast_connect3](../../assets/android/faces_png/rabbitxm/roast_connect3.png) |
+| saw_connect | `#saw#rabbitxm #gun#mousexm` | ![saw_connect](../../assets/android/faces/rabbitxm/saw_connect.gif) | ![saw_connect](../../assets/android/faces_png/rabbitxm/saw_connect.png) |
 

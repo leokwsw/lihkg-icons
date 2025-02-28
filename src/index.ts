@@ -196,8 +196,8 @@ function searchBracket(text: string): number {
 
                         if (Object.keys(specialDict).length > 0) {
                             Object.keys(specialDict).forEach(gifPath => {
-                                gifPath = gifPath.replace("assets/", `../assets/${platform}/`)
                                 let code = specialDict[gifPath]
+                                gifPath = gifPath.replace("assets/", `../assets/${platform}/`)
                                 let pngPath = gifPath.replace(/\.gif/g, ".png").replace(/faces/g, "faces_png")
                                 specialList.push([code, gifPath, pngPath])
                             })

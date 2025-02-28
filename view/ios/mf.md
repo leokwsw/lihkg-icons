@@ -53,12 +53,12 @@ To 2022-09-13T00:00:00+08:00
 | fuck | `#fuck#mf` | ![fuck](../../assets/ios/faces/mf/fuck.gif) | ![fuck](../../assets/ios/faces_png/mf/fuck.png) |
 | no | `#no#mf` | ![no](../../assets/ios/faces/mf/no.gif) | ![no](../../assets/ios/faces_png/mf/no.png) |
 | kill2 | `#kill2#mf` | ![kill2](../../assets/ios/faces/mf/kill2.gif) | ![kill2](../../assets/ios/faces_png/mf/kill2.png) |
-| special | `undefined` | ![special](../../assets/ios/faces/mf/special.gif) | ![special](../../assets/ios/faces_png/mf/special.png) |
-| special2 | `undefined` | ![special2](../../assets/ios/faces/mf/special2.gif) | ![special2](../../assets/ios/faces_png/mf/special2.png) |
-| special3 | `undefined` | ![special3](../../assets/ios/faces/mf/special3.gif) | ![special3](../../assets/ios/faces_png/mf/special3.png) |
-| special4 | `undefined` | ![special4](../../assets/ios/faces/mf/special4.gif) | ![special4](../../assets/ios/faces_png/mf/special4.png) |
-| special5 | `undefined` | ![special5](../../assets/ios/faces/mf/special5.gif) | ![special5](../../assets/ios/faces_png/mf/special5.png) |
-| special6 | `undefined` | ![special6](../../assets/ios/faces/mf/special6.gif) | ![special6](../../assets/ios/faces_png/mf/special6.png) |
-| special7 | `undefined` | ![special7](../../assets/ios/faces/mf/special7.gif) | ![special7](../../assets/ios/faces_png/mf/special7.png) |
-| special8 | `undefined` | ![special8](../../assets/ios/faces/mf/special8.gif) | ![special8](../../assets/ios/faces_png/mf/special8.png) |
+| special | `#:o)#mf #:)#mf` | ![special](../../assets/ios/faces/mf/special.gif) | ![special](../../assets/ios/faces_png/mf/special.png) |
+| special2 | `#:o)#mf #hoho#mf` | ![special2](../../assets/ios/faces/mf/special2.gif) | ![special2](../../assets/ios/faces_png/mf/special2.png) |
+| special3 | `#:o)#mf #good#mf` | ![special3](../../assets/ios/faces/mf/special3.gif) | ![special3](../../assets/ios/faces_png/mf/special3.png) |
+| special4 | `#:o)#mf #:-(#mf` | ![special4](../../assets/ios/faces/mf/special4.gif) | ![special4](../../assets/ios/faces_png/mf/special4.png) |
+| special5 | `#bye#mf #:)#mf` | ![special5](../../assets/ios/faces/mf/special5.gif) | ![special5](../../assets/ios/faces_png/mf/special5.png) |
+| special6 | `#[photo]#mf #:)#mf` | ![special6](../../assets/ios/faces/mf/special6.gif) | ![special6](../../assets/ios/faces_png/mf/special6.png) |
+| special7 | `#@_@#mf #:-[#mf` | ![special7](../../assets/ios/faces/mf/special7.gif) | ![special7](../../assets/ios/faces_png/mf/special7.png) |
+| special8 | `#ng#mf #cn#mf` | ![special8](../../assets/ios/faces/mf/special8.gif) | ![special8](../../assets/ios/faces_png/mf/special8.png) |
 
