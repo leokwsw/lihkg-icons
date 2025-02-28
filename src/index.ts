@@ -122,13 +122,12 @@ function searchBracket(text: string): number {
 
         zip.extractAllTo(folderName, true);
 
-        fs.rmdirSync("assets/faces", {recursive: true})
-        fs.rmdirSync("assets/faces_png", {recursive: true})
+        fs.rmdirSync(`assets/${platform}/faces`, {recursive: true})
+        fs.rmdirSync(`assets/${platform}/faces_png`, {recursive: true})
 
-
-        fs.moveSync(`${folderName}/limoji.json`, "assets/limoji.json", {overwrite: true})
-        fs.moveSync(`${folderName}/assets/faces`, "assets/faces", {overwrite: true})
-        fs.moveSync(`${folderName}/assets/faces_png`, "assets/faces_png", {overwrite: true})
+        fs.moveSync(`${folderName}/limoji.json`, `assets/${platform}/limoji.json`, {overwrite: true})
+        fs.moveSync(`${folderName}/assets/faces`, `assets/${platform}/faces`, {overwrite: true})
+        fs.moveSync(`${folderName}/assets/faces_png`, `assets/${platform}/faces_png`, {overwrite: true})
 
 
         const {document}: DOMWindow = await getWebWindow("https://lihkg.com", jar, version)
@@ -155,7 +154,8 @@ function searchBracket(text: string): number {
           url: mainScriptUrl,
           jar: jar,
           headers: {
-            "User-Agent": `LIHKG/${version} iOS/14.7.1 iPhone/iPhone 6s`
+            // "User-Agent": `LIHKG/${version} iOS/14.7.1 iPhone/iPhone 6s`
+            "User-Agent": verMap[platform],
           },
         })
 
@@ -172,19 +172,15 @@ function searchBracket(text: string): number {
           fs.removeSync("./src/tmp.ts")
         }
 
-        fs.writeFileSync("./src/mainJson.ts", `export default ${mainJsResStr}`, "utf8");
+        fs.writeFileSync(`./src/${platform}/mainJson.ts`, `export default ${mainJsResStr}`, "utf8");
 
         // fix the key not match for "xm" and "Xmas"
-        fs.writeFileSync("./assets/main.json", JSON.stringify(require("./mainJson").default, null, 2).replace("\"xmas\"", "\"xm\""))
+        fs.writeFileSync(`./assets/${platform}/main.json`, JSON.stringify(require(`./${platform}/mainJson`).default, null, 2).replace("\"xmas\"", "\"xm\""))
 
-        fs.removeSync("./src/mainJson.ts")
+        fs.removeSync(`./src/${platform}/mainJson.ts`)
 
-        const limoji = require('../assets/limoji.json');
-        const mainJson = require('../assets/main.json')
-
-        let mainContent = "| Code | Name | Preview | View |\n"
-        mainContent += "| --- | --- | --- | --- |\n"
-        mainContent += "| (All) | N/A | N/A | [View](./view/all.md) |\n"
+        const limoji = require(`../assets/${platform}/limoji.json`);
+        const mainJson = require(`../assets/${platform}/main.json`)
 
         let allContent = "# All icons\n"
 
@@ -208,6 +204,12 @@ function searchBracket(text: string): number {
           }
 
           let merge = []
+
+          icons.forEach(icon => {
+            icon[1] = icon[1].replace("assets/", `../assets/${platform}/`)
+            icon[2] = icon[2].replace("assets/", `../assets/${platform}/`)
+          })
+
           merge.push(...icons)
           merge.push(...specialList)
 
@@ -249,24 +251,55 @@ function searchBracket(text: string): number {
 
           viewContent += "\n"
 
-          fs.writeFileSync(`./view/${cat}.md`, viewContent)
-
-          mainContent += `| ${cat} | ${mapping[cat] ? mapping[cat] : cat} | ![${merge[0][1]}](${merge[0][1]}) | [View](./view/${cat}.md) |\n`
+          fs.writeFileSync(`./view/${platform}/${cat}.md`, viewContent)
 
           allContent += viewContent
         }
 
-        let readmeTemplate = fs.readFileSync("./README_TEMPLATE", "utf8")
-
-        let result = readmeTemplate.replace("{body}", mainContent);
-
-        fs.writeFileSync("./README.md", result, "utf8")
-        fs.writeFileSync(`./view/all.md`, allContent)
+        fs.writeFileSync(`./view/${platform}/all.md`, allContent)
 
         // fs.rmdirSync(folderName, {recursive: true})
         fs.rm(fileName)
       }
     })
   }
+
+  let mainContent = "| Code | Name | Preview | View(iOS) | View(Android) |\n"
+  mainContent += "| --- | --- | --- | --- | --- |\n"
+  mainContent += "| (All) | N/A | N/A | [View](./view/ios/all.md) | [View](./view/android/all.md) |\n"
+
+  const limoji = require(`../assets/ios/limoji.json`);
+  const mainJson = require(`../assets/ios/main.json`)
+
+  for (const packDict of limoji.emojis) {
+    let cat = packDict.cat
+
+    let merge = []
+
+    let icons = packDict["icons"]
+
+    let specialList = []
+
+    if (mainJson[cat] && Object.keys(mainJson[cat]).indexOf("special") >= 0) {
+      let specialDict: { [key: string]: string } = mainJson[cat]["special"]
+
+      if (Object.keys(specialDict).length > 0) {
+        Object.keys(specialDict).forEach(gifPath => {
+          let code = specialDict[gifPath]
+          let pngPath = gifPath.replace(/\.gif/g, ".png").replace(/faces/g, "faces_png")
+          specialList.push([code, gifPath, pngPath])
+        })
+      }
+    }
+
+    merge.push(...icons)
+    merge.push(...specialList)
+
+    mainContent += `| ${cat} | ${mapping[cat] ? mapping[cat] : cat} | ![ios/${merge[0][1]}](ios/${merge[0][1]}) | [View](./view/ios/${cat}.md) | [View](./view/android/${cat}.md) |\n`
+  }
+
+  let readmeTemplate = fs.readFileSync("./README_TEMPLATE", "utf8")
+  let result = readmeTemplate.replace("{body}", mainContent);
+  fs.writeFileSync("./README.md", result, "utf8")
 })()
 
