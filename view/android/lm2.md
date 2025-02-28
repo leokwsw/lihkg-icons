@@ -18,6 +18,7 @@
 | tongue2 | `#tongue2#lm2` | ![tongue2](../../assets/android/faces/lm2/tongue2.gif) | ![tongue2](../../assets/android/faces_png/lm2/tongue2.png) |
 | tongue3 | `#tongue3#lm2` | ![tongue3](../../assets/android/faces/lm2/tongue3.gif) | ![tongue3](../../assets/android/faces_png/lm2/tongue3.png) |
 | tongue4 | `#tongue4#lm2` | ![tongue4](../../assets/android/faces/lm2/tongue4.gif) | ![tongue4](../../assets/android/faces_png/lm2/tongue4.png) |
+| heyhey | `#heyhey#lm2` | ![heyhey](../../assets/android/faces/lm2/heyhey.gif) | ![heyhey](../../assets/android/faces_png/lm2/heyhey.png) |
 | lick | `#lick#lm2` | ![lick](../../assets/android/faces/lm2/lick.gif) | ![lick](../../assets/android/faces_png/lm2/lick.png) |
 | spinning | `#spinning#lm2` | ![spinning](../../assets/android/faces/lm2/spinning.gif) | ![spinning](../../assets/android/faces_png/lm2/spinning.png) |
 | spinning2 | `#spinning2#lm2` | ![spinning2](../../assets/android/faces/lm2/spinning2.gif) | ![spinning2](../../assets/android/faces_png/lm2/spinning2.png) |
@@ -30,8 +31,11 @@
 | sosad | `#[sosad]#lm2` | ![sosad](../../assets/android/faces/lm2/sosad.gif) | ![sosad](../../assets/android/faces_png/lm2/sosad.png) |
 | haha | `#haha#lm2` | ![haha](../../assets/android/faces/lm2/haha.gif) | ![haha](../../assets/android/faces_png/lm2/haha.png) |
 | nosee | `#nosee#lm2` | ![nosee](../../assets/android/faces/lm2/nosee.gif) | ![nosee](../../assets/android/faces_png/lm2/nosee.png) |
+| sosad2 | `#sosad2#lm2` | ![sosad2](../../assets/android/faces/lm2/sosad2.gif) | ![sosad2](../../assets/android/faces_png/lm2/sosad2.png) |
+| haha2 | `#haha2#lm2` | ![haha2](../../assets/android/faces/lm2/haha2.gif) | ![haha2](../../assets/android/faces_png/lm2/haha2.png) |
 | hoho | `#hoho#lm2` | ![hoho](../../assets/android/faces/lm2/hoho.gif) | ![hoho](../../assets/android/faces_png/lm2/hoho.png) |
 | aha | `#aha#lm2` | ![aha](../../assets/android/faces/lm2/aha.gif) | ![aha](../../assets/android/faces_png/lm2/aha.png) |
+| squint | `#squint#lm2` | ![squint](../../assets/android/faces/lm2/squint.gif) | ![squint](../../assets/android/faces_png/lm2/squint.png) |
 | love | `#love#lm2` | ![love](../../assets/android/faces/lm2/love.gif) | ![love](../../assets/android/faces_png/lm2/love.png) |
 | chu | `#chu#lm2` | ![chu](../../assets/android/faces/lm2/chu.gif) | ![chu](../../assets/android/faces_png/lm2/chu.png) |
 | hehe | `#hehe#lm2` | ![hehe](../../assets/android/faces/lm2/hehe.gif) | ![hehe](../../assets/android/faces_png/lm2/hehe.png) |
@@ -73,6 +77,7 @@
 | rise | `#rise#lm2` | ![rise](../../assets/android/faces/lm2/rise.gif) | ![rise](../../assets/android/faces_png/lm2/rise.png) |
 | wfc | `#wfc#lm2` | ![wfc](../../assets/android/faces/lm2/wfc.gif) | ![wfc](../../assets/android/faces_png/lm2/wfc.png) |
 | think | `#think#lm2` | ![think](../../assets/android/faces/lm2/think.gif) | ![think](../../assets/android/faces_png/lm2/think.png) |
+| eh | `#eh#lm2` | ![eh](../../assets/android/faces/lm2/eh.gif) | ![eh](../../assets/android/faces_png/lm2/eh.png) |
 | bandage | `#bandage#lm2` | ![bandage](../../assets/android/faces/lm2/bandage.gif) | ![bandage](../../assets/android/faces_png/lm2/bandage.png) |
 | adore | `#adore#lm2` | ![adore](../../assets/android/faces/lm2/adore.gif) | ![adore](../../assets/android/faces_png/lm2/adore.png) |
 | kiss2 | `#^3^#lm2` | ![kiss2](../../assets/android/faces/lm2/kiss2.gif) | ![kiss2](../../assets/android/faces_png/lm2/kiss2.png) |
@@ -80,12 +85,14 @@
 | nothing | `#nothing#lm2` | ![nothing](../../assets/android/faces/lm2/nothing.gif) | ![nothing](../../assets/android/faces_png/lm2/nothing.png) |
 | flowerface | `#[flowerface]#lm2` | ![flowerface](../../assets/android/faces/lm2/flowerface.gif) | ![flowerface](../../assets/android/faces_png/lm2/flowerface.png) |
 | muscle | `#muscle#lm2` | ![muscle](../../assets/android/faces/lm2/muscle.gif) | ![muscle](../../assets/android/faces_png/lm2/muscle.png) |
+| sad | `#sad#lm2` | ![sad](../../assets/android/faces/lm2/sad.gif) | ![sad](../../assets/android/faces_png/lm2/sad.png) |
 | tear | `#tear#lm2` | ![tear](../../assets/android/faces/lm2/tear.gif) | ![tear](../../assets/android/faces_png/lm2/tear.png) |
 | frown | `#:-(#lm2` | ![frown](../../assets/android/faces/lm2/frown.gif) | ![frown](../../assets/android/faces_png/lm2/frown.png) |
 | frownsmile | `#frownsmile#lm2` | ![frownsmile](../../assets/android/faces/lm2/frownsmile.gif) | ![frownsmile](../../assets/android/faces_png/lm2/frownsmile.png) |
 | angelsmile | `#angelsmile#lm2` | ![angelsmile](../../assets/android/faces/lm2/angelsmile.gif) | ![angelsmile](../../assets/android/faces_png/lm2/angelsmile.png) |
 | z | `#Z_Z#lm2` | ![z](../../assets/android/faces/lm2/z.gif) | ![z](../../assets/android/faces_png/lm2/z.png) |
 | noodles | `#noodles#lm2` | ![noodles](../../assets/android/faces/lm2/noodles.gif) | ![noodles](../../assets/android/faces_png/lm2/noodles.png) |
+| stare | `#stare#lm2` | ![stare](../../assets/android/faces/lm2/stare.gif) | ![stare](../../assets/android/faces_png/lm2/stare.png) |
 | lightbulb | `#lightbulb#lm2` | ![lightbulb](../../assets/android/faces/lm2/lightbulb.gif) | ![lightbulb](../../assets/android/faces_png/lm2/lightbulb.png) |
 | abomb | `#[abomb]#lm2` | ![abomb](../../assets/android/faces/lm2/abomb.gif) | ![abomb](../../assets/android/faces_png/lm2/abomb.png) |
 | selfdestruct | `#selfdestruct#lm2` | ![selfdestruct](../../assets/android/faces/lm2/selfdestruct.gif) | ![selfdestruct](../../assets/android/faces_png/lm2/selfdestruct.png) |
@@ -95,6 +102,7 @@
 | uggh | `#uggh#lm2` | ![uggh](../../assets/android/faces/lm2/uggh.gif) | ![uggh](../../assets/android/faces_png/lm2/uggh.png) |
 | cry | `#:~(#lm2` | ![cry](../../assets/android/faces/lm2/cry.gif) | ![cry](../../assets/android/faces_png/lm2/cry.png) |
 | dust | `#dust#lm2` | ![dust](../../assets/android/faces/lm2/dust.gif) | ![dust](../../assets/android/faces_png/lm2/dust.png) |
+| burnt | `#burnt#lm2` | ![burnt](../../assets/android/faces/lm2/burnt.gif) | ![burnt](../../assets/android/faces_png/lm2/burnt.png) |
 | evil | `#evil#lm2` | ![evil](../../assets/android/faces/lm2/evil.gif) | ![evil](../../assets/android/faces_png/lm2/evil.png) |
 | ghost | `#ghost#lm2` | ![ghost](../../assets/android/faces/lm2/ghost.gif) | ![ghost](../../assets/android/faces_png/lm2/ghost.png) |
 | credit | `#credit#lm2` | ![credit](../assets/faces/lm2/credit.gif) | ![credit](../assets/faces_png/lm2/credit.png) |

@@ -1,16 +1,16 @@
 {
   "success": 1,
-  "server_time": 1740718642,
+  "server_time": 1740718649,
   "response": {
     "asset": {
-      "version": "645",
+      "version": "646",
       "patch": [
         {
           "type": "base",
           "platform": 2,
           "app_version": "1728",
-          "asset_version": "645",
-          "url": "https://cdn.lihkg.com/upload/patch/an.645b.zip"
+          "asset_version": "646",
+          "url": "https://cdn.lihkg.com/upload/patch/an.646b.zip"
         }
       ]
     },

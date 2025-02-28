@@ -8,7 +8,7 @@ import {mapping} from "./mapping";
 import * as moment from 'moment-timezone';
 import 'moment/locale/zh-hk';
 import {importLog} from "./saveLog";
-import gplay from "google-play-scraper";
+import {app} from "./gplay";
 
 moment.tz.setDefault("Asia/Hong_Kong");
 
@@ -66,10 +66,10 @@ function searchBracket(text: string): number {
     moment.tz.setDefault("Asia/Hong_Kong");
     const jar = rp.jar()
 
-    let androidVersionRes = await gplay.app({appId: 'com.lihkg.app'})
+    let androidVersion2 = await app("com.lihkg.app")
 
-    console.log("Android version : " + androidVersionRes.version)
-    let androidVersion = androidVersionRes.version
+    console.log("Android version : " + androidVersion2)
+    let androidVersion = androidVersion2
 
     let versionRes = await rp("https://itunes.apple.com/lookup?bundleId=com.lihkg.forum-ios")
     let version: string = JSON.parse(versionRes)["results"][0]["version"]
