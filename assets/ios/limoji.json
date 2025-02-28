@@ -5211,6 +5211,11 @@
           "assets/faces_png/lm2/tongue4.png"
         ],
         [
+          "#heyhey#lm2",
+          "assets/faces/lm2/heyhey.gif",
+          "assets/faces_png/lm2/heyhey.png"
+        ],
+        [
           "#lick#lm2",
           "assets/faces/lm2/lick.gif",
           "assets/faces_png/lm2/lick.png"
@@ -5271,6 +5276,16 @@
           "assets/faces_png/lm2/nosee.png"
         ],
         [
+          "#sosad2#lm2",
+          "assets/faces/lm2/sosad2.gif",
+          "assets/faces_png/lm2/sosad2.png"
+        ],
+        [
+          "#haha2#lm2",
+          "assets/faces/lm2/haha2.gif",
+          "assets/faces_png/lm2/haha2.png"
+        ],
+        [
           "#hoho#lm2",
           "assets/faces/lm2/hoho.gif",
           "assets/faces_png/lm2/hoho.png"
@@ -5279,6 +5294,11 @@
           "#aha#lm2",
           "assets/faces/lm2/aha.gif",
           "assets/faces_png/lm2/aha.png"
+        ],
+        [
+          "#squint#lm2",
+          "assets/faces/lm2/squint.gif",
+          "assets/faces_png/lm2/squint.png"
         ],
         [
           "#love#lm2",
@@ -5486,6 +5506,11 @@
           "assets/faces_png/lm2/think.png"
         ],
         [
+          "#eh#lm2",
+          "assets/faces/lm2/eh.gif",
+          "assets/faces_png/lm2/eh.png"
+        ],
+        [
           "#bandage#lm2",
           "assets/faces/lm2/bandage.gif",
           "assets/faces_png/lm2/bandage.png"
@@ -5521,6 +5546,11 @@
           "assets/faces_png/lm2/muscle.png"
         ],
         [
+          "#sad#lm2",
+          "assets/faces/lm2/sad.gif",
+          "assets/faces_png/lm2/sad.png"
+        ],
+        [
           "#tear#lm2",
           "assets/faces/lm2/tear.gif",
           "assets/faces_png/lm2/tear.png"
@@ -5549,6 +5579,11 @@
           "#noodles#lm2",
           "assets/faces/lm2/noodles.gif",
           "assets/faces_png/lm2/noodles.png"
+        ],
+        [
+          "#stare#lm2",
+          "assets/faces/lm2/stare.gif",
+          "assets/faces_png/lm2/stare.png"
         ],
         [
           "#lightbulb#lm2",
@@ -5594,6 +5629,11 @@
           "#dust#lm2",
           "assets/faces/lm2/dust.gif",
           "assets/faces_png/lm2/dust.png"
+        ],
+        [
+          "#burnt#lm2",
+          "assets/faces/lm2/burnt.gif",
+          "assets/faces_png/lm2/burnt.png"
         ],
         [
           "#evil#lm2",
