@@ -3,14 +3,14 @@
   "server_time": 1741036665,
   "response": {
     "asset": {
-      "version": "646",
+      "version": "1104",
       "patch": [
         {
           "type": "base",
-          "platform": 2,
-          "app_version": "1728",
-          "asset_version": "646",
-          "url": "https://cdn.lihkg.com/upload/patch/an.646b.zip"
+          "platform": 1,
+          "app_version": "4.00",
+          "asset_version": "1104",
+          "url": "https://cdn.lihkg.com/upload/patch/ios.1104b.zip"
         }
       ]
     },
@@ -26,7 +26,7 @@
           {
             "cat_id": 1,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "吹水台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -125,7 +125,7 @@
           {
             "cat_id": 3,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "最　新",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -147,7 +147,7 @@
           {
             "cat_id": 4,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "手機台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -185,7 +185,7 @@
           {
             "cat_id": 5,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "時事台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -268,7 +268,7 @@
           {
             "cat_id": 33,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "政事台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -292,7 +292,7 @@
           {
             "cat_id": 38,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "World",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -316,7 +316,7 @@
           {
             "cat_id": 6,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "體育台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -354,7 +354,7 @@
           {
             "cat_id": 7,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "娛樂台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -392,7 +392,7 @@
           {
             "cat_id": 8,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "動漫台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -430,7 +430,7 @@
           {
             "cat_id": 9,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "Apps台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -454,7 +454,7 @@
           {
             "cat_id": 10,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "遊戲台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -492,7 +492,7 @@
           {
             "cat_id": 11,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "影視台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -530,7 +530,7 @@
           {
             "cat_id": 12,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "講故台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -568,7 +568,7 @@
           {
             "cat_id": 36,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "健康台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -592,7 +592,7 @@
           {
             "cat_id": 30,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "感情台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -630,7 +630,7 @@
           {
             "cat_id": 39,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "家庭台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -654,7 +654,7 @@
           {
             "cat_id": 13,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "潮流台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -678,7 +678,7 @@
           {
             "cat_id": 40,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "美容台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -702,7 +702,7 @@
           {
             "cat_id": 14,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "上班台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -740,7 +740,7 @@
           {
             "cat_id": 15,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "財經台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -778,7 +778,7 @@
           {
             "cat_id": 37,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "房屋台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -817,7 +817,7 @@
           {
             "cat_id": 16,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "飲食台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -855,7 +855,7 @@
           {
             "cat_id": 17,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "旅遊台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -893,7 +893,7 @@
           {
             "cat_id": 18,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "學術台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -946,7 +946,7 @@
           {
             "cat_id": 19,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "校園台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -984,7 +984,7 @@
           {
             "cat_id": 20,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "汽車台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1008,7 +1008,7 @@
           {
             "cat_id": 21,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "音樂台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1136,7 +1136,7 @@
           {
             "cat_id": 31,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "創意台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1204,7 +1204,7 @@
           {
             "cat_id": 22,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "硬件台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1228,7 +1228,7 @@
           {
             "cat_id": 41,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "電器台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1282,7 +1282,7 @@
           {
             "cat_id": 23,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "攝影台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1306,7 +1306,7 @@
           {
             "cat_id": 24,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "玩具台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1330,7 +1330,7 @@
           {
             "cat_id": 25,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "寵物台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1354,7 +1354,7 @@
           {
             "cat_id": 26,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "軟件台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1408,7 +1408,7 @@
           {
             "cat_id": 27,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "活動台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1432,7 +1432,7 @@
           {
             "cat_id": 35,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "電訊台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1456,7 +1456,7 @@
           {
             "cat_id": 34,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "直播台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1480,7 +1480,7 @@
           {
             "cat_id": 28,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "站務台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1504,7 +1504,7 @@
           {
             "cat_id": 29,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "成人台",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1542,7 +1542,7 @@
           {
             "cat_id": 32,
             "sub_cat_id": -1,
-            "name": "最新",
+            "name": "黑　洞",
             "postable": false,
             "filterable": false,
             "orderable": false,
@@ -1569,7 +1569,7 @@
               {
                 "cat_id": 1,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "吹水台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -1624,7 +1624,7 @@
               {
                 "cat_id": 31,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "創意台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -1738,7 +1738,7 @@
               {
                 "cat_id": 12,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "講故台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -1774,7 +1774,7 @@
               {
                 "cat_id": 3,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "最　新",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -1796,7 +1796,7 @@
               {
                 "cat_id": 18,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "學術台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -1854,7 +1854,7 @@
               {
                 "cat_id": 5,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "時事台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -1937,7 +1937,7 @@
               {
                 "cat_id": 38,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "World",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -1961,7 +1961,7 @@
               {
                 "cat_id": 33,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "政事台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -1985,7 +1985,7 @@
               {
                 "cat_id": 15,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "財經台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2023,7 +2023,7 @@
               {
                 "cat_id": 7,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "娛樂台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2061,7 +2061,7 @@
               {
                 "cat_id": 37,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "房屋台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2105,7 +2105,7 @@
               {
                 "cat_id": 4,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "手機台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2143,7 +2143,7 @@
               {
                 "cat_id": 41,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "電器台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2197,7 +2197,7 @@
               {
                 "cat_id": 9,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "Apps台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2221,7 +2221,7 @@
               {
                 "cat_id": 22,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "硬件台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2245,7 +2245,7 @@
               {
                 "cat_id": 26,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "軟件台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2304,7 +2304,7 @@
               {
                 "cat_id": 31,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "創意台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2372,7 +2372,7 @@
               {
                 "cat_id": 30,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "感情台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2410,7 +2410,7 @@
               {
                 "cat_id": 36,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "健康台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2434,7 +2434,7 @@
               {
                 "cat_id": 39,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "家庭台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2458,7 +2458,7 @@
               {
                 "cat_id": 16,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "飲食台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2496,7 +2496,7 @@
               {
                 "cat_id": 14,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "上班台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2534,7 +2534,7 @@
               {
                 "cat_id": 17,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "旅遊台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2572,7 +2572,7 @@
               {
                 "cat_id": 19,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "校園台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2610,7 +2610,7 @@
               {
                 "cat_id": 27,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "活動台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2639,7 +2639,7 @@
               {
                 "cat_id": 6,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "體育台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2677,7 +2677,7 @@
               {
                 "cat_id": 18,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "學術台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2730,7 +2730,7 @@
               {
                 "cat_id": 12,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "講故台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2768,7 +2768,7 @@
               {
                 "cat_id": 10,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "遊戲台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2806,7 +2806,7 @@
               {
                 "cat_id": 11,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "影視台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2844,7 +2844,7 @@
               {
                 "cat_id": 8,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "動漫台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2882,7 +2882,7 @@
               {
                 "cat_id": 23,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "攝影台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -2906,7 +2906,7 @@
               {
                 "cat_id": 21,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "音樂台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -3034,7 +3034,7 @@
               {
                 "cat_id": 20,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "汽車台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -3058,7 +3058,7 @@
               {
                 "cat_id": 25,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "寵物台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -3082,7 +3082,7 @@
               {
                 "cat_id": 24,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "玩具台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -3106,7 +3106,7 @@
               {
                 "cat_id": 13,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "潮流台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -3130,7 +3130,7 @@
               {
                 "cat_id": 34,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "直播台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -3154,7 +3154,7 @@
               {
                 "cat_id": 40,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "美容台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -3183,7 +3183,7 @@
               {
                 "cat_id": 28,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "站務台",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -3207,7 +3207,7 @@
               {
                 "cat_id": 32,
                 "sub_cat_id": -1,
-                "name": "最新",
+                "name": "黑　洞",
                 "postable": false,
                 "filterable": false,
                 "orderable": false,
@@ -3235,17 +3235,28 @@
       "pub": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzaOFjfmDduFR4znfDEgWLotEj8t1nlZDPzG80LvqA+QzFpy/ZXRQhjsQ1hLLGGS5+DL2j1vo6SMt68LjKndMPEKv+B8pJYkBZFqobQXa6As3qfbT3Tqb1vy0C6sXQKn/l2B8p0GSzeZ84BoyrPVNJGf1PB/yUXBihAFklJrtC/jLALq93er0hpuKc7ueRxIV7sEp3uDJpAKlZFYEQj46K1V+9F91Imyea1Hud68lH9WCLTdXhtQ4ALs0/d4p/S8WLhtp33MJvAMuxxISJsNUJ9W+EqsnQVzC2CUF1t5VUUujpEcd9PeSqOwYyfKRUr9Tjb/aPVP5qZXIvE/Cdpy0iwIDAQAB",
       "dm": true,
       "dsp": true,
-      "android": {
-        "lihkg": false,
-        "dv": true,
+      "ios": {
+        "bw": false,
+        "dc": 250,
+        "ds": 250,
+        "dd": 5000,
+        "dm": true,
+        "dz": false,
+        "dnwd": [
+          0,
+          1,
+          3,
+          7
+        ],
         "pri": 15,
         "maxpin": 10,
-        "ins_stc": 1000000,
-        "ins_itc": 100000000,
-        "remote_wasticker": true,
+        "sni": 1,
+        "pemsg": "到期日：%@\n注意：所有同步回帶將於到期後刪除",
         "nr": true,
         "nc": false,
-        "bw": false,
+        "sois": true,
+        "dv": true,
+        "erdi": true,
         "ad_config": {
           "available_types": [
             2,
@@ -3269,79 +3280,196 @@
           "creatives": {
             "gad_fullpage_post_back": {
               "ad_type": 2,
-              "ad_unit": "/244621734/ios-full-screen-priority-ads"
+              "ad_unit": "/244621734/ios-full-screen-priority-ads",
+              "loader_class": "DGInterstitialLoaderDFP",
+              "view_class": "DGAdFullScreenAdmobInterstitial"
             },
             "gad_fullpage_support_us": {
               "ad_type": 2,
-              "ad_unit": "ca-app-pub-3240616428100660/3855939120"
+              "ad_unit": "ca-app-pub-3240616428100660/5654993437",
+              "loader_class": "DGInterstitialLoaderDFP",
+              "view_class": "DGAdFullScreenAdmobInterstitial"
             },
             "gad_reward_ad": {
               "ad_type": 12,
-              "ad_unit": "ca-app-pub-3240616428100660/3709218015"
+              "ad_unit": "ca-app-pub-3240616428100660/9286206462",
+              "loader_class": "DGAdsLoaderRewardedAdGAD",
+              "view_class": "DGAdRewardAdGAD"
             },
             "gad_bottom_banner": {
               "ad_type": 5,
-              "ad_unit": "ca-mb-app-pub-1983042674979462/android/an-thread-list-bottom-banner"
+              "ad_unit": "ca-mb-app-pub-1983042674979462/1447665413/8017006972",
+              "loader_class": "DGAdsLoaderDFP",
+              "view_class": "DGAdContentViewBannerDFP"
+            },
+            "gad_post_native": {
+              "ad_type": 6,
+              "ad_unit": "ca-app-pub-3240616428100660/5195936147",
+              "loader_class": "DGAdsLoaderGADNative",
+              "view_class": "DGAdContentViewGADNative"
+            },
+            "gad_post_banner": {
+              "ad_type": 5,
+              "ad_unit": "ca-mb-app-pub-1983042674979462/1447665413/ios-post-banner",
+              "loader_class": "DGAdsLoaderDFP",
+              "view_class": "DGAdContentViewBannerDFP"
             },
             "gad_topic_banner": {
               "ad_type": 5,
-              "ad_unit": "ca-mb-app-pub-1983042674979462/android/an-thread-list-banner"
+              "ad_unit": "ca-mb-app-pub-1983042674979462/1447665413/ios-topic-list",
+              "loader_class": "DGAdsLoaderDFP",
+              "view_class": "DGAdContentViewBannerDFP"
+            },
+            "flurry_banner_topic": {
+              "ad_type": 3,
+              "ad_unit": "lihkg-thread-native-banner",
+              "loader_class": "DGAdsLoaderFlurry",
+              "view_class": "DGAdContentViewTopicListFlurry"
+            },
+            "flurry_banner_bottom": {
+              "ad_type": 3,
+              "ad_unit": "lihkg-thread-native-banner",
+              "loader_class": "DGAdsLoaderFlurry",
+              "view_class": "DGAdContentViewBannerFlurry"
+            },
+            "flurry_post_content": {
+              "ad_type": 3,
+              "ad_unit": "lihkg-thread-native-popup",
+              "loader_class": "DGAdsLoaderFlurry",
+              "view_class": "DGAdContentViewLRFlurry"
             },
             "mopub_bottom_banner": {
               "ad_type": 10,
-              "ad_unit": "e67a4c6f67af4c0bb65593fa9a34e2f8"
+              "ad_unit": "e51df98f08174297a0c5a416eb7c9080",
+              "loader_class": "DGAdsLoaderMopub",
+              "view_class": "DGAdContentViewMopubBanner"
             },
             "mopub_bottom_banner_native": {
               "ad_type": 11,
-              "ad_unit": "2dd63000081c4b9eb77188e562969fc9"
+              "ad_unit": "089f0bd430f54777be5494ae494223ae",
+              "loader_class": "DGAdsLoaderMopubNative",
+              "view_class": "DGAdContentViewMopubBannerNative"
             },
             "mopub_topiclist_banner": {
               "ad_type": 10,
-              "ad_unit": "57aa33cfc2b84bb3ba2b08b6bf6019c4"
+              "ad_unit": "3a87428f23b44179b0c62d525a282d9b",
+              "loader_class": "DGAdsLoaderMopub",
+              "view_class": "DGAdContentViewMopubBanner"
             },
             "mopub_topiclist_native": {
               "ad_type": 11,
-              "ad_unit": "710ccb2b68b64e0bb4b2e637d578a083"
+              "ad_unit": "fc7cbaa545f340df989e1930844c4dcb",
+              "loader_class": "DGAdsLoaderMopubNative",
+              "view_class": "DGAdContentViewMopubTopicListNative"
             },
-            "applovin_bottom_banner": {
-              "ad_type": 16,
-              "ad_unit": "cf148a84a91d07dd"
+            "mopub_post_content_native": {
+              "ad_type": 11,
+              "ad_unit": "64b09813050e49dbaf93fd3f85ff4f53",
+              "loader_class": "DGAdsLoaderMopubNative",
+              "view_class": "DGAdContentViewMopubLRNative"
             },
-            "applovin_bottom_banner_native": {
-              "ad_type": 17,
-              "ad_unit": "ec1cabb3c6a07c36"
-            },
-            "applovin_topiclist_mrec": {
-              "ad_type": 20,
-              "ad_unit": "1a692e856bf6f1a3"
-            },
-            "applovin_topiclist_banner": {
-              "ad_type": 16,
-              "ad_unit": "d890ce3a3a6f2a10"
-            },
-            "applovin_topiclist_native": {
-              "ad_type": 17,
-              "ad_unit": "db6ff5ffda258d81"
-            },
-            "applovin_support_us_fullpage": {
-              "ad_type": 18,
-              "ad_unit": "a8343293fd908722"
-            },
-            "applovin_game_reward": {
-              "ad_type": 19,
-              "ad_unit": "4b02c5c69ca7b347"
+            "mopub_post_content": {
+              "ad_type": 10,
+              "ad_unit": "bbecf913f3534b4ea749cf489e818870",
+              "loader_class": "DGAdsLoaderMopub",
+              "view_class": "DGAdContentViewMopubBanner"
             },
             "webview": {
               "ad_type": 8,
-              "ad_unit": "about:blank"
+              "ad_unit": "about:blank",
+              "loader_class": "DGAdsLoaderWebView",
+              "view_class": "DGAdContentViewWebView"
+            },
+            "verizon_post_content_native": {
+              "ad_type": 13,
+              "ad_unit": "8a969c15017777d4e942d765bcad0088",
+              "loader_class": "DGAdsLoaderVerizonNative",
+              "view_class": "DGAdContentViewVerizonLRNative"
+            },
+            "verizon_post_content": {
+              "ad_type": 14,
+              "ad_unit": "8a969c15017777d4e942d9002c7d00ae",
+              "loader_class": "DGAdsLoaderVerizonNative",
+              "view_class": "DGAdContentViewVerizonLRNative"
+            },
+            "direct_native_topic": {
+              "ad_type": 15,
+              "ad_unit": "",
+              "loader_class": "DGAdsLoaderDirectNativeAd",
+              "view_class": "DGAdContentViewDirectNativeBanner"
             },
             "direct_banner_topic": {
               "ad_type": 9,
-              "ad_unit": "https://lihkg.com/ads/category?ad_unit=/244621734/app-thread-native-ads"
+              "ad_unit": "https://lihkg.com/ads/category?ad_unit=/244621734/app-thread-native-ads",
+              "loader_class": "DGAdsLoaderFullScreenDirectAd",
+              "view_class": "DGAdContentViewDirectAd"
             },
             "direct_fullpage": {
               "ad_type": 9,
-              "ad_unit": "https://lihkg.com/ads/fullpage?ad_unit=/244621734/ios-full-screen-priority-ads"
+              "ad_unit": "https://lihkg.com/ads/fullpage?ad_unit=/244621734/ios-full-screen-priority-ads",
+              "loader_class": "DGAdsLoaderFullScreenDirectAd",
+              "view_class": "DGAdFullScreenDirectAd"
+            },
+            "applovin_bottom_banner": {
+              "ad_type": 16,
+              "ad_unit": "68184af4f9a67030",
+              "loader_class": "DGAdsLoaderAppLovinTradition",
+              "view_class": "DGAdContentViewAppLovinBanner",
+              "cache_limit": 3
+            },
+            "applovin_bottom_banner_native": {
+              "ad_type": 17,
+              "ad_unit": "a97cdcef4b449239",
+              "loader_class": "DGAdsLoaderAppLovinNative",
+              "view_class": "DGAdContentViewAppLovinNativeBanner",
+              "cache_limit": 3
+            },
+            "applovin_topiclist_banner": {
+              "ad_type": 16,
+              "ad_unit": "68184af4f9a67030",
+              "loader_class": "DGAdsLoaderAppLovinTradition",
+              "view_class": "DGAdContentViewAppLovinBanner",
+              "cache_limit": 3
+            },
+            "applovin_topiclist_native": {
+              "ad_type": 17,
+              "ad_unit": "a97cdcef4b449239",
+              "loader_class": "DGAdsLoaderAppLovinNative",
+              "view_class": "DGAdContentViewAppLovinNativeTopicList",
+              "cache_limit": 2
+            },
+            "applovin_topiclist_mrec": {
+              "ad_type": 20,
+              "ad_unit": "799824db55c7e441",
+              "loader_class": "DGAdsLoaderAppLovinTradition",
+              "view_class": "DGAdContentViewAppLovinLargeBanner",
+              "cache_limit": 2
+            },
+            "applovin_post_content_native": {
+              "ad_type": 17,
+              "ad_unit": "a97cdcef4b449239",
+              "loader_class": "DGAdsLoaderAppLovinNative",
+              "view_class": "DGAdContentViewAppLovinLargeNative",
+              "cache_limit": 2
+            },
+            "applovin_post_content": {
+              "ad_type": 16,
+              "ad_unit": "799824db55c7e441",
+              "loader_class": "DGAdsLoaderAppLovinTradition",
+              "view_class": "DGAdContentViewAppLovinLargeBanner",
+              "cache_limit": 2
+            },
+            "applovin_support_us_fullpage": {
+              "ad_type": 18,
+              "ad_unit": "9c9ffe663a39793c",
+              "loader_class": "DGAdsLoaderAppLovinInterstitial",
+              "view_class": "DGAdFullScreenAppLovinInterstitial"
+            },
+            "applovin_game_reward": {
+              "ad_type": 19,
+              "ad_unit": "99af36b0b46a06af",
+              "loader_class": "DGAdsLoaderAppLovinReward",
+              "view_class": "DGAdFullScreenAppLovinReward"
             }
           },
           "delivery": {
@@ -3349,22 +3477,30 @@
               "gad_bottom_banner": {
                 "rate": 0,
                 "backfill": [
+                  16,
                   17,
-                  16
+                  3
                 ]
               },
-              "applovin_bottom_banner_native": {
+              "flurry_banner_bottom": {
                 "rate": 0,
                 "backfill": [
-                  16,
+                  17,
                   5
                 ]
               },
               "applovin_bottom_banner": {
                 "rate": 1,
                 "backfill": [
-                  17,
-                  5
+                  3,
+                  17
+                ]
+              },
+              "applovin_bottom_banner_native": {
+                "rate": 0,
+                "backfill": [
+                  16,
+                  3
                 ]
               }
             },
@@ -3372,23 +3508,15 @@
               "gad_topic_banner": {
                 "rate": 0,
                 "backfill": [
-                  20,
+                  3,
                   16,
                   17
                 ]
               },
-              "applovin_topiclist_native": {
+              "flurry_banner_topic": {
                 "rate": 0,
                 "backfill": [
-                  20,
                   16,
-                  5
-                ]
-              },
-              "applovin_topiclist_banner": {
-                "rate": 0,
-                "backfill": [
-                  20,
                   17,
                   5
                 ]
@@ -3396,12 +3524,29 @@
               "applovin_topiclist_mrec": {
                 "rate": 1,
                 "backfill": [
+                  3,
+                  17
+                ]
+              },
+              "applovin_topiclist_banner": {
+                "rate": 0,
+                "backfill": [
+                  3,
+                  17
+                ]
+              },
+              "applovin_topiclist_native": {
+                "rate": 0,
+                "backfill": [
                   16,
-                  17,
-                  5
+                  3
                 ]
               },
               "direct_banner_topic": {
+                "rate": 0,
+                "backfill": []
+              },
+              "direct_native_topic": {
                 "rate": 0,
                 "backfill": []
               }
@@ -3416,10 +3561,72 @@
                 "backfill": []
               }
             },
+            "3": {
+              "gad_post_banner": {
+                "rate": 0,
+                "backfill": [
+                  16,
+                  17,
+                  3
+                ]
+              },
+              "gad_post_native": {
+                "rate": 0,
+                "backfill": [
+                  16,
+                  5,
+                  17,
+                  3
+                ]
+              },
+              "flurry_post_content": {
+                "rate": 0,
+                "backfill": [
+                  16,
+                  17,
+                  5
+                ]
+              },
+              "applovin_post_content_native": {
+                "rate": 0,
+                "backfill": [
+                  16,
+                  3
+                ]
+              },
+              "applovin_post_content": {
+                "rate": 1,
+                "backfill": [
+                  17,
+                  3
+                ]
+              },
+              "webview": {
+                "rate": 0,
+                "backfill": [
+                  16,
+                  3,
+                  17
+                ]
+              }
+            },
             "4": {
               "applovin_support_us_fullpage": {
                 "rate": 1,
+                "backfill": [
+                  12,
+                  2
+                ]
+              },
+              "gad_fullpage_support_us": {
+                "rate": 0,
                 "backfill": []
+              },
+              "gad_reward_ad": {
+                "rate": 0,
+                "backfill": [
+                  2
+                ]
               },
               "direct_fullpage": {
                 "rate": 0,
@@ -3427,67 +3634,65 @@
               }
             },
             "5": {
+              "gad_fullpage_support_us": {
+                "rate": 0,
+                "backfill": []
+              },
+              "gad_reward_ad": {
+                "rate": 0,
+                "backfill": [
+                  2
+                ]
+              },
               "applovin_game_reward": {
                 "rate": 1,
                 "backfill": [
-                  18
+                  12,
+                  2
                 ]
               },
               "applovin_support_us_fullpage": {
                 "rate": 0,
-                "backfill": []
-              }
-            }
-          },
-          "condition": {
-            "thread_list_bottom_banner": {
-              "show_on": {
-                "cat_id": [
-                  "1",
-                  "2",
-                  "3",
-                  "4",
-                  "5",
-                  "6",
-                  "7",
-                  "8",
-                  "9",
-                  "10",
-                  "11",
-                  "12",
-                  "13",
-                  "14",
-                  "15",
-                  "16",
-                  "17",
-                  "18",
-                  "19",
-                  "20",
-                  "21",
-                  "22",
-                  "23",
-                  "24",
-                  "25",
-                  "26",
-                  "27",
-                  "28",
-                  "29",
-                  "30",
-                  "31",
-                  "32",
-                  "33",
-                  "34",
-                  "35",
-                  "36",
-                  "37",
-                  "38",
-                  "999"
+                "backfill": [
+                  12,
+                  2
                 ]
               }
             }
           }
-        }
-      }
+        },
+        "ins_stc": 1000000,
+        "ins_itc": 100000000,
+        "ftm": {
+          "f0": 0.2,
+          "f1": [
+            5,
+            15
+          ],
+          "f2": 0.5,
+          "f3": 0.1,
+          "f4": 0.15,
+          "f5": 150,
+          "f6": 1,
+          "f7": 0,
+          "f8": 0.1,
+          "f9": 0.05,
+          "f10": 1,
+          "f11": [
+            -1,
+            -3,
+            -6
+          ],
+          "f12": [
+            0.1,
+            0.5
+          ],
+          "f13": "US",
+          "f14": "itms-apps://itunes.apple.com/%@/app/apple-store/id1178373396?mt=8"
+        },
+        "zth": 50
+      },
+      "dz": true
     }
   }
 }
