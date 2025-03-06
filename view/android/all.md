@@ -1273,6 +1273,7 @@ To 2022-12-20T00:00:00+08:00
 | yo | `#yo#lm2` | ![yo](../../assets/android/faces/lm2/yo.gif) | ![yo](../../assets/android/faces_png/lm2/yo.png) |
 | sosick | `#[sosick]#lm2` | ![sosick](../../assets/android/faces/lm2/sosick.gif) | ![sosick](../../assets/android/faces_png/lm2/sosick.png) |
 | mask | `#mask#lm2` | ![mask](../../assets/android/faces/lm2/mask.gif) | ![mask](../../assets/android/faces_png/lm2/mask.png) |
+| doubt | `#doubt#lm2` | ![doubt](../../assets/android/faces/lm2/doubt.gif) | ![doubt](../../assets/android/faces_png/lm2/doubt.png) |
 | diu | `#diu#lm2` | ![diu](../../assets/android/faces/lm2/diu.gif) | ![diu](../../assets/android/faces_png/lm2/diu.png) |
 | touch | `#touch#lm2` | ![touch](../../assets/android/faces/lm2/touch.gif) | ![touch](../../assets/android/faces_png/lm2/touch.png) |
 | wet | `#wet#lm2` | ![wet](../../assets/android/faces/lm2/wet.gif) | ![wet](../../assets/android/faces_png/lm2/wet.png) |

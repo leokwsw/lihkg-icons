@@ -149,35 +149,34 @@ function searchBracket(text: string): number {
                     }
                 }
 
-                let mainJsResStr: string = await rp({
-                    method: "GET",
-                    url: mainScriptUrl,
-                    jar: jar,
-                    headers: {
-                        // "User-Agent": `LIHKG/${version} iOS/14.7.1 iPhone/iPhone 6s`
-                        "User-Agent": verMap[platform],
-                    },
-                })
+                // let mainJsResStr: string = await rp({
+                //     method: "GET",
+                //     url: mainScriptUrl,
+                //     jar: jar,
+                //     headers: {
+                //         // "User-Agent": `LIHKG/${version} iOS/14.7.1 iPhone/iPhone 6s`
+                //         "User-Agent": verMap[platform],
+                //     },
+                // })
 
+                // let startPos = mainJsResStr.indexOf("{normal:{icons:{\"assets/faces/normal/")
+                // mainJsResStr = mainJsResStr.substring(startPos)
+                //
+                // let endPos = searchBracket(mainJsResStr)
+                // mainJsResStr = mainJsResStr.substring(0, endPos + 1)
 
-                let startPos = mainJsResStr.indexOf("{normal:{icons:{\"assets/faces/normal/")
-                mainJsResStr = mainJsResStr.substring(startPos)
-
-                let endPos = searchBracket(mainJsResStr)
-                mainJsResStr = mainJsResStr.substring(0, endPos + 1)
-
-                mainJsResStr = mainJsResStr.replace(/!0/g, "1")
+                // mainJsResStr = mainJsResStr.replace(/!0/g, "1")
 
                 if (fs.existsSync("./src/tmp.ts")) {
                     fs.removeSync("./src/tmp.ts")
                 }
 
-                fs.writeFileSync(`./src/${platform}/mainJson.ts`, `export default ${mainJsResStr}`, "utf8");
+                // fs.writeFileSync(`./src/${platform}/mainJson.ts`, `export default ${mainJsResStr}`, "utf8");
 
                 // fix the key not match for "xm" and "Xmas"
-                fs.writeFileSync(`./assets/${platform}/main.json`, JSON.stringify(require(`./${platform}/mainJson`).default, null, 2).replace("\"xmas\"", "\"xm\""))
+                // fs.writeFileSync(`./assets/${platform}/main.json`, JSON.stringify(require(`./${platform}/mainJson`).default, null, 2).replace("\"xmas\"", "\"xm\""))
 
-                fs.removeSync(`./src/${platform}/mainJson.ts`)
+                // fs.removeSync(`./src/${platform}/mainJson.ts`)
 
                 const limoji = require(`../assets/${platform}/limoji.json`);
                 const mainJson = require(`../assets/${platform}/main.json`)

@@ -1,0 +1,111 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>LIHKG 討論區</title>
+    <link rel="stylesheet" type="text/css" href="https://local.lihkg.com/assets/css/post2.css">
+    <meta name="viewport" content="user-scalable=no,width=device-width,initial-scale=1,maximum-scale=1">
+    <script>
+        var file_path = "https://local.lihkg.com/";
+        var isFirstLoad = true;
+        function __postReady() {
+            if( isFirstLoad ){
+                a_b.adsPerPage = 3;
+                a_b.adsNextPos = 7;
+                if (typeof cat_id !== "undefined") {                   
+                    if( [4, 5, 15, 18, 19, 31, 36, 37].indexOf(+cat_id) > -1 ) {
+                        a_b.adsPerPage = 2;
+                    } else if( [1, 6, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 33, 38].indexOf(+cat_id) > -1 ) {
+                        a_b.adsPerPage = 3;
+                    } else if( [9, 12, 27, 28, 29, 30, 32, 34, 35].indexOf(+cat_id) > -1 ) {
+                        a_b.adsPerPage = 5;
+                        a_b.adsNextPos = 5;
+                    
+                    }
+                }
+                
+                if (typeof is_adult_post !== "undefined" && is_adult_post) {
+                    a_b.adsPerPage = 5;
+                    a_b.adsNextPos = 5;
+                }
+
+                isFirstLoad = false;
+
+                if( typeof window.abPostReady === 'function' ) {
+                    abPostReady()
+                }
+            }
+        }
+    </script>
+    <script>
+        function loadConfig(){
+            var a = new Date();
+            var x = document.getElementsByTagName('script')[0];
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.src = 'https://cdn.lihkg.com/assets/js/an_config5.js?t='+a.getMonth()+'-'+a.getDate()+'-'+a.getHours();
+            // s.src = 'https://cdn.lihkg.com/assets/js/an_config5.js?t='+a.getTime();
+            x.parentNode.insertBefore(s, x);
+        }
+        loadConfig();
+    </script>
+</head>
+<body class="dark transparent" data-dark data-transparent>
+    <div id="pin-post">
+        <div class="title"></div>
+        <div class="content"></div>
+        <div class="remove-pin"><i class="icon icomoon-close2"></i></div>
+    </div>
+    <div id="cancel-user-only"><span>追故</span><i class="icon icomoon-close"></i></div>
+    <div id="main">
+        <div id="content">
+            <div class="post-list"></div>
+            <div class="load-more-loading"><img  class="faces" src="https://local.lihkg.com/assets/img/loading.gif"> <img  class="faces" src="https://local.lihkg.com/assets/img/loading.gif"> <img  class="faces" src="https://local.lihkg.com/assets/img/loading.gif">
+            </div>
+        </div>
+        <div id="child_thread"></div>
+    </div>
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TJQXR0T94W"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-TJQXR0T94W', {
+        send_page_view: false
+    });
+    __GA = {};
+    __GA.pageview = function(_thread_id, _cat_id, _title) {
+        var _tmp = {}
+        _tmp['cat_id_'+_cat_id+'_thread_id'] = _thread_id 
+        _tmp['thread_id'] = _thread_id
+        gtag('set', 'user_properties', _tmp);
+        gtag('set', 'content_group', '/thread/'+_thread_id);
+        gtag('set', 'page_title', '#'+_thread_id+'#'+_title);
+        var send_to = ['G-TJQXR0T94W']
+        if (_cat_id < 28) {
+            send_to.push('G-L8WS4GS6YR')
+        } else {
+            send_to.push('G-XXT0Y3PW8P')
+        }
+        gtag('event', 'page_view', {
+            'page_path': '/thread/'+_thread_id+'/',
+            'send_to': send_to
+        });
+
+        var _tmp = {}
+        _tmp['cat_id_'+_cat_id+'_thread_id'] = _thread_id 
+        _tmp['send_to'] = 'G-TJQXR0T94W'
+        gtag('event', 'cat_id_'+_cat_id+'_thread_id', _tmp);
+    };
+    __GA.exception = function (desc, fatal) {
+        gtag('event', 'exception', {
+          description: desc,
+          fatal: fatal,
+        })
+      }
+    </script>
+    <script async src="https://local.lihkg.com/assets/js/app.js"></script>
+    <div id="imp-track"></div>
+</body>
+</html>
