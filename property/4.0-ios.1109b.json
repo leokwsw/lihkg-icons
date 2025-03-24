@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1742800823,
+  "server_time": 1742804736,
   "response": {
     "asset": {
       "version": "1109",
@@ -3386,7 +3386,21 @@
               "ad_unit": "799824db55c7e441",
               "loader_class": "DGAdsLoaderAppLovinTradition",
               "view_class": "DGAdContentViewAppLovinLargeBanner",
-              "cache_limit": 3
+              "cache_limit": 2
+            },
+            "applovin_post_content_fallback": {
+              "ad_type": 16,
+              "ad_unit": "02cea497b7875573",
+              "loader_class": "DGAdsLoaderAppLovinTradition",
+              "view_class": "DGAdContentViewAppLovinLargeBanner",
+              "cache_limit": 2
+            },
+            "applovin_post_content_prime": {
+              "ad_type": 16,
+              "ad_unit": "2eadb1ff3777f27b",
+              "loader_class": "DGAdsLoaderAppLovinTradition",
+              "view_class": "DGAdContentViewAppLovinLargeBanner",
+              "cache_limit": 1
             },
             "applovin_support_us_fullpage": {
               "ad_type": 18,
@@ -3407,22 +3421,19 @@
                 "rate": 0,
                 "backfill": [
                   16,
-                  17,
-                  3
+                  17
                 ]
               },
               "applovin_bottom_banner": {
                 "rate": 1,
                 "backfill": [
-                  3,
                   17
                 ]
               },
               "applovin_bottom_banner_native": {
                 "rate": 0,
                 "backfill": [
-                  16,
-                  3
+                  16
                 ]
               }
             },
@@ -3430,7 +3441,6 @@
               "gad_topic_banner": {
                 "rate": 0,
                 "backfill": [
-                  3,
                   16,
                   17
                 ]
@@ -3438,22 +3448,19 @@
               "applovin_topiclist_mrec": {
                 "rate": 1,
                 "backfill": [
-                  3,
                   17
                 ]
               },
               "applovin_topiclist_banner": {
                 "rate": 0,
                 "backfill": [
-                  3,
                   17
                 ]
               },
               "applovin_topiclist_native": {
                 "rate": 0,
                 "backfill": [
-                  16,
-                  3
+                  16
                 ]
               },
               "direct_banner_topic": {
@@ -3480,8 +3487,7 @@
                 "rate": 0,
                 "backfill": [
                   16,
-                  17,
-                  3
+                  17
                 ]
               },
               "gad_post_native": {
@@ -3489,29 +3495,37 @@
                 "backfill": [
                   16,
                   5,
-                  17,
-                  3
+                  17
                 ]
               },
               "applovin_post_content_native": {
                 "rate": 0,
                 "backfill": [
-                  16,
-                  3
+                  16
                 ]
               },
               "applovin_post_content": {
                 "rate": 1,
                 "backfill": [
-                  17,
-                  3
+                  17
+                ]
+              },
+              "applovin_post_content_fallback": {
+                "rate": 1,
+                "backfill": [
+                  17
+                ]
+              },
+              "applovin_post_content_prime": {
+                "rate": 1,
+                "backfill": [
+                  17
                 ]
               },
               "webview": {
                 "rate": 0,
                 "backfill": [
                   16,
-                  3,
                   17
                 ]
               }
