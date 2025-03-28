@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1743182195,
+  "server_time": 1743186424,
   "response": {
     "version": {
       "latest_version": 1800,
@@ -3257,6 +3257,7 @@
         "nr": true,
         "nc": false,
         "bw": false,
+        "eslb": false,
         "ad_config": {
           "available_types": [
             2,
