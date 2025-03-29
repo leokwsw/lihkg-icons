@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1743229473,
+  "server_time": 1743236531,
   "response": {
     "asset": {
       "version": "1110",
@@ -3306,7 +3306,7 @@
             },
             "gad_post_banner": {
               "ad_type": 5,
-              "ad_unit": "ca-mb-app-pub-1983042674979462/1447665413/ios-post-banner",
+              "ad_unit": "ca-app-pub-3240616428100660/2701527036",
               "loader_class": "DGAdsLoaderDFP",
               "view_class": "DGAdContentViewBannerDFP"
             },
