@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1743261513,
+  "server_time": 1743298776,
   "response": {
     "asset": {
       "version": "1110",
@@ -3581,7 +3581,7 @@
         "ins_stc": 1000000,
         "ins_itc": 100000000,
         "ftm": {
-          "f0": 0.2,
+          "f0": 0.35,
           "f1": [
             5,
             15
