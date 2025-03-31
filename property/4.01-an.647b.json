@@ -1,18 +1,7 @@
 {
   "success": 1,
-  "server_time": 1743390322,
+  "server_time": 1743394991,
   "response": {
-    "version": {
-      "latest_version": 1800,
-      "is_need_update": false,
-      "title": "新版本通知",
-      "content": "立即更新版本，獲得最新功能、更好的穩定及順暢度",
-      "button": [
-        "更新",
-        "取消"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=com.lihkg.app"
-    },
     "asset": {
       "version": "647",
       "patch": [
