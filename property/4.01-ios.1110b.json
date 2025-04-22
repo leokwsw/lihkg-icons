@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1745356680,
+  "server_time": 1745360301,
   "response": {
     "version": {
       "latest_version": 4.01,
@@ -3355,35 +3355,35 @@
               "ad_unit": "68184af4f9a67030",
               "loader_class": "DGAdsLoaderAppLovinTradition",
               "view_class": "DGAdContentViewAppLovinBanner",
-              "cache_limit": 3
+              "cache_limit": 1
             },
             "applovin_bottom_banner_native": {
               "ad_type": 17,
               "ad_unit": "a97cdcef4b449239",
               "loader_class": "DGAdsLoaderAppLovinNative",
               "view_class": "DGAdContentViewAppLovinNativeBanner",
-              "cache_limit": 3
+              "cache_limit": 2
             },
             "applovin_topiclist_banner": {
               "ad_type": 16,
               "ad_unit": "68184af4f9a67030",
               "loader_class": "DGAdsLoaderAppLovinTradition",
               "view_class": "DGAdContentViewAppLovinBanner",
-              "cache_limit": 3
+              "cache_limit": 2
             },
             "applovin_topiclist_native": {
               "ad_type": 17,
               "ad_unit": "a97cdcef4b449239",
               "loader_class": "DGAdsLoaderAppLovinNative",
               "view_class": "DGAdContentViewAppLovinNativeTopicList",
-              "cache_limit": 3
+              "cache_limit": 2
             },
             "applovin_topiclist_mrec": {
               "ad_type": 20,
               "ad_unit": "799824db55c7e441",
               "loader_class": "DGAdsLoaderAppLovinTradition",
               "view_class": "DGAdContentViewAppLovinLargeBanner",
-              "cache_limit": 3
+              "cache_limit": 2
             },
             "applovin_post_content_native": {
               "ad_type": 17,
