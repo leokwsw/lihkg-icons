@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1750667358,
+  "server_time": 1750670672,
   "response": {
     "asset": {
       "version": "730",
@@ -8,7 +8,7 @@
         {
           "type": "base",
           "platform": 2,
-          "app_version": "1801",
+          "app_version": "1802",
           "asset_version": "730",
           "url": "https://cdn.lihkg.com/upload/patch/an.730b.zip"
         }
