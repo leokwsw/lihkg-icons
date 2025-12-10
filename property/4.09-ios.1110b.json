@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1765348489,
+  "server_time": 1765351433,
   "response": {
     "version": {
       "latest_version": 4.01,
@@ -3233,7 +3233,7 @@
       }
     ],
     "config": {
-      "is_gm": true,
+      "is_gm": false,
       "game_version": 2,
       "sticker_version": 2,
       "uploader": [
