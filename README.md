@@ -8,7 +8,7 @@ Collection of icons from [LIHKG (連登)](https://lihkg.com/)
 | hb | hb | ![ios/assets/faces/lihkg/smile_hb.gif](ios/assets/faces/lihkg/smile_hb.gif) | [View](./view/ios/hb.md) | [View](./view/android/hb.md) |
 | rip | RIP | ![ios/assets/faces/rip/flower.gif](ios/assets/faces/rip/flower.gif) | [View](./view/ios/rip.md) | [View](./view/android/rip.md) |
 | xm | 聖誕版 | ![ios/assets/faces/xm/smile.gif](ios/assets/faces/xm/smile.gif) | [View](./view/ios/xm.md) | [View](./view/android/xm.md) |
-| dragonxm | dragonxm | ![ios/assets/faces/dragonxm/smile.gif](ios/assets/faces/dragonxm/smile.gif) | [View](./view/ios/dragonxm.md) | [View](./view/android/dragonxm.md) |
+| snakexm | snakexm | ![ios/assets/faces/snakexm/smile.gif](ios/assets/faces/snakexm/smile.gif) | [View](./view/ios/snakexm.md) | [View](./view/android/snakexm.md) |
 | dogxm | 連狗聖誕版 | ![ios/assets/faces/dogxm/smile.gif](ios/assets/faces/dogxm/smile.gif) | [View](./view/ios/dogxm.md) | [View](./view/android/dogxm.md) |
 | pigxm | 連豬聖誕版 | ![ios/assets/faces/pigxm/smile.gif](ios/assets/faces/pigxm/smile.gif) | [View](./view/ios/pigxm.md) | [View](./view/android/pigxm.md) |
 | mousexm | 連鼠聖誕版 | ![ios/assets/faces/mousexm/smile.gif](ios/assets/faces/mousexm/smile.gif) | [View](./view/ios/mousexm.md) | [View](./view/android/mousexm.md) |
@@ -16,6 +16,7 @@ Collection of icons from [LIHKG (連登)](https://lihkg.com/)
 | cowxm | 連牛聖誕版 | ![ios/assets/faces/cowxm/smile.gif](ios/assets/faces/cowxm/smile.gif) | [View](./view/ios/cowxm.md) | [View](./view/android/cowxm.md) |
 | tigerxm | 連虎聖誕版 | ![ios/assets/faces/tigerxm/smile.gif](ios/assets/faces/tigerxm/smile.gif) | [View](./view/ios/tigerxm.md) | [View](./view/android/tigerxm.md) |
 | rabbitxm | 連兔聖誕版 | ![ios/assets/faces/rabbitxm/smile.gif](ios/assets/faces/rabbitxm/smile.gif) | [View](./view/ios/rabbitxm.md) | [View](./view/android/rabbitxm.md) |
+| dragonxm | dragonxm | ![ios/assets/faces/dragonxm/smile.gif](ios/assets/faces/dragonxm/smile.gif) | [View](./view/ios/dragonxm.md) | [View](./view/android/dragonxm.md) |
 | lm2xm | 腦魔2聖誕版 | ![ios/assets/faces/lm2xm/smile.gif](ios/assets/faces/lm2xm/smile.gif) | [View](./view/ios/lm2xm.md) | [View](./view/android/lm2xm.md) |
 | lny | 農曆新年版 | ![ios/assets/faces/lny/smile.gif](ios/assets/faces/lny/smile.gif) | [View](./view/ios/lny.md) | [View](./view/android/lny.md) |
 | mf | 中秋節版 | ![ios/assets/faces/mf/smile.png](ios/assets/faces/mf/smile.png) | [View](./view/ios/mf.md) | [View](./view/android/mf.md) |
