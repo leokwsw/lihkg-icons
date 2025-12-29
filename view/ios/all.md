@@ -1022,40 +1022,46 @@ To 2022-12-20T00:00:00+08:00
 | cook_connect | `#cooking#pig #fan#pig` | ![cook_connect](../../assets/ios/faces/pig/cook_connect.gif) | ![cook_connect](../../assets/ios/faces_png/pig/cook_connect.png) |
 | wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../../assets/ios/faces/pig/wine_connect.gif) | ![wine_connect](../../assets/ios/faces_png/pig/wine_connect.png) |
 
-## snake [snake]
+## horse [horse]
+
+### Show On
+From 2025-12-31T23:59:59+08:00
+
+To 2030-12-31T23:59:59+08:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
-| smile | `#:)#snake` | ![smile](../../assets/ios/faces/snake/smile.gif) | ![smile](../../assets/ios/faces_png/snake/smile.png) |
-| laugh | `#:D#snake` | ![laugh](../../assets/ios/faces/snake/laugh.gif) | ![laugh](../../assets/ios/faces_png/snake/laugh.png) |
-| nose | `#nose#snake` | ![nose](../../assets/ios/faces/snake/nose.gif) | ![nose](../../assets/ios/faces_png/snake/nose.png) |
-| want | `#want#snake` | ![want](../../assets/ios/faces/snake/want.gif) | ![want](../../assets/ios/faces_png/snake/want.png) |
-| knife | `#knife#snake` | ![knife](../../assets/ios/faces/snake/knife.gif) | ![knife](../../assets/ios/faces_png/snake/knife.png) |
-| shotgun | `#shotgun#snake` | ![shotgun](../../assets/ios/faces/snake/shotgun.gif) | ![shotgun](../../assets/ios/faces_png/snake/shotgun.png) |
-| explosion | `#explosion#snake` | ![explosion](../../assets/ios/faces/snake/explosion.gif) | ![explosion](../../assets/ios/faces_png/snake/explosion.png) |
-| sweat | `#sweat#snake` | ![sweat](../../assets/ios/faces/snake/sweat.gif) | ![sweat](../../assets/ios/faces_png/snake/sweat.png) |
-| write | `#write#snake` | ![write](../../assets/ios/faces/snake/write.gif) | ![write](../../assets/ios/faces_png/snake/write.png) |
-| confuse | `#confuse#snake` | ![confuse](../../assets/ios/faces/snake/confuse.gif) | ![confuse](../../assets/ios/faces_png/snake/confuse.png) |
-| wtf | `#wtf#snake` | ![wtf](../../assets/ios/faces/snake/wtf.gif) | ![wtf](../../assets/ios/faces_png/snake/wtf.png) |
-| scream | `#scream#snake` | ![scream](../../assets/ios/faces/snake/scream.gif) | ![scream](../../assets/ios/faces_png/snake/scream.png) |
-| shock | `#shock#snake` | ![shock](../../assets/ios/faces/snake/shock.gif) | ![shock](../../assets/ios/faces_png/snake/shock.png) |
-| wow | `#wow#snake` | ![wow](../../assets/ios/faces/snake/wow.gif) | ![wow](../../assets/ios/faces_png/snake/wow.png) |
-| boring | `#boring#snake` | ![boring](../../assets/ios/faces/snake/boring.gif) | ![boring](../../assets/ios/faces_png/snake/boring.png) |
-| sad | `#sad#snake` | ![sad](../../assets/ios/faces/snake/sad.gif) | ![sad](../../assets/ios/faces_png/snake/sad.png) |
-| sad2 | `#sad2#snake` | ![sad2](../../assets/ios/faces/snake/sad2.gif) | ![sad2](../../assets/ios/faces_png/snake/sad2.png) |
-| bye | `#bye#snake` | ![bye](../../assets/ios/faces/snake/bye.gif) | ![bye](../../assets/ios/faces_png/snake/bye.png) |
-| eat | `#eat#snake` | ![eat](../../assets/ios/faces/snake/eat.gif) | ![eat](../../assets/ios/faces_png/snake/eat.png) |
-| drink | `#drink#snake` | ![drink](../../assets/ios/faces/snake/drink.gif) | ![drink](../../assets/ios/faces_png/snake/drink.png) |
-| think | `#think#snake` | ![think](../../assets/ios/faces/snake/think.gif) | ![think](../../assets/ios/faces_png/snake/think.png) |
-| hypnosis | `#hypnosis#snake` | ![hypnosis](../../assets/ios/faces/snake/hypnosis.gif) | ![hypnosis](../../assets/ios/faces_png/snake/hypnosis.png) |
-| arcade | `#arcade#snake` | ![arcade](../../assets/ios/faces/snake/arcade.gif) | ![arcade](../../assets/ios/faces_png/snake/arcade.png) |
-| sign | `#sign#snake` | ![sign](../../assets/ios/faces/snake/sign.gif) | ![sign](../../assets/ios/faces_png/snake/sign.png) |
-| zzz | `#zzz#snake` | ![zzz](../../assets/ios/faces/snake/zzz.gif) | ![zzz](../../assets/ios/faces_png/snake/zzz.png) |
-| lihkg | `#lihkg#snake` | ![lihkg](../../assets/ios/faces/snake/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/snake/lihkg.png) |
-| hypnosis_connect | `#hypnosis#snake #awake#mouse` | ![hypnosis_connect](../../assets/ios/faces/snake/hypnosis_connect.gif) | ![hypnosis_connect](../../assets/ios/faces_png/snake/hypnosis_connect.png) |
-| knife_connect | `#knife#snake #stun#rabbit` | ![knife_connect](../../assets/ios/faces/snake/knife_connect.gif) | ![knife_connect](../../assets/ios/faces_png/snake/knife_connect.png) |
-| shotgun_special | `#shotgun#snake #shotgun#snake #shotgun#snake` | ![shotgun_special](../../assets/ios/faces/snake/shotgun_special.gif) | ![shotgun_special](../../assets/ios/faces_png/snake/shotgun_special.png) |
-| scream_connect | `#music#rabbit #scream#snake` | ![scream_connect](../../assets/ios/faces/snake/scream_connect.gif) | ![scream_connect](../../assets/ios/faces_png/snake/scream_connect.png) |
-| eat_special | `#eat#snake #wtf#snake` | ![eat_special](../../assets/ios/faces/snake/eat_special.gif) | ![eat_special](../../assets/ios/faces_png/snake/eat_special.png) |
+| smile | `#smile#horse` | ![smile](../../assets/ios/faces/horse/smile.gif) | ![smile](../../assets/ios/faces_png/horse/smile.png) |
+| smile2 | `#smile2#horse` | ![smile2](../../assets/ios/faces/horse/smile2.gif) | ![smile2](../../assets/ios/faces_png/horse/smile2.png) |
+| smile3 | `#smile3#horse` | ![smile3](../../assets/ios/faces/horse/smile3.gif) | ![smile3](../../assets/ios/faces_png/horse/smile3.png) |
+| laugh | `#laugh#horse` | ![laugh](../../assets/ios/faces/horse/laugh.gif) | ![laugh](../../assets/ios/faces_png/horse/laugh.png) |
+| haha | `#haha#horse` | ![haha](../../assets/ios/faces/horse/haha.gif) | ![haha](../../assets/ios/faces_png/horse/haha.png) |
+| sosad | `#sosad#horse` | ![sosad](../../assets/ios/faces/horse/sosad.gif) | ![sosad](../../assets/ios/faces_png/horse/sosad.png) |
+| rose | `#rose#horse` | ![rose](../../assets/ios/faces/horse/rose.gif) | ![rose](../../assets/ios/faces_png/horse/rose.png) |
+| selfie | `#selfie#horse` | ![selfie](../../assets/ios/faces/horse/selfie.gif) | ![selfie](../../assets/ios/faces_png/horse/selfie.png) |
+| glasses | `#glasses#horse` | ![glasses](../../assets/ios/faces/horse/glasses.gif) | ![glasses](../../assets/ios/faces_png/horse/glasses.png) |
+| muscle | `#muscle#horse` | ![muscle](../../assets/ios/faces/horse/muscle.gif) | ![muscle](../../assets/ios/faces_png/horse/muscle.png) |
+| dance | `#dance#horse` | ![dance](../../assets/ios/faces/horse/dance.gif) | ![dance](../../assets/ios/faces_png/horse/dance.png) |
+| bye | `#bye#horse` | ![bye](../../assets/ios/faces/horse/bye.gif) | ![bye](../../assets/ios/faces_png/horse/bye.png) |
+| rope | `#rope#horse` | ![rope](../../assets/ios/faces/horse/rope.gif) | ![rope](../../assets/ios/faces_png/horse/rope.png) |
+| drink | `#drink#horse` | ![drink](../../assets/ios/faces/horse/drink.gif) | ![drink](../../assets/ios/faces_png/horse/drink.png) |
+| gone | `#gone#horse` | ![gone](../../assets/ios/faces/horse/gone.gif) | ![gone](../../assets/ios/faces_png/horse/gone.png) |
+| betting | `#betting#horse` | ![betting](../../assets/ios/faces/horse/betting.gif) | ![betting](../../assets/ios/faces_png/horse/betting.png) |
+| unicorn | `#unicorn#horse` | ![unicorn](../../assets/ios/faces/horse/unicorn.gif) | ![unicorn](../../assets/ios/faces_png/horse/unicorn.png) |
+| angry | `#angry#horse` | ![angry](../../assets/ios/faces/horse/angry.gif) | ![angry](../../assets/ios/faces_png/horse/angry.png) |
+| cry | `#cry#horse` | ![cry](../../assets/ios/faces/horse/cry.gif) | ![cry](../../assets/ios/faces_png/horse/cry.png) |
+| jeng | `#jeng#horse` | ![jeng](../../assets/ios/faces/horse/jeng.gif) | ![jeng](../../assets/ios/faces_png/horse/jeng.png) |
+| good | `#good#horse` | ![good](../../assets/ios/faces/horse/good.gif) | ![good](../../assets/ios/faces_png/horse/good.png) |
+| zero | `#zero#horse` | ![zero](../../assets/ios/faces/horse/zero.gif) | ![zero](../../assets/ios/faces_png/horse/zero.png) |
+| look | `#look#horse` | ![look](../../assets/ios/faces/horse/look.gif) | ![look](../../assets/ios/faces_png/horse/look.png) |
+| huh | `#huh#horse` | ![huh](../../assets/ios/faces/horse/huh.gif) | ![huh](../../assets/ios/faces_png/horse/huh.png) |
+| nah | `#nah#horse` | ![nah](../../assets/ios/faces/horse/nah.gif) | ![nah](../../assets/ios/faces_png/horse/nah.png) |
+| sad | `#sad#horse` | ![sad](../../assets/ios/faces/horse/sad.gif) | ![sad](../../assets/ios/faces_png/horse/sad.png) |
+| shock | `#shock#horse` | ![shock](../../assets/ios/faces/horse/shock.gif) | ![shock](../../assets/ios/faces_png/horse/shock.png) |
+| what | `#what#horse` | ![what](../../assets/ios/faces/horse/what.gif) | ![what](../../assets/ios/faces_png/horse/what.png) |
+| wtf | `#wtf#horse` | ![wtf](../../assets/ios/faces/horse/wtf.gif) | ![wtf](../../assets/ios/faces_png/horse/wtf.png) |
+| zzz | `#zzz#horse` | ![zzz](../../assets/ios/faces/horse/zzz.gif) | ![zzz](../../assets/ios/faces_png/horse/zzz.png) |
+| lihkg | `#lihkg#horse` | ![lihkg](../../assets/ios/faces/horse/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/horse/lihkg.png) |
 
 ## mouse [連鼠]
 | Filename | Emoji | GIF | PNG |
@@ -1296,6 +1302,41 @@ To 2022-12-20T00:00:00+08:00
 | angry_special | `#:-[#dragon #midfinger#dragon` | ![angry_special](../../assets/ios/faces/dragon/angry_special.gif) | ![angry_special](../../assets/ios/faces_png/dragon/angry_special.png) |
 | backpain_connect | `#throw#cat #backpain#dragon` | ![backpain_connect](../../assets/ios/faces/dragon/backpain_connect.gif) | ![backpain_connect](../../assets/ios/faces_png/dragon/backpain_connect.png) |
 | wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../../assets/ios/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../../assets/ios/faces_png/dragon/wheelchair_connect.png) |
+
+## snake [snake]
+| Filename | Emoji | GIF | PNG |
+| --- | --- | --- | --- |
+| smile | `#:)#snake` | ![smile](../../assets/ios/faces/snake/smile.gif) | ![smile](../../assets/ios/faces_png/snake/smile.png) |
+| laugh | `#:D#snake` | ![laugh](../../assets/ios/faces/snake/laugh.gif) | ![laugh](../../assets/ios/faces_png/snake/laugh.png) |
+| nose | `#nose#snake` | ![nose](../../assets/ios/faces/snake/nose.gif) | ![nose](../../assets/ios/faces_png/snake/nose.png) |
+| want | `#want#snake` | ![want](../../assets/ios/faces/snake/want.gif) | ![want](../../assets/ios/faces_png/snake/want.png) |
+| knife | `#knife#snake` | ![knife](../../assets/ios/faces/snake/knife.gif) | ![knife](../../assets/ios/faces_png/snake/knife.png) |
+| shotgun | `#shotgun#snake` | ![shotgun](../../assets/ios/faces/snake/shotgun.gif) | ![shotgun](../../assets/ios/faces_png/snake/shotgun.png) |
+| explosion | `#explosion#snake` | ![explosion](../../assets/ios/faces/snake/explosion.gif) | ![explosion](../../assets/ios/faces_png/snake/explosion.png) |
+| sweat | `#sweat#snake` | ![sweat](../../assets/ios/faces/snake/sweat.gif) | ![sweat](../../assets/ios/faces_png/snake/sweat.png) |
+| write | `#write#snake` | ![write](../../assets/ios/faces/snake/write.gif) | ![write](../../assets/ios/faces_png/snake/write.png) |
+| confuse | `#confuse#snake` | ![confuse](../../assets/ios/faces/snake/confuse.gif) | ![confuse](../../assets/ios/faces_png/snake/confuse.png) |
+| wtf | `#wtf#snake` | ![wtf](../../assets/ios/faces/snake/wtf.gif) | ![wtf](../../assets/ios/faces_png/snake/wtf.png) |
+| scream | `#scream#snake` | ![scream](../../assets/ios/faces/snake/scream.gif) | ![scream](../../assets/ios/faces_png/snake/scream.png) |
+| shock | `#shock#snake` | ![shock](../../assets/ios/faces/snake/shock.gif) | ![shock](../../assets/ios/faces_png/snake/shock.png) |
+| wow | `#wow#snake` | ![wow](../../assets/ios/faces/snake/wow.gif) | ![wow](../../assets/ios/faces_png/snake/wow.png) |
+| boring | `#boring#snake` | ![boring](../../assets/ios/faces/snake/boring.gif) | ![boring](../../assets/ios/faces_png/snake/boring.png) |
+| sad | `#sad#snake` | ![sad](../../assets/ios/faces/snake/sad.gif) | ![sad](../../assets/ios/faces_png/snake/sad.png) |
+| sad2 | `#sad2#snake` | ![sad2](../../assets/ios/faces/snake/sad2.gif) | ![sad2](../../assets/ios/faces_png/snake/sad2.png) |
+| bye | `#bye#snake` | ![bye](../../assets/ios/faces/snake/bye.gif) | ![bye](../../assets/ios/faces_png/snake/bye.png) |
+| eat | `#eat#snake` | ![eat](../../assets/ios/faces/snake/eat.gif) | ![eat](../../assets/ios/faces_png/snake/eat.png) |
+| drink | `#drink#snake` | ![drink](../../assets/ios/faces/snake/drink.gif) | ![drink](../../assets/ios/faces_png/snake/drink.png) |
+| think | `#think#snake` | ![think](../../assets/ios/faces/snake/think.gif) | ![think](../../assets/ios/faces_png/snake/think.png) |
+| hypnosis | `#hypnosis#snake` | ![hypnosis](../../assets/ios/faces/snake/hypnosis.gif) | ![hypnosis](../../assets/ios/faces_png/snake/hypnosis.png) |
+| arcade | `#arcade#snake` | ![arcade](../../assets/ios/faces/snake/arcade.gif) | ![arcade](../../assets/ios/faces_png/snake/arcade.png) |
+| sign | `#sign#snake` | ![sign](../../assets/ios/faces/snake/sign.gif) | ![sign](../../assets/ios/faces_png/snake/sign.png) |
+| zzz | `#zzz#snake` | ![zzz](../../assets/ios/faces/snake/zzz.gif) | ![zzz](../../assets/ios/faces_png/snake/zzz.png) |
+| lihkg | `#lihkg#snake` | ![lihkg](../../assets/ios/faces/snake/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/snake/lihkg.png) |
+| hypnosis_connect | `#hypnosis#snake #awake#mouse` | ![hypnosis_connect](../../assets/ios/faces/snake/hypnosis_connect.gif) | ![hypnosis_connect](../../assets/ios/faces_png/snake/hypnosis_connect.png) |
+| knife_connect | `#knife#snake #stun#rabbit` | ![knife_connect](../../assets/ios/faces/snake/knife_connect.gif) | ![knife_connect](../../assets/ios/faces_png/snake/knife_connect.png) |
+| shotgun_special | `#shotgun#snake #shotgun#snake #shotgun#snake` | ![shotgun_special](../../assets/ios/faces/snake/shotgun_special.gif) | ![shotgun_special](../../assets/ios/faces_png/snake/shotgun_special.png) |
+| scream_connect | `#music#rabbit #scream#snake` | ![scream_connect](../../assets/ios/faces/snake/scream_connect.gif) | ![scream_connect](../../assets/ios/faces_png/snake/scream_connect.png) |
+| eat_special | `#eat#snake #wtf#snake` | ![eat_special](../../assets/ios/faces/snake/eat_special.gif) | ![eat_special](../../assets/ios/faces_png/snake/eat_special.png) |
 
 ## lm2 [腦魔2]
 | Filename | Emoji | GIF | PNG |

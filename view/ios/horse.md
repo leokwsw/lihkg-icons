@@ -1,0 +1,41 @@
+## horse [horse]
+
+### Show On
+From 2025-12-31T23:59:59+08:00
+
+To 2030-12-31T23:59:59+08:00
+
+| Filename | Emoji | GIF | PNG |
+| --- | --- | --- | --- |
+| smile | `#smile#horse` | ![smile](../../assets/ios/faces/horse/smile.gif) | ![smile](../../assets/ios/faces_png/horse/smile.png) |
+| smile2 | `#smile2#horse` | ![smile2](../../assets/ios/faces/horse/smile2.gif) | ![smile2](../../assets/ios/faces_png/horse/smile2.png) |
+| smile3 | `#smile3#horse` | ![smile3](../../assets/ios/faces/horse/smile3.gif) | ![smile3](../../assets/ios/faces_png/horse/smile3.png) |
+| laugh | `#laugh#horse` | ![laugh](../../assets/ios/faces/horse/laugh.gif) | ![laugh](../../assets/ios/faces_png/horse/laugh.png) |
+| haha | `#haha#horse` | ![haha](../../assets/ios/faces/horse/haha.gif) | ![haha](../../assets/ios/faces_png/horse/haha.png) |
+| sosad | `#sosad#horse` | ![sosad](../../assets/ios/faces/horse/sosad.gif) | ![sosad](../../assets/ios/faces_png/horse/sosad.png) |
+| rose | `#rose#horse` | ![rose](../../assets/ios/faces/horse/rose.gif) | ![rose](../../assets/ios/faces_png/horse/rose.png) |
+| selfie | `#selfie#horse` | ![selfie](../../assets/ios/faces/horse/selfie.gif) | ![selfie](../../assets/ios/faces_png/horse/selfie.png) |
+| glasses | `#glasses#horse` | ![glasses](../../assets/ios/faces/horse/glasses.gif) | ![glasses](../../assets/ios/faces_png/horse/glasses.png) |
+| muscle | `#muscle#horse` | ![muscle](../../assets/ios/faces/horse/muscle.gif) | ![muscle](../../assets/ios/faces_png/horse/muscle.png) |
+| dance | `#dance#horse` | ![dance](../../assets/ios/faces/horse/dance.gif) | ![dance](../../assets/ios/faces_png/horse/dance.png) |
+| bye | `#bye#horse` | ![bye](../../assets/ios/faces/horse/bye.gif) | ![bye](../../assets/ios/faces_png/horse/bye.png) |
+| rope | `#rope#horse` | ![rope](../../assets/ios/faces/horse/rope.gif) | ![rope](../../assets/ios/faces_png/horse/rope.png) |
+| drink | `#drink#horse` | ![drink](../../assets/ios/faces/horse/drink.gif) | ![drink](../../assets/ios/faces_png/horse/drink.png) |
+| gone | `#gone#horse` | ![gone](../../assets/ios/faces/horse/gone.gif) | ![gone](../../assets/ios/faces_png/horse/gone.png) |
+| betting | `#betting#horse` | ![betting](../../assets/ios/faces/horse/betting.gif) | ![betting](../../assets/ios/faces_png/horse/betting.png) |
+| unicorn | `#unicorn#horse` | ![unicorn](../../assets/ios/faces/horse/unicorn.gif) | ![unicorn](../../assets/ios/faces_png/horse/unicorn.png) |
+| angry | `#angry#horse` | ![angry](../../assets/ios/faces/horse/angry.gif) | ![angry](../../assets/ios/faces_png/horse/angry.png) |
+| cry | `#cry#horse` | ![cry](../../assets/ios/faces/horse/cry.gif) | ![cry](../../assets/ios/faces_png/horse/cry.png) |
+| jeng | `#jeng#horse` | ![jeng](../../assets/ios/faces/horse/jeng.gif) | ![jeng](../../assets/ios/faces_png/horse/jeng.png) |
+| good | `#good#horse` | ![good](../../assets/ios/faces/horse/good.gif) | ![good](../../assets/ios/faces_png/horse/good.png) |
+| zero | `#zero#horse` | ![zero](../../assets/ios/faces/horse/zero.gif) | ![zero](../../assets/ios/faces_png/horse/zero.png) |
+| look | `#look#horse` | ![look](../../assets/ios/faces/horse/look.gif) | ![look](../../assets/ios/faces_png/horse/look.png) |
+| huh | `#huh#horse` | ![huh](../../assets/ios/faces/horse/huh.gif) | ![huh](../../assets/ios/faces_png/horse/huh.png) |
+| nah | `#nah#horse` | ![nah](../../assets/ios/faces/horse/nah.gif) | ![nah](../../assets/ios/faces_png/horse/nah.png) |
+| sad | `#sad#horse` | ![sad](../../assets/ios/faces/horse/sad.gif) | ![sad](../../assets/ios/faces_png/horse/sad.png) |
+| shock | `#shock#horse` | ![shock](../../assets/ios/faces/horse/shock.gif) | ![shock](../../assets/ios/faces_png/horse/shock.png) |
+| what | `#what#horse` | ![what](../../assets/ios/faces/horse/what.gif) | ![what](../../assets/ios/faces_png/horse/what.png) |
+| wtf | `#wtf#horse` | ![wtf](../../assets/ios/faces/horse/wtf.gif) | ![wtf](../../assets/ios/faces_png/horse/wtf.png) |
+| zzz | `#zzz#horse` | ![zzz](../../assets/ios/faces/horse/zzz.gif) | ![zzz](../../assets/ios/faces_png/horse/zzz.png) |
+| lihkg | `#lihkg#horse` | ![lihkg](../../assets/ios/faces/horse/lihkg.gif) | ![lihkg](../../assets/ios/faces_png/horse/lihkg.png) |
+

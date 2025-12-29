@@ -24,13 +24,14 @@ Collection of icons from [LIHKG (連登)](https://lihkg.com/)
 | fifa | FIFA | ![ios/assets/faces/fifa/smile.gif](ios/assets/faces/fifa/smile.gif) | [View](./view/ios/fifa.md) | [View](./view/android/fifa.md) |
 | dog | 連狗 | ![ios/assets/faces/dog/smile.gif](ios/assets/faces/dog/smile.gif) | [View](./view/ios/dog.md) | [View](./view/android/dog.md) |
 | pig | 連豬 | ![ios/assets/faces/pig/smile.gif](ios/assets/faces/pig/smile.gif) | [View](./view/ios/pig.md) | [View](./view/android/pig.md) |
-| snake | snake | ![ios/assets/faces/snake/smile.gif](ios/assets/faces/snake/smile.gif) | [View](./view/ios/snake.md) | [View](./view/android/snake.md) |
+| horse | horse | ![ios/assets/faces/horse/smile.gif](ios/assets/faces/horse/smile.gif) | [View](./view/ios/horse.md) | [View](./view/android/horse.md) |
 | mouse | 連鼠 | ![ios/assets/faces/mouse/smile.gif](ios/assets/faces/mouse/smile.gif) | [View](./view/ios/mouse.md) | [View](./view/android/mouse.md) |
 | cat | 連貓 | ![ios/assets/faces/cat/smile.gif](ios/assets/faces/cat/smile.gif) | [View](./view/ios/cat.md) | [View](./view/android/cat.md) |
 | cow | 連牛 | ![ios/assets/faces/cow/smile.gif](ios/assets/faces/cow/smile.gif) | [View](./view/ios/cow.md) | [View](./view/android/cow.md) |
 | tiger | 連虎 | ![ios/assets/faces/tiger/smile.gif](ios/assets/faces/tiger/smile.gif) | [View](./view/ios/tiger.md) | [View](./view/android/tiger.md) |
 | rabbit | 連兔 | ![ios/assets/faces/rabbit/smile.gif](ios/assets/faces/rabbit/smile.gif) | [View](./view/ios/rabbit.md) | [View](./view/android/rabbit.md) |
 | dragon | 連龍 | ![ios/assets/faces/dragon/smile.gif](ios/assets/faces/dragon/smile.gif) | [View](./view/ios/dragon.md) | [View](./view/android/dragon.md) |
+| snake | snake | ![ios/assets/faces/snake/smile.gif](ios/assets/faces/snake/smile.gif) | [View](./view/ios/snake.md) | [View](./view/android/snake.md) |
 | lm2 | 腦魔2 | ![ios/assets/faces/lm2/smile.gif](ios/assets/faces/lm2/smile.gif) | [View](./view/ios/lm2.md) | [View](./view/android/lm2.md) |
 | lm2lny | 腦魔2新年版 | ![ios/assets/faces/lm2lny/smile.gif](ios/assets/faces/lm2lny/smile.gif) | [View](./view/ios/lm2lny.md) | [View](./view/android/lm2lny.md) |
 | fs | FS | ![ios/assets/faces/fs/smile.gif](ios/assets/faces/fs/smile.gif) | [View](./view/ios/fs.md) | [View](./view/android/fs.md) |
