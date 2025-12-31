@@ -1022,40 +1022,46 @@ To 2022-12-20T00:00:00+08:00
 | cook_connect | `#cooking#pig #fan#pig` | ![cook_connect](../../assets/android/faces/pig/cook_connect.gif) | ![cook_connect](../../assets/android/faces_png/pig/cook_connect.png) |
 | wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../../assets/android/faces/pig/wine_connect.gif) | ![wine_connect](../../assets/android/faces_png/pig/wine_connect.png) |
 
-## snake [snake]
+## horse [horse]
+
+### Show On
+From 2025-12-31T23:59:59+08:00
+
+To 2030-12-31T23:59:59+08:00
+
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
-| smile | `#:)#snake` | ![smile](../../assets/android/faces/snake/smile.gif) | ![smile](../../assets/android/faces_png/snake/smile.png) |
-| laugh | `#:D#snake` | ![laugh](../../assets/android/faces/snake/laugh.gif) | ![laugh](../../assets/android/faces_png/snake/laugh.png) |
-| nose | `#nose#snake` | ![nose](../../assets/android/faces/snake/nose.gif) | ![nose](../../assets/android/faces_png/snake/nose.png) |
-| want | `#want#snake` | ![want](../../assets/android/faces/snake/want.gif) | ![want](../../assets/android/faces_png/snake/want.png) |
-| knife | `#knife#snake` | ![knife](../../assets/android/faces/snake/knife.gif) | ![knife](../../assets/android/faces_png/snake/knife.png) |
-| shotgun | `#shotgun#snake` | ![shotgun](../../assets/android/faces/snake/shotgun.gif) | ![shotgun](../../assets/android/faces_png/snake/shotgun.png) |
-| explosion | `#explosion#snake` | ![explosion](../../assets/android/faces/snake/explosion.gif) | ![explosion](../../assets/android/faces_png/snake/explosion.png) |
-| sweat | `#sweat#snake` | ![sweat](../../assets/android/faces/snake/sweat.gif) | ![sweat](../../assets/android/faces_png/snake/sweat.png) |
-| write | `#write#snake` | ![write](../../assets/android/faces/snake/write.gif) | ![write](../../assets/android/faces_png/snake/write.png) |
-| confuse | `#confuse#snake` | ![confuse](../../assets/android/faces/snake/confuse.gif) | ![confuse](../../assets/android/faces_png/snake/confuse.png) |
-| wtf | `#wtf#snake` | ![wtf](../../assets/android/faces/snake/wtf.gif) | ![wtf](../../assets/android/faces_png/snake/wtf.png) |
-| scream | `#scream#snake` | ![scream](../../assets/android/faces/snake/scream.gif) | ![scream](../../assets/android/faces_png/snake/scream.png) |
-| shock | `#shock#snake` | ![shock](../../assets/android/faces/snake/shock.gif) | ![shock](../../assets/android/faces_png/snake/shock.png) |
-| wow | `#wow#snake` | ![wow](../../assets/android/faces/snake/wow.gif) | ![wow](../../assets/android/faces_png/snake/wow.png) |
-| boring | `#boring#snake` | ![boring](../../assets/android/faces/snake/boring.gif) | ![boring](../../assets/android/faces_png/snake/boring.png) |
-| sad | `#sad#snake` | ![sad](../../assets/android/faces/snake/sad.gif) | ![sad](../../assets/android/faces_png/snake/sad.png) |
-| sad2 | `#sad2#snake` | ![sad2](../../assets/android/faces/snake/sad2.gif) | ![sad2](../../assets/android/faces_png/snake/sad2.png) |
-| bye | `#bye#snake` | ![bye](../../assets/android/faces/snake/bye.gif) | ![bye](../../assets/android/faces_png/snake/bye.png) |
-| eat | `#eat#snake` | ![eat](../../assets/android/faces/snake/eat.gif) | ![eat](../../assets/android/faces_png/snake/eat.png) |
-| drink | `#drink#snake` | ![drink](../../assets/android/faces/snake/drink.gif) | ![drink](../../assets/android/faces_png/snake/drink.png) |
-| think | `#think#snake` | ![think](../../assets/android/faces/snake/think.gif) | ![think](../../assets/android/faces_png/snake/think.png) |
-| hypnosis | `#hypnosis#snake` | ![hypnosis](../../assets/android/faces/snake/hypnosis.gif) | ![hypnosis](../../assets/android/faces_png/snake/hypnosis.png) |
-| arcade | `#arcade#snake` | ![arcade](../../assets/android/faces/snake/arcade.gif) | ![arcade](../../assets/android/faces_png/snake/arcade.png) |
-| sign | `#sign#snake` | ![sign](../../assets/android/faces/snake/sign.gif) | ![sign](../../assets/android/faces_png/snake/sign.png) |
-| zzz | `#zzz#snake` | ![zzz](../../assets/android/faces/snake/zzz.gif) | ![zzz](../../assets/android/faces_png/snake/zzz.png) |
-| lihkg | `#lihkg#snake` | ![lihkg](../../assets/android/faces/snake/lihkg.gif) | ![lihkg](../../assets/android/faces_png/snake/lihkg.png) |
-| hypnosis_connect | `#hypnosis#snake #awake#mouse` | ![hypnosis_connect](../../assets/android/faces/snake/hypnosis_connect.gif) | ![hypnosis_connect](../../assets/android/faces_png/snake/hypnosis_connect.png) |
-| knife_connect | `#knife#snake #stun#rabbit` | ![knife_connect](../../assets/android/faces/snake/knife_connect.gif) | ![knife_connect](../../assets/android/faces_png/snake/knife_connect.png) |
-| shotgun_special | `#shotgun#snake #shotgun#snake #shotgun#snake` | ![shotgun_special](../../assets/android/faces/snake/shotgun_special.gif) | ![shotgun_special](../../assets/android/faces_png/snake/shotgun_special.png) |
-| scream_connect | `#music#rabbit #scream#snake` | ![scream_connect](../../assets/android/faces/snake/scream_connect.gif) | ![scream_connect](../../assets/android/faces_png/snake/scream_connect.png) |
-| eat_special | `#eat#snake #wtf#snake` | ![eat_special](../../assets/android/faces/snake/eat_special.gif) | ![eat_special](../../assets/android/faces_png/snake/eat_special.png) |
+| smile | `#smile#horse` | ![smile](../../assets/android/faces/horse/smile.gif) | ![smile](../../assets/android/faces_png/horse/smile.png) |
+| smile2 | `#smile2#horse` | ![smile2](../../assets/android/faces/horse/smile2.gif) | ![smile2](../../assets/android/faces_png/horse/smile2.png) |
+| smile3 | `#smile3#horse` | ![smile3](../../assets/android/faces/horse/smile3.gif) | ![smile3](../../assets/android/faces_png/horse/smile3.png) |
+| laugh | `#laugh#horse` | ![laugh](../../assets/android/faces/horse/laugh.gif) | ![laugh](../../assets/android/faces_png/horse/laugh.png) |
+| haha | `#haha#horse` | ![haha](../../assets/android/faces/horse/haha.gif) | ![haha](../../assets/android/faces_png/horse/haha.png) |
+| sosad | `#sosad#horse` | ![sosad](../../assets/android/faces/horse/sosad.gif) | ![sosad](../../assets/android/faces_png/horse/sosad.png) |
+| rose | `#rose#horse` | ![rose](../../assets/android/faces/horse/rose.gif) | ![rose](../../assets/android/faces_png/horse/rose.png) |
+| selfie | `#selfie#horse` | ![selfie](../../assets/android/faces/horse/selfie.gif) | ![selfie](../../assets/android/faces_png/horse/selfie.png) |
+| glasses | `#glasses#horse` | ![glasses](../../assets/android/faces/horse/glasses.gif) | ![glasses](../../assets/android/faces_png/horse/glasses.png) |
+| muscle | `#muscle#horse` | ![muscle](../../assets/android/faces/horse/muscle.gif) | ![muscle](../../assets/android/faces_png/horse/muscle.png) |
+| dance | `#dance#horse` | ![dance](../../assets/android/faces/horse/dance.gif) | ![dance](../../assets/android/faces_png/horse/dance.png) |
+| bye | `#bye#horse` | ![bye](../../assets/android/faces/horse/bye.gif) | ![bye](../../assets/android/faces_png/horse/bye.png) |
+| rope | `#rope#horse` | ![rope](../../assets/android/faces/horse/rope.gif) | ![rope](../../assets/android/faces_png/horse/rope.png) |
+| drink | `#drink#horse` | ![drink](../../assets/android/faces/horse/drink.gif) | ![drink](../../assets/android/faces_png/horse/drink.png) |
+| gone | `#gone#horse` | ![gone](../../assets/android/faces/horse/gone.gif) | ![gone](../../assets/android/faces_png/horse/gone.png) |
+| betting | `#betting#horse` | ![betting](../../assets/android/faces/horse/betting.gif) | ![betting](../../assets/android/faces_png/horse/betting.png) |
+| unicorn | `#unicorn#horse` | ![unicorn](../../assets/android/faces/horse/unicorn.gif) | ![unicorn](../../assets/android/faces_png/horse/unicorn.png) |
+| angry | `#angry#horse` | ![angry](../../assets/android/faces/horse/angry.gif) | ![angry](../../assets/android/faces_png/horse/angry.png) |
+| cry | `#cry#horse` | ![cry](../../assets/android/faces/horse/cry.gif) | ![cry](../../assets/android/faces_png/horse/cry.png) |
+| jeng | `#jeng#horse` | ![jeng](../../assets/android/faces/horse/jeng.gif) | ![jeng](../../assets/android/faces_png/horse/jeng.png) |
+| good | `#good#horse` | ![good](../../assets/android/faces/horse/good.gif) | ![good](../../assets/android/faces_png/horse/good.png) |
+| zero | `#zero#horse` | ![zero](../../assets/android/faces/horse/zero.gif) | ![zero](../../assets/android/faces_png/horse/zero.png) |
+| look | `#look#horse` | ![look](../../assets/android/faces/horse/look.gif) | ![look](../../assets/android/faces_png/horse/look.png) |
+| huh | `#huh#horse` | ![huh](../../assets/android/faces/horse/huh.gif) | ![huh](../../assets/android/faces_png/horse/huh.png) |
+| nah | `#nah#horse` | ![nah](../../assets/android/faces/horse/nah.gif) | ![nah](../../assets/android/faces_png/horse/nah.png) |
+| sad | `#sad#horse` | ![sad](../../assets/android/faces/horse/sad.gif) | ![sad](../../assets/android/faces_png/horse/sad.png) |
+| shock | `#shock#horse` | ![shock](../../assets/android/faces/horse/shock.gif) | ![shock](../../assets/android/faces_png/horse/shock.png) |
+| what | `#what#horse` | ![what](../../assets/android/faces/horse/what.gif) | ![what](../../assets/android/faces_png/horse/what.png) |
+| wtf | `#wtf#horse` | ![wtf](../../assets/android/faces/horse/wtf.gif) | ![wtf](../../assets/android/faces_png/horse/wtf.png) |
+| zzz | `#zzz#horse` | ![zzz](../../assets/android/faces/horse/zzz.gif) | ![zzz](../../assets/android/faces_png/horse/zzz.png) |
+| lihkg | `#lihkg#horse` | ![lihkg](../../assets/android/faces/horse/lihkg.gif) | ![lihkg](../../assets/android/faces_png/horse/lihkg.png) |
 
 ## mouse [連鼠]
 | Filename | Emoji | GIF | PNG |
@@ -1296,6 +1302,41 @@ To 2022-12-20T00:00:00+08:00
 | angry_special | `#:-[#dragon #midfinger#dragon` | ![angry_special](../../assets/android/faces/dragon/angry_special.gif) | ![angry_special](../../assets/android/faces_png/dragon/angry_special.png) |
 | backpain_connect | `#throw#cat #backpain#dragon` | ![backpain_connect](../../assets/android/faces/dragon/backpain_connect.gif) | ![backpain_connect](../../assets/android/faces_png/dragon/backpain_connect.png) |
 | wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../../assets/android/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../../assets/android/faces_png/dragon/wheelchair_connect.png) |
+
+## snake [snake]
+| Filename | Emoji | GIF | PNG |
+| --- | --- | --- | --- |
+| smile | `#:)#snake` | ![smile](../../assets/android/faces/snake/smile.gif) | ![smile](../../assets/android/faces_png/snake/smile.png) |
+| laugh | `#:D#snake` | ![laugh](../../assets/android/faces/snake/laugh.gif) | ![laugh](../../assets/android/faces_png/snake/laugh.png) |
+| nose | `#nose#snake` | ![nose](../../assets/android/faces/snake/nose.gif) | ![nose](../../assets/android/faces_png/snake/nose.png) |
+| want | `#want#snake` | ![want](../../assets/android/faces/snake/want.gif) | ![want](../../assets/android/faces_png/snake/want.png) |
+| knife | `#knife#snake` | ![knife](../../assets/android/faces/snake/knife.gif) | ![knife](../../assets/android/faces_png/snake/knife.png) |
+| shotgun | `#shotgun#snake` | ![shotgun](../../assets/android/faces/snake/shotgun.gif) | ![shotgun](../../assets/android/faces_png/snake/shotgun.png) |
+| explosion | `#explosion#snake` | ![explosion](../../assets/android/faces/snake/explosion.gif) | ![explosion](../../assets/android/faces_png/snake/explosion.png) |
+| sweat | `#sweat#snake` | ![sweat](../../assets/android/faces/snake/sweat.gif) | ![sweat](../../assets/android/faces_png/snake/sweat.png) |
+| write | `#write#snake` | ![write](../../assets/android/faces/snake/write.gif) | ![write](../../assets/android/faces_png/snake/write.png) |
+| confuse | `#confuse#snake` | ![confuse](../../assets/android/faces/snake/confuse.gif) | ![confuse](../../assets/android/faces_png/snake/confuse.png) |
+| wtf | `#wtf#snake` | ![wtf](../../assets/android/faces/snake/wtf.gif) | ![wtf](../../assets/android/faces_png/snake/wtf.png) |
+| scream | `#scream#snake` | ![scream](../../assets/android/faces/snake/scream.gif) | ![scream](../../assets/android/faces_png/snake/scream.png) |
+| shock | `#shock#snake` | ![shock](../../assets/android/faces/snake/shock.gif) | ![shock](../../assets/android/faces_png/snake/shock.png) |
+| wow | `#wow#snake` | ![wow](../../assets/android/faces/snake/wow.gif) | ![wow](../../assets/android/faces_png/snake/wow.png) |
+| boring | `#boring#snake` | ![boring](../../assets/android/faces/snake/boring.gif) | ![boring](../../assets/android/faces_png/snake/boring.png) |
+| sad | `#sad#snake` | ![sad](../../assets/android/faces/snake/sad.gif) | ![sad](../../assets/android/faces_png/snake/sad.png) |
+| sad2 | `#sad2#snake` | ![sad2](../../assets/android/faces/snake/sad2.gif) | ![sad2](../../assets/android/faces_png/snake/sad2.png) |
+| bye | `#bye#snake` | ![bye](../../assets/android/faces/snake/bye.gif) | ![bye](../../assets/android/faces_png/snake/bye.png) |
+| eat | `#eat#snake` | ![eat](../../assets/android/faces/snake/eat.gif) | ![eat](../../assets/android/faces_png/snake/eat.png) |
+| drink | `#drink#snake` | ![drink](../../assets/android/faces/snake/drink.gif) | ![drink](../../assets/android/faces_png/snake/drink.png) |
+| think | `#think#snake` | ![think](../../assets/android/faces/snake/think.gif) | ![think](../../assets/android/faces_png/snake/think.png) |
+| hypnosis | `#hypnosis#snake` | ![hypnosis](../../assets/android/faces/snake/hypnosis.gif) | ![hypnosis](../../assets/android/faces_png/snake/hypnosis.png) |
+| arcade | `#arcade#snake` | ![arcade](../../assets/android/faces/snake/arcade.gif) | ![arcade](../../assets/android/faces_png/snake/arcade.png) |
+| sign | `#sign#snake` | ![sign](../../assets/android/faces/snake/sign.gif) | ![sign](../../assets/android/faces_png/snake/sign.png) |
+| zzz | `#zzz#snake` | ![zzz](../../assets/android/faces/snake/zzz.gif) | ![zzz](../../assets/android/faces_png/snake/zzz.png) |
+| lihkg | `#lihkg#snake` | ![lihkg](../../assets/android/faces/snake/lihkg.gif) | ![lihkg](../../assets/android/faces_png/snake/lihkg.png) |
+| hypnosis_connect | `#hypnosis#snake #awake#mouse` | ![hypnosis_connect](../../assets/android/faces/snake/hypnosis_connect.gif) | ![hypnosis_connect](../../assets/android/faces_png/snake/hypnosis_connect.png) |
+| knife_connect | `#knife#snake #stun#rabbit` | ![knife_connect](../../assets/android/faces/snake/knife_connect.gif) | ![knife_connect](../../assets/android/faces_png/snake/knife_connect.png) |
+| shotgun_special | `#shotgun#snake #shotgun#snake #shotgun#snake` | ![shotgun_special](../../assets/android/faces/snake/shotgun_special.gif) | ![shotgun_special](../../assets/android/faces_png/snake/shotgun_special.png) |
+| scream_connect | `#music#rabbit #scream#snake` | ![scream_connect](../../assets/android/faces/snake/scream_connect.gif) | ![scream_connect](../../assets/android/faces_png/snake/scream_connect.png) |
+| eat_special | `#eat#snake #wtf#snake` | ![eat_special](../../assets/android/faces/snake/eat_special.gif) | ![eat_special](../../assets/android/faces_png/snake/eat_special.png) |
 
 ## lm2 [腦魔2]
 | Filename | Emoji | GIF | PNG |
