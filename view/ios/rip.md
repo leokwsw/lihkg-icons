@@ -15,4 +15,5 @@ Keywords : rip, 悼念, 哀悼, r.i.p
 | rabbit | `#rabbit#rip` | ![rabbit](../../assets/ios/faces/rip/rabbit.gif) | ![rabbit](../../assets/ios/faces_png/rip/rabbit.png) |
 | dragon | `#dragon#rip` | ![dragon](../../assets/ios/faces/rip/dragon.gif) | ![dragon](../../assets/ios/faces_png/rip/dragon.png) |
 | snake | `#snake#rip` | ![snake](../../assets/ios/faces/rip/snake.gif) | ![snake](../../assets/ios/faces_png/rip/snake.png) |
+| horse | `#horse#rip` | ![horse](../../assets/ios/faces/rip/horse.gif) | ![horse](../../assets/ios/faces_png/rip/horse.png) |
 

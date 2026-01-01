@@ -36,6 +36,8 @@ Keywords : 生日快樂, 生日, happy bday, happy Birthday, 🎂
 | dragon_hb2 | `#dragon2#hb` | ![dragon_hb2](../../assets/ios/faces/lihkg/dragon_hb2.gif) | ![dragon_hb2](../../assets/ios/faces_png/lihkg/dragon_hb2.png) |
 | snake_hb | `#snake#hb` | ![snake_hb](../../assets/ios/faces/lihkg/snake_hb.gif) | ![snake_hb](../../assets/ios/faces_png/lihkg/snake_hb.png) |
 | snake_hb2 | `#snake2#hb` | ![snake_hb2](../../assets/ios/faces/lihkg/snake_hb2.gif) | ![snake_hb2](../../assets/ios/faces_png/lihkg/snake_hb2.png) |
+| horse_hb | `#horse#hb` | ![horse_hb](../../assets/ios/faces/lihkg/horse_hb.gif) | ![horse_hb](../../assets/ios/faces_png/lihkg/horse_hb.png) |
+| horse_hb2 | `#horse2#hb` | ![horse_hb2](../../assets/ios/faces/lihkg/horse_hb2.gif) | ![horse_hb2](../../assets/ios/faces_png/lihkg/horse_hb2.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../../assets/ios/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../../assets/ios/faces_png/lihkg/rabbit_hb_connect.png) |
 | dragon_hb_connect | `#dragon#hb #mouse2#hb` | ![dragon_hb_connect](../../assets/ios/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../../assets/ios/faces_png/lihkg/dragon_hb_connect.png) |
 
@@ -56,6 +58,7 @@ Keywords : rip, 悼念, 哀悼, r.i.p
 | rabbit | `#rabbit#rip` | ![rabbit](../../assets/ios/faces/rip/rabbit.gif) | ![rabbit](../../assets/ios/faces_png/rip/rabbit.png) |
 | dragon | `#dragon#rip` | ![dragon](../../assets/ios/faces/rip/dragon.gif) | ![dragon](../../assets/ios/faces_png/rip/dragon.png) |
 | snake | `#snake#rip` | ![snake](../../assets/ios/faces/rip/snake.gif) | ![snake](../../assets/ios/faces_png/rip/snake.png) |
+| horse | `#horse#rip` | ![horse](../../assets/ios/faces/rip/horse.gif) | ![horse](../../assets/ios/faces_png/rip/horse.png) |
 
 ## xm [聖誕版]
 
@@ -1023,12 +1026,6 @@ To 2022-12-20T00:00:00+08:00
 | wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../../assets/ios/faces/pig/wine_connect.gif) | ![wine_connect](../../assets/ios/faces_png/pig/wine_connect.png) |
 
 ## horse [horse]
-
-### Show On
-From 2025-12-31T23:59:59+08:00
-
-To 2030-12-31T23:59:59+08:00
-
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#smile#horse` | ![smile](../../assets/ios/faces/horse/smile.gif) | ![smile](../../assets/ios/faces_png/horse/smile.png) |

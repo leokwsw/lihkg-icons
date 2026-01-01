@@ -35,6 +35,8 @@ Keywords : 生日快樂, 生日, happy bday, happy Birthday, 🎂
 | dragon_hb2 | `#dragon2#hb` | ![dragon_hb2](../../assets/android/faces/lihkg/dragon_hb2.gif) | ![dragon_hb2](../../assets/android/faces_png/lihkg/dragon_hb2.png) |
 | snake_hb | `#snake#hb` | ![snake_hb](../../assets/android/faces/lihkg/snake_hb.gif) | ![snake_hb](../../assets/android/faces_png/lihkg/snake_hb.png) |
 | snake_hb2 | `#snake2#hb` | ![snake_hb2](../../assets/android/faces/lihkg/snake_hb2.gif) | ![snake_hb2](../../assets/android/faces_png/lihkg/snake_hb2.png) |
+| horse_hb | `#horse#hb` | ![horse_hb](../../assets/android/faces/lihkg/horse_hb.gif) | ![horse_hb](../../assets/android/faces_png/lihkg/horse_hb.png) |
+| horse_hb2 | `#horse2#hb` | ![horse_hb2](../../assets/android/faces/lihkg/horse_hb2.gif) | ![horse_hb2](../../assets/android/faces_png/lihkg/horse_hb2.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../../assets/android/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../../assets/android/faces_png/lihkg/rabbit_hb_connect.png) |
 | dragon_hb_connect | `#dragon#hb #mouse2#hb` | ![dragon_hb_connect](../../assets/android/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../../assets/android/faces_png/lihkg/dragon_hb_connect.png) |
 
