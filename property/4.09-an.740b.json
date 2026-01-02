@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1767388629,
+  "server_time": 1767392482,
   "response": {
     "asset": {
       "version": "740",
@@ -3225,7 +3225,7 @@
     "config": {
       "is_gm": false,
       "game_version": 2,
-      "sticker_version": 2,
+      "sticker_version": 3,
       "uploader": [
         "nacx",
         "eservice"
