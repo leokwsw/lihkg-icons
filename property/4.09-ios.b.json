@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1767578335,
+  "server_time": 1767585653,
   "response": {
     "version": {
       "latest_version": 4.01,
@@ -166,20 +166,6 @@
             "query": {
               "cat_id": 4
             }
-          },
-          {
-            "cat_id": 4,
-            "sub_cat_id": -2,
-            "name": "熱門",
-            "postable": false,
-            "filterable": false,
-            "orderable": true,
-            "is_filter": false,
-            "url": "https://lihkg.com/api_v2/thread/category",
-            "query": {
-              "cat_id": 4,
-              "order": "hot"
-            }
           }
         ]
       },
@@ -334,20 +320,6 @@
             "url": "https://lihkg.com/api_v2/thread/category",
             "query": {
               "cat_id": 6
-            }
-          },
-          {
-            "cat_id": 6,
-            "sub_cat_id": -2,
-            "name": "熱門",
-            "postable": false,
-            "filterable": false,
-            "orderable": true,
-            "is_filter": false,
-            "url": "https://lihkg.com/api_v2/thread/category",
-            "query": {
-              "cat_id": 6,
-              "order": "hot"
             }
           }
         ]
@@ -548,20 +520,6 @@
             "url": "https://lihkg.com/api_v2/thread/category",
             "query": {
               "cat_id": 12
-            }
-          },
-          {
-            "cat_id": 12,
-            "sub_cat_id": -2,
-            "name": "熱門",
-            "postable": false,
-            "filterable": false,
-            "orderable": true,
-            "is_filter": false,
-            "url": "https://lihkg.com/api_v2/thread/category",
-            "query": {
-              "cat_id": 12,
-              "order": "hot"
             }
           }
         ]
@@ -914,20 +872,6 @@
             }
           },
           {
-            "cat_id": 18,
-            "sub_cat_id": -2,
-            "name": "熱門",
-            "postable": false,
-            "filterable": false,
-            "orderable": true,
-            "is_filter": false,
-            "url": "https://lihkg.com/api_v2/thread/category",
-            "query": {
-              "cat_id": 18,
-              "order": "hot"
-            }
-          },
-          {
             "sub_cat_id": 6,
             "cat_id": 18,
             "name": "神秘",
@@ -964,20 +908,6 @@
             "url": "https://lihkg.com/api_v2/thread/category",
             "query": {
               "cat_id": 19
-            }
-          },
-          {
-            "cat_id": 19,
-            "sub_cat_id": -2,
-            "name": "熱門",
-            "postable": false,
-            "filterable": false,
-            "orderable": true,
-            "is_filter": false,
-            "url": "https://lihkg.com/api_v2/thread/category",
-            "query": {
-              "cat_id": 19,
-              "order": "hot"
             }
           }
         ]
@@ -1026,20 +956,6 @@
             "url": "https://lihkg.com/api_v2/thread/category",
             "query": {
               "cat_id": 21
-            }
-          },
-          {
-            "cat_id": 21,
-            "sub_cat_id": -2,
-            "name": "熱門",
-            "postable": false,
-            "filterable": false,
-            "orderable": true,
-            "is_filter": false,
-            "url": "https://lihkg.com/api_v2/thread/category",
-            "query": {
-              "cat_id": 21,
-              "order": "hot"
             }
           },
           {
@@ -1154,20 +1070,6 @@
             "url": "https://lihkg.com/api_v2/thread/category",
             "query": {
               "cat_id": 31
-            }
-          },
-          {
-            "cat_id": 31,
-            "sub_cat_id": -2,
-            "name": "熱門",
-            "postable": false,
-            "filterable": false,
-            "orderable": true,
-            "is_filter": false,
-            "url": "https://lihkg.com/api_v2/thread/category",
-            "query": {
-              "cat_id": 31,
-              "order": "hot"
             }
           },
           {
@@ -1523,20 +1425,6 @@
             "query": {
               "cat_id": 29
             }
-          },
-          {
-            "cat_id": 29,
-            "sub_cat_id": -2,
-            "name": "熱門",
-            "postable": false,
-            "filterable": false,
-            "orderable": true,
-            "is_filter": false,
-            "url": "https://lihkg.com/api_v2/thread/category",
-            "query": {
-              "cat_id": 29,
-              "order": "hot"
-            }
           }
         ]
       },
@@ -1645,20 +1533,6 @@
                 }
               },
               {
-                "cat_id": 31,
-                "sub_cat_id": -2,
-                "name": "熱門",
-                "postable": false,
-                "filterable": false,
-                "orderable": true,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 31,
-                  "order": "hot"
-                }
-              },
-              {
                 "sub_cat_id": 7,
                 "cat_id": 31,
                 "name": "改歌",
@@ -1757,20 +1631,6 @@
                 "query": {
                   "cat_id": 12
                 }
-              },
-              {
-                "cat_id": 12,
-                "sub_cat_id": -2,
-                "name": "熱門",
-                "postable": false,
-                "filterable": false,
-                "orderable": true,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 12,
-                  "order": "hot"
-                }
               }
             ]
           },
@@ -1814,20 +1674,6 @@
                 "url": "https://lihkg.com/api_v2/thread/category",
                 "query": {
                   "cat_id": 18
-                }
-              },
-              {
-                "cat_id": 18,
-                "sub_cat_id": -2,
-                "name": "熱門",
-                "postable": false,
-                "filterable": false,
-                "orderable": true,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 18,
-                  "order": "hot"
                 }
               },
               {
@@ -2124,20 +1970,6 @@
                 "query": {
                   "cat_id": 4
                 }
-              },
-              {
-                "cat_id": 4,
-                "sub_cat_id": -2,
-                "name": "熱門",
-                "postable": false,
-                "filterable": false,
-                "orderable": true,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 4,
-                  "order": "hot"
-                }
               }
             ]
           },
@@ -2322,20 +2154,6 @@
                 "url": "https://lihkg.com/api_v2/thread/category",
                 "query": {
                   "cat_id": 31
-                }
-              },
-              {
-                "cat_id": 31,
-                "sub_cat_id": -2,
-                "name": "熱門",
-                "postable": false,
-                "filterable": false,
-                "orderable": true,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 31,
-                  "order": "hot"
                 }
               },
               {
@@ -2591,20 +2409,6 @@
                 "query": {
                   "cat_id": 19
                 }
-              },
-              {
-                "cat_id": 19,
-                "sub_cat_id": -2,
-                "name": "熱門",
-                "postable": false,
-                "filterable": false,
-                "orderable": true,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 19,
-                  "order": "hot"
-                }
               }
             ]
           },
@@ -2658,20 +2462,6 @@
                 "query": {
                   "cat_id": 6
                 }
-              },
-              {
-                "cat_id": 6,
-                "sub_cat_id": -2,
-                "name": "熱門",
-                "postable": false,
-                "filterable": false,
-                "orderable": true,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 6,
-                  "order": "hot"
-                }
               }
             ]
           },
@@ -2695,20 +2485,6 @@
                 "url": "https://lihkg.com/api_v2/thread/category",
                 "query": {
                   "cat_id": 18
-                }
-              },
-              {
-                "cat_id": 18,
-                "sub_cat_id": -2,
-                "name": "熱門",
-                "postable": false,
-                "filterable": false,
-                "orderable": true,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 18,
-                  "order": "hot"
                 }
               },
               {
@@ -2748,20 +2524,6 @@
                 "url": "https://lihkg.com/api_v2/thread/category",
                 "query": {
                   "cat_id": 12
-                }
-              },
-              {
-                "cat_id": 12,
-                "sub_cat_id": -2,
-                "name": "熱門",
-                "postable": false,
-                "filterable": false,
-                "orderable": true,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 12,
-                  "order": "hot"
                 }
               }
             ]
@@ -2924,20 +2686,6 @@
                 "url": "https://lihkg.com/api_v2/thread/category",
                 "query": {
                   "cat_id": 21
-                }
-              },
-              {
-                "cat_id": 21,
-                "sub_cat_id": -2,
-                "name": "熱門",
-                "postable": false,
-                "filterable": false,
-                "orderable": true,
-                "is_filter": false,
-                "url": "https://lihkg.com/api_v2/thread/category",
-                "query": {
-                  "cat_id": 21,
-                  "order": "hot"
                 }
               },
               {
