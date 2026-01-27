@@ -32,10 +32,6 @@
   "splash": [
     {
       "path": "/assets/splash/dog.json",
-      "show_on": {
-        "start_time": 1738339200000,
-        "end_time": 1739116800000
-      },
       "repeat": {
         "from": "loop_start",
         "to": "loop_end"
@@ -76,6 +72,13 @@
     },
     {
       "path": "/assets/splash/snake.json",
+      "repeat": {
+        "from": "loop_start",
+        "to": "loop_end"
+      }
+    },
+    {
+      "path": "/assets/splash/horse.json",
       "repeat": {
         "from": "loop_start",
         "to": "loop_end"
