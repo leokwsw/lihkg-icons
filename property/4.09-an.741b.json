@@ -1,0 +1,3222 @@
+{
+  "success": 1,
+  "server_time": 1771064912,
+  "response": {
+    "asset": {
+      "version": "741",
+      "patch": [
+        {
+          "type": "base",
+          "platform": 2,
+          "app_version": "1902",
+          "asset_version": "741",
+          "url": "https://cdn.lihkg.com/upload/patch/an.741b.zip"
+        }
+      ]
+    },
+    "lihkg": false,
+    "category_list": [
+      {
+        "cat_id": 1,
+        "name": "吹水台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/latest",
+        "query": {},
+        "sub_category": [
+          {
+            "cat_id": 1,
+            "sub_cat_id": -1,
+            "name": "吹水台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/latest",
+            "query": {}
+          },
+          {
+            "cat_id": 1,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/latest",
+            "query": {
+              "order": "hot"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 999,
+        "name": "自選台",
+        "postable": false,
+        "url": "https://lihkg.com/api_v2/thread/custom",
+        "query": {},
+        "sub_category": [
+          {
+            "cat_id": 999,
+            "sub_cat_id": -2,
+            "name": "自選台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/custom",
+            "query": {}
+          }
+        ]
+      },
+      {
+        "cat_id": 2,
+        "name": "熱　門",
+        "postable": false,
+        "url": "https://lihkg.com/api_v2/thread/hot",
+        "query": {},
+        "sub_category": [
+          {
+            "cat_id": 2,
+            "sub_cat_id": -2,
+            "name": "即時熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/hot",
+            "query": {}
+          },
+          {
+            "cat_id": 2,
+            "sub_cat_id": -3,
+            "name": "今天熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/hot",
+            "query": {
+              "type": "daily"
+            }
+          },
+          {
+            "cat_id": 2,
+            "sub_cat_id": -4,
+            "name": "本週精選",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/hot",
+            "query": {
+              "type": "weekly"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 3,
+        "name": "最　新",
+        "postable": false,
+        "url": "https://lihkg.com/api_v2/thread/news",
+        "query": {},
+        "sub_category": [
+          {
+            "cat_id": 3,
+            "sub_cat_id": -1,
+            "name": "最　新",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/news",
+            "query": {}
+          }
+        ]
+      },
+      {
+        "cat_id": 4,
+        "name": "手機台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 4
+        },
+        "sub_category": [
+          {
+            "cat_id": 4,
+            "sub_cat_id": -1,
+            "name": "手機台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 4
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 5,
+        "name": "時事台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 5
+        },
+        "sub_category": [
+          {
+            "cat_id": 5,
+            "sub_cat_id": -1,
+            "name": "時事台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 5
+            }
+          },
+          {
+            "cat_id": 5,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 5,
+              "order": "hot"
+            }
+          },
+          {
+            "sub_cat_id": 11,
+            "cat_id": 5,
+            "name": "突發",
+            "postable": true,
+            "filterable": false,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 5,
+              "sub_cat_id": 11
+            }
+          },
+          {
+            "sub_cat_id": 10,
+            "cat_id": 5,
+            "name": "新聞",
+            "postable": true,
+            "filterable": false,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 5,
+              "sub_cat_id": 10
+            }
+          },
+          {
+            "sub_cat_id": 12,
+            "cat_id": 5,
+            "name": "社評",
+            "postable": true,
+            "filterable": true,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 5,
+              "sub_cat_id": 12
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 33,
+        "name": "政事台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 33
+        },
+        "sub_category": [
+          {
+            "cat_id": 33,
+            "sub_cat_id": -1,
+            "name": "政事台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 33
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 38,
+        "name": "World",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 38
+        },
+        "sub_category": [
+          {
+            "cat_id": 38,
+            "sub_cat_id": -1,
+            "name": "World",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 38
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 6,
+        "name": "體育台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 6
+        },
+        "sub_category": [
+          {
+            "cat_id": 6,
+            "sub_cat_id": -1,
+            "name": "體育台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 6
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 7,
+        "name": "娛樂台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 7
+        },
+        "sub_category": [
+          {
+            "cat_id": 7,
+            "sub_cat_id": -1,
+            "name": "娛樂台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 7
+            }
+          },
+          {
+            "cat_id": 7,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 7,
+              "order": "hot"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 8,
+        "name": "動漫台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 8
+        },
+        "sub_category": [
+          {
+            "cat_id": 8,
+            "sub_cat_id": -1,
+            "name": "動漫台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 8
+            }
+          },
+          {
+            "cat_id": 8,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 8,
+              "order": "hot"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 9,
+        "name": "Apps台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 9
+        },
+        "sub_category": [
+          {
+            "cat_id": 9,
+            "sub_cat_id": -1,
+            "name": "Apps台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 9
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 10,
+        "name": "遊戲台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 10
+        },
+        "sub_category": [
+          {
+            "cat_id": 10,
+            "sub_cat_id": -1,
+            "name": "遊戲台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 10
+            }
+          },
+          {
+            "cat_id": 10,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 10,
+              "order": "hot"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 11,
+        "name": "影視台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 11
+        },
+        "sub_category": [
+          {
+            "cat_id": 11,
+            "sub_cat_id": -1,
+            "name": "影視台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 11
+            }
+          },
+          {
+            "cat_id": 11,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 11,
+              "order": "hot"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 12,
+        "name": "講故台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 12
+        },
+        "sub_category": [
+          {
+            "cat_id": 12,
+            "sub_cat_id": -1,
+            "name": "講故台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 12
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 36,
+        "name": "健康台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 36
+        },
+        "sub_category": [
+          {
+            "cat_id": 36,
+            "sub_cat_id": -1,
+            "name": "健康台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 36
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 30,
+        "name": "感情台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 30
+        },
+        "sub_category": [
+          {
+            "cat_id": 30,
+            "sub_cat_id": -1,
+            "name": "感情台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 30
+            }
+          },
+          {
+            "cat_id": 30,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 30,
+              "order": "hot"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 39,
+        "name": "家庭台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 39
+        },
+        "sub_category": [
+          {
+            "cat_id": 39,
+            "sub_cat_id": -1,
+            "name": "家庭台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 39
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 13,
+        "name": "潮流台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 13
+        },
+        "sub_category": [
+          {
+            "cat_id": 13,
+            "sub_cat_id": -1,
+            "name": "潮流台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 13
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 40,
+        "name": "美容台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 40
+        },
+        "sub_category": [
+          {
+            "cat_id": 40,
+            "sub_cat_id": -1,
+            "name": "美容台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 40
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 14,
+        "name": "上班台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 14
+        },
+        "sub_category": [
+          {
+            "cat_id": 14,
+            "sub_cat_id": -1,
+            "name": "上班台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 14
+            }
+          },
+          {
+            "cat_id": 14,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 14,
+              "order": "hot"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 15,
+        "name": "財經台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 15
+        },
+        "sub_category": [
+          {
+            "cat_id": 15,
+            "sub_cat_id": -1,
+            "name": "財經台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 15
+            }
+          },
+          {
+            "cat_id": 15,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 15,
+              "order": "hot"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 37,
+        "name": "房屋台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 37
+        },
+        "sub_category": [
+          {
+            "cat_id": 37,
+            "sub_cat_id": -1,
+            "name": "房屋台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 37
+            }
+          },
+          {
+            "sub_cat_id": 13,
+            "cat_id": 37,
+            "name": "裝修",
+            "postable": true,
+            "filterable": false,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 37,
+              "sub_cat_id": 13
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 16,
+        "name": "飲食台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 16
+        },
+        "sub_category": [
+          {
+            "cat_id": 16,
+            "sub_cat_id": -1,
+            "name": "飲食台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 16
+            }
+          },
+          {
+            "cat_id": 16,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 16,
+              "order": "hot"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 17,
+        "name": "旅遊台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 17
+        },
+        "sub_category": [
+          {
+            "cat_id": 17,
+            "sub_cat_id": -1,
+            "name": "旅遊台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 17
+            }
+          },
+          {
+            "cat_id": 17,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 17,
+              "order": "hot"
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 18,
+        "name": "學術台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 18
+        },
+        "sub_category": [
+          {
+            "cat_id": 18,
+            "sub_cat_id": -1,
+            "name": "學術台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 18
+            }
+          },
+          {
+            "sub_cat_id": 6,
+            "cat_id": 18,
+            "name": "神秘",
+            "postable": true,
+            "filterable": true,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 18,
+              "sub_cat_id": 6
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 19,
+        "name": "校園台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 19
+        },
+        "sub_category": [
+          {
+            "cat_id": 19,
+            "sub_cat_id": -1,
+            "name": "校園台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 19
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 20,
+        "name": "汽車台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 20
+        },
+        "sub_category": [
+          {
+            "cat_id": 20,
+            "sub_cat_id": -1,
+            "name": "汽車台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 20
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 21,
+        "name": "音樂台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 21
+        },
+        "sub_category": [
+          {
+            "cat_id": 21,
+            "sub_cat_id": -1,
+            "name": "音樂台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 21
+            }
+          },
+          {
+            "sub_cat_id": 1,
+            "cat_id": 21,
+            "name": "本地",
+            "postable": true,
+            "filterable": true,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 21,
+              "sub_cat_id": 1
+            }
+          },
+          {
+            "sub_cat_id": 2,
+            "cat_id": 21,
+            "name": "華語",
+            "postable": true,
+            "filterable": true,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 21,
+              "sub_cat_id": 2
+            }
+          },
+          {
+            "sub_cat_id": 5,
+            "cat_id": 21,
+            "name": "歐美",
+            "postable": true,
+            "filterable": true,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 21,
+              "sub_cat_id": 5
+            }
+          },
+          {
+            "sub_cat_id": 3,
+            "cat_id": 21,
+            "name": "日本",
+            "postable": true,
+            "filterable": true,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 21,
+              "sub_cat_id": 3
+            }
+          },
+          {
+            "sub_cat_id": 8,
+            "cat_id": 21,
+            "name": "樂器",
+            "postable": true,
+            "filterable": true,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 21,
+              "sub_cat_id": 8
+            }
+          },
+          {
+            "sub_cat_id": 4,
+            "cat_id": 21,
+            "name": "韓國",
+            "postable": true,
+            "filterable": true,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 21,
+              "sub_cat_id": 4
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 31,
+        "name": "創意台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 31
+        },
+        "sub_category": [
+          {
+            "cat_id": 31,
+            "sub_cat_id": -1,
+            "name": "創意台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 31
+            }
+          },
+          {
+            "sub_cat_id": 7,
+            "cat_id": 31,
+            "name": "改歌",
+            "postable": true,
+            "filterable": false,
+            "is_highlight": true,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 31,
+              "sub_cat_id": 7
+            }
+          },
+          {
+            "sub_cat_id": 9,
+            "cat_id": 31,
+            "name": "藝術設計",
+            "postable": true,
+            "filterable": false,
+            "is_highlight": true,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 31,
+              "sub_cat_id": 9
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 22,
+        "name": "硬件台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 22
+        },
+        "sub_category": [
+          {
+            "cat_id": 22,
+            "sub_cat_id": -1,
+            "name": "硬件台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 22
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 41,
+        "name": "電器台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 41
+        },
+        "sub_category": [
+          {
+            "cat_id": 41,
+            "sub_cat_id": -1,
+            "name": "電器台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 41
+            }
+          },
+          {
+            "sub_cat_id": 16,
+            "cat_id": 41,
+            "name": "家電",
+            "postable": true,
+            "filterable": false,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 41,
+              "sub_cat_id": 16
+            }
+          },
+          {
+            "sub_cat_id": 17,
+            "cat_id": 41,
+            "name": "音響",
+            "postable": true,
+            "filterable": false,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 41,
+              "sub_cat_id": 17
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 23,
+        "name": "攝影台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 23
+        },
+        "sub_category": [
+          {
+            "cat_id": 23,
+            "sub_cat_id": -1,
+            "name": "攝影台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 23
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 24,
+        "name": "玩具台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 24
+        },
+        "sub_category": [
+          {
+            "cat_id": 24,
+            "sub_cat_id": -1,
+            "name": "玩具台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 24
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 25,
+        "name": "寵物台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 25
+        },
+        "sub_category": [
+          {
+            "cat_id": 25,
+            "sub_cat_id": -1,
+            "name": "寵物台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 25
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 26,
+        "name": "軟件台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 26
+        },
+        "sub_category": [
+          {
+            "cat_id": 26,
+            "sub_cat_id": -1,
+            "name": "軟件台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 26
+            }
+          },
+          {
+            "sub_cat_id": 14,
+            "cat_id": 26,
+            "name": "程式開發",
+            "postable": true,
+            "filterable": false,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 26,
+              "sub_cat_id": 14
+            }
+          },
+          {
+            "sub_cat_id": 15,
+            "cat_id": 26,
+            "name": "AI",
+            "postable": true,
+            "filterable": false,
+            "is_highlight": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 26,
+              "sub_cat_id": 15
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 27,
+        "name": "活動台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 27
+        },
+        "sub_category": [
+          {
+            "cat_id": 27,
+            "sub_cat_id": -1,
+            "name": "活動台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 27
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 35,
+        "name": "電訊台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 35
+        },
+        "sub_category": [
+          {
+            "cat_id": 35,
+            "sub_cat_id": -1,
+            "name": "電訊台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 35
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 34,
+        "name": "直播台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 34
+        },
+        "sub_category": [
+          {
+            "cat_id": 34,
+            "sub_cat_id": -1,
+            "name": "直播台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 34
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 28,
+        "name": "站務台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 28
+        },
+        "sub_category": [
+          {
+            "cat_id": 28,
+            "sub_cat_id": -1,
+            "name": "站務台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 28
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 29,
+        "name": "成人台",
+        "postable": true,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 29
+        },
+        "sub_category": [
+          {
+            "cat_id": 29,
+            "sub_cat_id": -1,
+            "name": "成人台",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 29
+            }
+          }
+        ]
+      },
+      {
+        "cat_id": 32,
+        "name": "黑　洞",
+        "postable": false,
+        "url": "https://lihkg.com/api_v2/thread/category",
+        "query": {
+          "cat_id": 32
+        },
+        "sub_category": [
+          {
+            "cat_id": 32,
+            "sub_cat_id": -1,
+            "name": "黑　洞",
+            "postable": false,
+            "filterable": false,
+            "orderable": false,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 32
+            }
+          }
+        ]
+      }
+    ],
+    "fixed_category_list": [
+      {
+        "name": "",
+        "cat_list": [
+          {
+            "cat_id": 1,
+            "name": "吹水台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/latest",
+            "query": {},
+            "sub_category": [
+              {
+                "cat_id": 1,
+                "sub_cat_id": -1,
+                "name": "吹水台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/latest",
+                "query": {}
+              },
+              {
+                "cat_id": 1,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/latest",
+                "query": {
+                  "order": "hot"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 999,
+            "name": "自選台",
+            "postable": false,
+            "url": "https://lihkg.com/api_v2/thread/custom",
+            "query": {},
+            "sub_category": [
+              {
+                "cat_id": 999,
+                "sub_cat_id": -2,
+                "name": "自選台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/custom",
+                "query": {}
+              }
+            ]
+          },
+          {
+            "cat_id": 31,
+            "name": "創意台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 31
+            },
+            "sub_category": [
+              {
+                "cat_id": 31,
+                "sub_cat_id": -1,
+                "name": "創意台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 31
+                }
+              },
+              {
+                "sub_cat_id": 7,
+                "cat_id": 31,
+                "name": "改歌",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": true,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 31,
+                  "sub_cat_id": 7
+                }
+              },
+              {
+                "sub_cat_id": 9,
+                "cat_id": 31,
+                "name": "藝術設計",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": true,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 31,
+                  "sub_cat_id": 9
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 2,
+            "name": "熱　門",
+            "postable": false,
+            "url": "https://lihkg.com/api_v2/thread/hot",
+            "query": {},
+            "sub_category": [
+              {
+                "cat_id": 2,
+                "sub_cat_id": -2,
+                "name": "即時熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/hot",
+                "query": {}
+              },
+              {
+                "cat_id": 2,
+                "sub_cat_id": -3,
+                "name": "今天熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/hot",
+                "query": {
+                  "type": "daily"
+                }
+              },
+              {
+                "cat_id": 2,
+                "sub_cat_id": -4,
+                "name": "本週精選",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/hot",
+                "query": {
+                  "type": "weekly"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 12,
+            "name": "講故台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 12
+            },
+            "sub_category": [
+              {
+                "cat_id": 12,
+                "sub_cat_id": -1,
+                "name": "講故台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 12
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 3,
+            "name": "最　新",
+            "postable": false,
+            "url": "https://lihkg.com/api_v2/thread/news",
+            "query": {},
+            "sub_category": [
+              {
+                "cat_id": 3,
+                "sub_cat_id": -1,
+                "name": "最　新",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/news",
+                "query": {}
+              }
+            ]
+          },
+          {
+            "cat_id": 18,
+            "name": "學術台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 18
+            },
+            "sub_category": [
+              {
+                "cat_id": 18,
+                "sub_cat_id": -1,
+                "name": "學術台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 18
+                }
+              },
+              {
+                "sub_cat_id": 6,
+                "cat_id": 18,
+                "name": "神秘",
+                "postable": true,
+                "filterable": true,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 18,
+                  "sub_cat_id": 6
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "新聞",
+        "cat_list": [
+          {
+            "cat_id": 5,
+            "name": "時事台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 5
+            },
+            "sub_category": [
+              {
+                "cat_id": 5,
+                "sub_cat_id": -1,
+                "name": "時事台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 5
+                }
+              },
+              {
+                "cat_id": 5,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 5,
+                  "order": "hot"
+                }
+              },
+              {
+                "sub_cat_id": 11,
+                "cat_id": 5,
+                "name": "突發",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 5,
+                  "sub_cat_id": 11
+                }
+              },
+              {
+                "sub_cat_id": 10,
+                "cat_id": 5,
+                "name": "新聞",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 5,
+                  "sub_cat_id": 10
+                }
+              },
+              {
+                "sub_cat_id": 12,
+                "cat_id": 5,
+                "name": "社評",
+                "postable": true,
+                "filterable": true,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 5,
+                  "sub_cat_id": 12
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 38,
+            "name": "World",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 38
+            },
+            "sub_category": [
+              {
+                "cat_id": 38,
+                "sub_cat_id": -1,
+                "name": "World",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 38
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 33,
+            "name": "政事台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 33
+            },
+            "sub_category": [
+              {
+                "cat_id": 33,
+                "sub_cat_id": -1,
+                "name": "政事台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 33
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 15,
+            "name": "財經台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 15
+            },
+            "sub_category": [
+              {
+                "cat_id": 15,
+                "sub_cat_id": -1,
+                "name": "財經台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 15
+                }
+              },
+              {
+                "cat_id": 15,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 15,
+                  "order": "hot"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 7,
+            "name": "娛樂台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 7
+            },
+            "sub_category": [
+              {
+                "cat_id": 7,
+                "sub_cat_id": -1,
+                "name": "娛樂台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 7
+                }
+              },
+              {
+                "cat_id": 7,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 7,
+                  "order": "hot"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 37,
+            "name": "房屋台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 37
+            },
+            "sub_category": [
+              {
+                "cat_id": 37,
+                "sub_cat_id": -1,
+                "name": "房屋台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 37
+                }
+              },
+              {
+                "sub_cat_id": 13,
+                "cat_id": 37,
+                "name": "裝修",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 37,
+                  "sub_cat_id": 13
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "科技",
+        "cat_list": [
+          {
+            "cat_id": 4,
+            "name": "手機台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 4
+            },
+            "sub_category": [
+              {
+                "cat_id": 4,
+                "sub_cat_id": -1,
+                "name": "手機台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 4
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 41,
+            "name": "電器台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 41
+            },
+            "sub_category": [
+              {
+                "cat_id": 41,
+                "sub_cat_id": -1,
+                "name": "電器台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 41
+                }
+              },
+              {
+                "sub_cat_id": 16,
+                "cat_id": 41,
+                "name": "家電",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 41,
+                  "sub_cat_id": 16
+                }
+              },
+              {
+                "sub_cat_id": 17,
+                "cat_id": 41,
+                "name": "音響",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 41,
+                  "sub_cat_id": 17
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 9,
+            "name": "Apps台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 9
+            },
+            "sub_category": [
+              {
+                "cat_id": 9,
+                "sub_cat_id": -1,
+                "name": "Apps台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 9
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 22,
+            "name": "硬件台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 22
+            },
+            "sub_category": [
+              {
+                "cat_id": 22,
+                "sub_cat_id": -1,
+                "name": "硬件台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 22
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 26,
+            "name": "軟件台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 26
+            },
+            "sub_category": [
+              {
+                "cat_id": 26,
+                "sub_cat_id": -1,
+                "name": "軟件台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 26
+                }
+              },
+              {
+                "sub_cat_id": 14,
+                "cat_id": 26,
+                "name": "程式開發",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 26,
+                  "sub_cat_id": 14
+                }
+              },
+              {
+                "sub_cat_id": 15,
+                "cat_id": 26,
+                "name": "AI",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 26,
+                  "sub_cat_id": 15
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "生活",
+        "cat_list": [
+          {
+            "cat_id": 31,
+            "name": "創意台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 31
+            },
+            "sub_category": [
+              {
+                "cat_id": 31,
+                "sub_cat_id": -1,
+                "name": "創意台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 31
+                }
+              },
+              {
+                "sub_cat_id": 7,
+                "cat_id": 31,
+                "name": "改歌",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": true,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 31,
+                  "sub_cat_id": 7
+                }
+              },
+              {
+                "sub_cat_id": 9,
+                "cat_id": 31,
+                "name": "藝術設計",
+                "postable": true,
+                "filterable": false,
+                "is_highlight": true,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 31,
+                  "sub_cat_id": 9
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 30,
+            "name": "感情台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 30
+            },
+            "sub_category": [
+              {
+                "cat_id": 30,
+                "sub_cat_id": -1,
+                "name": "感情台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 30
+                }
+              },
+              {
+                "cat_id": 30,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 30,
+                  "order": "hot"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 36,
+            "name": "健康台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 36
+            },
+            "sub_category": [
+              {
+                "cat_id": 36,
+                "sub_cat_id": -1,
+                "name": "健康台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 36
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 39,
+            "name": "家庭台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 39
+            },
+            "sub_category": [
+              {
+                "cat_id": 39,
+                "sub_cat_id": -1,
+                "name": "家庭台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 39
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 16,
+            "name": "飲食台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 16
+            },
+            "sub_category": [
+              {
+                "cat_id": 16,
+                "sub_cat_id": -1,
+                "name": "飲食台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 16
+                }
+              },
+              {
+                "cat_id": 16,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 16,
+                  "order": "hot"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 14,
+            "name": "上班台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 14
+            },
+            "sub_category": [
+              {
+                "cat_id": 14,
+                "sub_cat_id": -1,
+                "name": "上班台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 14
+                }
+              },
+              {
+                "cat_id": 14,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 14,
+                  "order": "hot"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 17,
+            "name": "旅遊台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 17
+            },
+            "sub_category": [
+              {
+                "cat_id": 17,
+                "sub_cat_id": -1,
+                "name": "旅遊台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 17
+                }
+              },
+              {
+                "cat_id": 17,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 17,
+                  "order": "hot"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 19,
+            "name": "校園台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 19
+            },
+            "sub_category": [
+              {
+                "cat_id": 19,
+                "sub_cat_id": -1,
+                "name": "校園台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 19
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 27,
+            "name": "活動台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 27
+            },
+            "sub_category": [
+              {
+                "cat_id": 27,
+                "sub_cat_id": -1,
+                "name": "活動台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 27
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "興趣",
+        "cat_list": [
+          {
+            "cat_id": 6,
+            "name": "體育台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 6
+            },
+            "sub_category": [
+              {
+                "cat_id": 6,
+                "sub_cat_id": -1,
+                "name": "體育台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 6
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 18,
+            "name": "學術台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 18
+            },
+            "sub_category": [
+              {
+                "cat_id": 18,
+                "sub_cat_id": -1,
+                "name": "學術台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 18
+                }
+              },
+              {
+                "sub_cat_id": 6,
+                "cat_id": 18,
+                "name": "神秘",
+                "postable": true,
+                "filterable": true,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 18,
+                  "sub_cat_id": 6
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 12,
+            "name": "講故台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 12
+            },
+            "sub_category": [
+              {
+                "cat_id": 12,
+                "sub_cat_id": -1,
+                "name": "講故台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 12
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 10,
+            "name": "遊戲台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 10
+            },
+            "sub_category": [
+              {
+                "cat_id": 10,
+                "sub_cat_id": -1,
+                "name": "遊戲台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 10
+                }
+              },
+              {
+                "cat_id": 10,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 10,
+                  "order": "hot"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 11,
+            "name": "影視台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 11
+            },
+            "sub_category": [
+              {
+                "cat_id": 11,
+                "sub_cat_id": -1,
+                "name": "影視台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 11
+                }
+              },
+              {
+                "cat_id": 11,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 11,
+                  "order": "hot"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 8,
+            "name": "動漫台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 8
+            },
+            "sub_category": [
+              {
+                "cat_id": 8,
+                "sub_cat_id": -1,
+                "name": "動漫台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 8
+                }
+              },
+              {
+                "cat_id": 8,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 8,
+                  "order": "hot"
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 23,
+            "name": "攝影台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 23
+            },
+            "sub_category": [
+              {
+                "cat_id": 23,
+                "sub_cat_id": -1,
+                "name": "攝影台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 23
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 21,
+            "name": "音樂台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 21
+            },
+            "sub_category": [
+              {
+                "cat_id": 21,
+                "sub_cat_id": -1,
+                "name": "音樂台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 21
+                }
+              },
+              {
+                "sub_cat_id": 1,
+                "cat_id": 21,
+                "name": "本地",
+                "postable": true,
+                "filterable": true,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 21,
+                  "sub_cat_id": 1
+                }
+              },
+              {
+                "sub_cat_id": 2,
+                "cat_id": 21,
+                "name": "華語",
+                "postable": true,
+                "filterable": true,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 21,
+                  "sub_cat_id": 2
+                }
+              },
+              {
+                "sub_cat_id": 5,
+                "cat_id": 21,
+                "name": "歐美",
+                "postable": true,
+                "filterable": true,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 21,
+                  "sub_cat_id": 5
+                }
+              },
+              {
+                "sub_cat_id": 3,
+                "cat_id": 21,
+                "name": "日本",
+                "postable": true,
+                "filterable": true,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 21,
+                  "sub_cat_id": 3
+                }
+              },
+              {
+                "sub_cat_id": 8,
+                "cat_id": 21,
+                "name": "樂器",
+                "postable": true,
+                "filterable": true,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 21,
+                  "sub_cat_id": 8
+                }
+              },
+              {
+                "sub_cat_id": 4,
+                "cat_id": 21,
+                "name": "韓國",
+                "postable": true,
+                "filterable": true,
+                "is_highlight": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 21,
+                  "sub_cat_id": 4
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 20,
+            "name": "汽車台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 20
+            },
+            "sub_category": [
+              {
+                "cat_id": 20,
+                "sub_cat_id": -1,
+                "name": "汽車台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 20
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 25,
+            "name": "寵物台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 25
+            },
+            "sub_category": [
+              {
+                "cat_id": 25,
+                "sub_cat_id": -1,
+                "name": "寵物台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 25
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 24,
+            "name": "玩具台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 24
+            },
+            "sub_category": [
+              {
+                "cat_id": 24,
+                "sub_cat_id": -1,
+                "name": "玩具台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 24
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 13,
+            "name": "潮流台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 13
+            },
+            "sub_category": [
+              {
+                "cat_id": 13,
+                "sub_cat_id": -1,
+                "name": "潮流台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 13
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 34,
+            "name": "直播台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 34
+            },
+            "sub_category": [
+              {
+                "cat_id": 34,
+                "sub_cat_id": -1,
+                "name": "直播台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 34
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 40,
+            "name": "美容台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 40
+            },
+            "sub_category": [
+              {
+                "cat_id": 40,
+                "sub_cat_id": -1,
+                "name": "美容台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 40
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "其他",
+        "cat_list": [
+          {
+            "cat_id": 28,
+            "name": "站務台",
+            "postable": true,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 28
+            },
+            "sub_category": [
+              {
+                "cat_id": 28,
+                "sub_cat_id": -1,
+                "name": "站務台",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 28
+                }
+              }
+            ]
+          },
+          {
+            "cat_id": 32,
+            "name": "黑　洞",
+            "postable": false,
+            "url": "https://lihkg.com/api_v2/thread/category",
+            "query": {
+              "cat_id": 32
+            },
+            "sub_category": [
+              {
+                "cat_id": 32,
+                "sub_cat_id": -1,
+                "name": "黑　洞",
+                "postable": false,
+                "filterable": false,
+                "orderable": false,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/category",
+                "query": {
+                  "cat_id": 32
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "config": {
+      "is_gm": false,
+      "game_version": 2,
+      "sticker_version": 3,
+      "uploader": [
+        "nacx",
+        "eservice"
+      ],
+      "wbu": "https://lihkg.com/",
+      "swbu": "https://lih.kg/",
+      "pub": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzaOFjfmDduFR4znfDEgWLotEj8t1nlZDPzG80LvqA+QzFpy/ZXRQhjsQ1hLLGGS5+DL2j1vo6SMt68LjKndMPEKv+B8pJYkBZFqobQXa6As3qfbT3Tqb1vy0C6sXQKn/l2B8p0GSzeZ84BoyrPVNJGf1PB/yUXBihAFklJrtC/jLALq93er0hpuKc7ueRxIV7sEp3uDJpAKlZFYEQj46K1V+9F91Imyea1Hud68lH9WCLTdXhtQ4ALs0/d4p/S8WLhtp33MJvAMuxxISJsNUJ9W+EqsnQVzC2CUF1t5VUUujpEcd9PeSqOwYyfKRUr9Tjb/aPVP5qZXIvE/Cdpy0iwIDAQAB",
+      "dm": true,
+      "dsp": true,
+      "cf_c": "US",
+      "android": {
+        "lihkg": false,
+        "dv": true,
+        "pri": 15,
+        "maxpin": 10,
+        "ins_stc": 1000000,
+        "ins_itc": 100000000,
+        "remote_wasticker": true,
+        "nr": true,
+        "nc": false,
+        "bw": false,
+        "eslb": false,
+        "ad_config": {
+          "available_types": [
+            2,
+            5,
+            6,
+            12,
+            8,
+            9,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "creatives": {
+            "gad_fullpage_post_back": {
+              "ad_type": 2,
+              "ad_unit": "/244621734/ios-full-screen-priority-ads"
+            },
+            "gad_fullpage_support_us": {
+              "ad_type": 2,
+              "ad_unit": "ca-app-pub-3240616428100660/3855939120"
+            },
+            "gad_reward_ad": {
+              "ad_type": 12,
+              "ad_unit": "ca-app-pub-3240616428100660/3709218015"
+            },
+            "gad_bottom_banner": {
+              "ad_type": 5,
+              "ad_unit": "ca-mb-app-pub-1983042674979462/android/an-thread-list-bottom-banner"
+            },
+            "gad_topic_banner": {
+              "ad_type": 5,
+              "ad_unit": "ca-mb-app-pub-1983042674979462/android/an-thread-list-banner"
+            },
+            "applovin_bottom_banner": {
+              "ad_type": 16,
+              "ad_unit": "cf148a84a91d07dd"
+            },
+            "applovin_bottom_banner_native": {
+              "ad_type": 17,
+              "ad_unit": "ec1cabb3c6a07c36"
+            },
+            "applovin_topiclist_mrec": {
+              "ad_type": 20,
+              "ad_unit": "1a692e856bf6f1a3"
+            },
+            "applovin_topiclist_banner": {
+              "ad_type": 16,
+              "ad_unit": "d890ce3a3a6f2a10"
+            },
+            "applovin_topiclist_native": {
+              "ad_type": 17,
+              "ad_unit": "db6ff5ffda258d81"
+            },
+            "applovin_support_us_fullpage": {
+              "ad_type": 18,
+              "ad_unit": "a8343293fd908722"
+            },
+            "applovin_game_reward": {
+              "ad_type": 19,
+              "ad_unit": "4b02c5c69ca7b347"
+            },
+            "webview": {
+              "ad_type": 8,
+              "ad_unit": "about:blank"
+            },
+            "direct_banner_topic": {
+              "ad_type": 9,
+              "ad_unit": "https://lihkg.com/ads/category?ad_unit=/244621734/app-thread-native-ads"
+            },
+            "direct_fullpage": {
+              "ad_type": 9,
+              "ad_unit": "https://lihkg.com/ads/fullpage?ad_unit=/244621734/ios-full-screen-priority-ads"
+            }
+          },
+          "delivery": {
+            "0": {
+              "gad_bottom_banner": {
+                "rate": 0,
+                "backfill": [
+                  17,
+                  16
+                ]
+              },
+              "applovin_bottom_banner_native": {
+                "rate": 0,
+                "backfill": [
+                  16,
+                  5
+                ]
+              },
+              "applovin_bottom_banner": {
+                "rate": 1,
+                "backfill": [
+                  17,
+                  5
+                ]
+              }
+            },
+            "1": {
+              "gad_topic_banner": {
+                "rate": 0,
+                "backfill": [
+                  20,
+                  16,
+                  17
+                ]
+              },
+              "applovin_topiclist_native": {
+                "rate": 0,
+                "backfill": [
+                  20,
+                  16,
+                  5
+                ]
+              },
+              "applovin_topiclist_banner": {
+                "rate": 0,
+                "backfill": [
+                  20,
+                  17,
+                  5
+                ]
+              },
+              "applovin_topiclist_mrec": {
+                "rate": 1,
+                "backfill": [
+                  16,
+                  17,
+                  5
+                ]
+              },
+              "direct_banner_topic": {
+                "rate": 0,
+                "backfill": []
+              }
+            },
+            "2": {
+              "gad_fullpage_post_back": {
+                "rate": 0,
+                "backfill": []
+              },
+              "direct_fullpage": {
+                "rate": 1,
+                "backfill": []
+              }
+            },
+            "4": {
+              "applovin_support_us_fullpage": {
+                "rate": 1,
+                "backfill": []
+              },
+              "direct_fullpage": {
+                "rate": 0,
+                "backfill": []
+              }
+            },
+            "5": {
+              "applovin_game_reward": {
+                "rate": 1,
+                "backfill": [
+                  18
+                ]
+              },
+              "applovin_support_us_fullpage": {
+                "rate": 0,
+                "backfill": []
+              }
+            }
+          },
+          "condition": {
+            "thread_list_bottom_banner": {
+              "show_on": {
+                "cat_id": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10",
+                  "11",
+                  "12",
+                  "13",
+                  "14",
+                  "15",
+                  "16",
+                  "17",
+                  "18",
+                  "19",
+                  "20",
+                  "21",
+                  "22",
+                  "23",
+                  "24",
+                  "25",
+                  "26",
+                  "27",
+                  "28",
+                  "29",
+                  "30",
+                  "31",
+                  "32",
+                  "33",
+                  "34",
+                  "35",
+                  "36",
+                  "37",
+                  "38",
+                  "999"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
