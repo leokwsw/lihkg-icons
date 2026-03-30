@@ -5,12 +5,17 @@
    "dom"
   ],
   "module": "commonjs",
+  "moduleResolution": "node",
   "noImplicitReturns": true,
   "outDir": "lib",
   "sourceMap": true,
   "target": "es6",
   "allowJs": true,
-  "allowSyntheticDefaultImports": true
+  "allowSyntheticDefaultImports": true,
+  "skipLibCheck": true,
+  "types": [
+   "node"
+  ]
  },
  "compileOnSave": true,
  "include": [

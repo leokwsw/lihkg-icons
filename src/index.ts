@@ -4,8 +4,8 @@ import AdmZip = require("adm-zip");
 import jsdom = require("jsdom");
 import {DOMWindow} from "jsdom";
 import {mapping} from "./mapping";
-import * as moment from 'moment-timezone';
-import 'moment/locale/zh-hk';
+import moment = require("moment-timezone");
+require("moment/locale/zh-hk");
 import {importLog} from "./saveLog";
 import {app} from "./gplay";
 
@@ -15,6 +15,8 @@ moment.tz.setDefault("Asia/Hong_Kong");
 const {JSDOM} = jsdom
 
 type RequestJar = ReturnType<typeof rp.jar>;
+type Platform = "ios" | "android";
+type EmojiAsset = [string, string, string];
 
 async function getWebWindow(url: string, jar: RequestJar, version: string): Promise<DOMWindow> {
     let mainRes = await rp({
@@ -28,7 +30,7 @@ async function getWebWindow(url: string, jar: RequestJar, version: string): Prom
     })
 
     if (!mainRes) {
-        return null
+        throw new Error(`Failed to fetch ${url}`)
     }
 
     return (new JSDOM(mainRes.body)).window
@@ -77,12 +79,12 @@ function searchBracket(text: string): number {
 
     console.log("iOS version : " + version)
 
-    let verMap = {
+    let verMap: Record<Platform, string> = {
         "ios": `LIHKG/4.00 iOS/18.3.1 iPhone/iPhone16,1`,
         "android": `LIHKG/${androidVersion} Android/Pixel1`
     }
 
-    for (let platform in verMap) {
+    for (const platform of Object.keys(verMap) as Platform[]) {
 
         console.log(verMap[platform]);
 
@@ -187,9 +189,9 @@ function searchBracket(text: string): number {
                 for (const packDict of limoji.emojis) {
                     let cat = packDict.cat
 
-                    let icons = packDict["icons"]
+                    let icons: EmojiAsset[] = packDict["icons"]
 
-                    let specialList = []
+                    let specialList: EmojiAsset[] = []
 
                     if (mainJson[cat] && Object.keys(mainJson[cat]).indexOf("special") >= 0) {
                         let specialDict: { [key: string]: string } = mainJson[cat]["special"]
@@ -204,7 +206,7 @@ function searchBracket(text: string): number {
                         }
                     }
 
-                    let merge = []
+                    let merge: EmojiAsset[] = []
 
                     icons.forEach(icon => {
                         icon[1] = icon[1].replace("assets/", `../assets/${platform}/`)
@@ -275,11 +277,11 @@ function searchBracket(text: string): number {
     for (const packDict of limoji.emojis) {
         let cat = packDict.cat
 
-        let merge = []
+        let merge: EmojiAsset[] = []
 
-        let icons = packDict["icons"]
+        let icons: EmojiAsset[] = packDict["icons"]
 
-        let specialList = []
+        let specialList: EmojiAsset[] = []
 
         if (mainJson[cat] && Object.keys(mainJson[cat]).indexOf("special") >= 0) {
             let specialDict: { [key: string]: string } = mainJson[cat]["special"]

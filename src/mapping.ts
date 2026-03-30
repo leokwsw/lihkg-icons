@@ -1,4 +1,4 @@
-export let mapping = {
+export let mapping: Record<string, string> = {
   "rabbit": "連兔",
   "rabbitxm": "連兔聖誕版",
   "cat": "連貓",
