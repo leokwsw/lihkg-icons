@@ -3,7 +3,6 @@ import fs = require("fs-extra");
 import AdmZip = require("adm-zip");
 import jsdom = require("jsdom");
 import {DOMWindow} from "jsdom";
-import r from "request";
 import {mapping} from "./mapping";
 import * as moment from 'moment-timezone';
 import 'moment/locale/zh-hk';
@@ -15,7 +14,9 @@ moment.tz.setDefault("Asia/Hong_Kong");
 // @ts-ignore
 const {JSDOM} = jsdom
 
-async function getWebWindow(url: string, jar: r.CookieJar, version: string): Promise<DOMWindow> {
+type RequestJar = ReturnType<typeof rp.jar>;
+
+async function getWebWindow(url: string, jar: RequestJar, version: string): Promise<DOMWindow> {
     let mainRes = await rp({
         url,
         resolveWithFullResponse: true,
