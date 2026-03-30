@@ -98,7 +98,7 @@ function searchBracket(text: string): number {
 
         let assetUrl = JSON.parse(res)["response"]["asset"]["patch"][0]["url"]
         let fileName: string = assetUrl.split("/")[assetUrl.split("/").length - 1]
-        console.log("assetUrl : " + assetUrl)
+        console.log("assetUrl : " + assetUrl + " fileName : " + fileName)
 
         fs.writeFileSync(`property/${version}-${fileName.replace(".zip", "")}.json`, JSON.stringify(JSON.parse(res), null, 2))
         rp({
