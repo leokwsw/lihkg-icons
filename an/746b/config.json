@@ -1,0 +1,120 @@
+{
+  "pattern": [
+    {
+      "pattern": "/assets/pattern/dog.jpg",
+      "logo": "/assets/pattern/dog_thumb.jpg"
+    },
+    {
+      "pattern": "/assets/pattern/pig.jpg",
+      "logo": "/assets/pattern/pig_thumb.jpg"
+    }
+  ],
+  "post_loading": {
+    "default": [
+      "/assets/img/loading/ball_dog.gif",
+      "/assets/img/loading/ball_pig.gif",
+      "/assets/img/loading/pig_rolling.gif"
+    ],
+    "special": [
+      {
+        "show_on": {
+          "start_time": 1613059200000,
+          "end_time": 1614355199000
+        },
+        "collection": [
+          "/assets/img/loading/dog_lny.gif",
+          "/assets/img/loading/pig_lny.gif",
+          "/assets/img/loading/mouse_lny.gif"
+        ]
+      }
+    ]
+  },
+  "splash": [
+    {
+      "path": "/assets/splash/dog.json",
+      "repeat": {
+        "from": "loop_start",
+        "to": "loop_end"
+      }
+    },
+    {
+      "path": "/assets/splash/pig.json",
+      "repeat": {
+        "from": "loop_start",
+        "to": "loop_end"
+      }
+    },
+    {
+      "path": "/assets/splash/mouse.json"
+    },
+    {
+      "path": "/assets/splash/cat.json"
+    },
+    {
+      "path": "/assets/splash/cow.json",
+      "repeat": {
+        "from": "loop_start",
+        "to": "loop_end"
+      }
+    },
+    {
+      "path": "/assets/splash/tiger.json",
+      "repeat": {
+        "from": "loop_start",
+        "to": "loop_end"
+      }
+    },
+    {
+      "path": "/assets/splash/rabbit.json"
+    },
+    {
+      "path": "/assets/splash/dragon.json"
+    },
+    {
+      "path": "/assets/splash/snake.json",
+      "repeat": {
+        "from": "loop_start",
+        "to": "loop_end"
+      }
+    },
+    {
+      "path": "/assets/splash/horse.json",
+      "repeat": {
+        "from": "loop_start",
+        "to": "loop_end"
+      }
+    }
+  ],
+  "wp": [
+    {
+      "thumbnail": "/assets/thumbnail/pattern_dog.jpg",
+      "origin": "https://cdn.lihkg.com/wp/an/pattern_dog.jpg",
+      "preset_blur": 0,
+      "preset_brightness": 15
+    },
+    {
+      "thumbnail": "/assets/thumbnail/pattern_pig.jpg",
+      "origin": "https://cdn.lihkg.com/wp/an/pattern_pig.jpg",
+      "preset_blur": 0,
+      "preset_brightness": 12
+    },
+    {
+      "thumbnail": "/assets/thumbnail/static_1.jpg",
+      "origin": "https://cdn.lihkg.com/wp/an/static_1.jpg",
+      "preset_blur": 4,
+      "preset_brightness": 30
+    },
+    {
+      "thumbnail": "/assets/thumbnail/static_2.jpg",
+      "origin": "https://cdn.lihkg.com/wp/an/static_2.jpg",
+      "preset_blur": 4,
+      "preset_brightness": 30
+    },
+    {
+      "thumbnail": "/assets/thumbnail/static_3.jpg",
+      "origin": "https://cdn.lihkg.com/wp/an/static_3.jpg",
+      "preset_blur": 4,
+      "preset_brightness": 30
+    }
+  ]
+}

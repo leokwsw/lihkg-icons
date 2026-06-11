@@ -3484,6 +3484,11 @@
           "assets/faces_png/fifa/bouncy.png"
         ],
         [
+          "#algeria#fifa",
+          "assets/faces/fifa/algeria.gif",
+          "assets/faces_png/fifa/algeria.png"
+        ],
+        [
           "#argentina#fifa",
           "assets/faces/fifa/argentina.gif",
           "assets/faces_png/fifa/argentina.png"
@@ -3494,9 +3499,19 @@
           "assets/faces_png/fifa/australia.png"
         ],
         [
+          "#austria#fifa",
+          "assets/faces/fifa/austria.gif",
+          "assets/faces_png/fifa/austria.png"
+        ],
+        [
           "#belgium#fifa",
           "assets/faces/fifa/belgium.gif",
           "assets/faces_png/fifa/belgium.png"
+        ],
+        [
+          "#bh#fifa",
+          "assets/faces/fifa/bh.gif",
+          "assets/faces_png/fifa/bh.png"
         ],
         [
           "#brazil#fifa",
@@ -3514,6 +3529,11 @@
           "assets/faces_png/fifa/canada.png"
         ],
         [
+          "#capeverde#fifa",
+          "assets/faces/fifa/capeverde.gif",
+          "assets/faces_png/fifa/capeverde.png"
+        ],
+        [
           "#colombia#fifa",
           "assets/faces/fifa/colombia.gif",
           "assets/faces_png/fifa/colombia.png"
@@ -3524,9 +3544,24 @@
           "assets/faces_png/fifa/costa_rica.png"
         ],
         [
+          "#congo#fifa",
+          "assets/faces/fifa/congo.gif",
+          "assets/faces_png/fifa/congo.png"
+        ],
+        [
           "#croatia#fifa",
           "assets/faces/fifa/croatia.gif",
           "assets/faces_png/fifa/croatia.png"
+        ],
+        [
+          "#curacao#fifa",
+          "assets/faces/fifa/curacao.gif",
+          "assets/faces_png/fifa/curacao.png"
+        ],
+        [
+          "#czechia#fifa",
+          "assets/faces/fifa/czechia.gif",
+          "assets/faces_png/fifa/czechia.png"
         ],
         [
           "#denmark#fifa",
@@ -3564,6 +3599,11 @@
           "assets/faces_png/fifa/ghana.png"
         ],
         [
+          "#haiti#fifa",
+          "assets/faces/fifa/haiti.gif",
+          "assets/faces_png/fifa/haiti.png"
+        ],
+        [
           "#iceland#fifa",
           "assets/faces/fifa/iceland.gif",
           "assets/faces_png/fifa/iceland.png"
@@ -3574,9 +3614,24 @@
           "assets/faces_png/fifa/iran.png"
         ],
         [
+          "#iraq#fifa",
+          "assets/faces/fifa/iraq.gif",
+          "assets/faces_png/fifa/iraq.png"
+        ],
+        [
+          "#ivorycoast#fifa",
+          "assets/faces/fifa/ivorycoast.gif",
+          "assets/faces_png/fifa/ivorycoast.png"
+        ],
+        [
           "#japan#fifa",
           "assets/faces/fifa/japan.gif",
           "assets/faces_png/fifa/japan.png"
+        ],
+        [
+          "#jordan#fifa",
+          "assets/faces/fifa/jordan.gif",
+          "assets/faces_png/fifa/jordan.png"
         ],
         [
           "#mexico#fifa",
@@ -3594,6 +3649,16 @@
           "assets/faces_png/fifa/netherlands.png"
         ],
         [
+          "#newzealand#fifa",
+          "assets/faces/fifa/newzealand.gif",
+          "assets/faces_png/fifa/newzealand.png"
+        ],
+        [
+          "#norway#fifa",
+          "assets/faces/fifa/norway.gif",
+          "assets/faces_png/fifa/norway.png"
+        ],
+        [
           "#nigeria#fifa",
           "assets/faces/fifa/nigeria.gif",
           "assets/faces_png/fifa/nigeria.png"
@@ -3602,6 +3667,11 @@
           "#panama#fifa",
           "assets/faces/fifa/panama.gif",
           "assets/faces_png/fifa/panama.png"
+        ],
+        [
+          "#paraguay#fifa",
+          "assets/faces/fifa/paraguay.gif",
+          "assets/faces_png/fifa/paraguay.png"
         ],
         [
           "#peru#fifa",
@@ -3644,6 +3714,11 @@
           "assets/faces_png/fifa/serbia.png"
         ],
         [
+          "#south_africa#fifa",
+          "assets/faces/fifa/south_africa.gif",
+          "assets/faces_png/fifa/south_africa.png"
+        ],
+        [
           "#south_korea#fifa",
           "assets/faces/fifa/south_korea.gif",
           "assets/faces_png/fifa/south_korea.png"
@@ -3669,6 +3744,11 @@
           "assets/faces_png/fifa/tunisia.png"
         ],
         [
+          "#turkey#fifa",
+          "assets/faces/fifa/turkey.gif",
+          "assets/faces_png/fifa/turkey.png"
+        ],
+        [
           "#usa#fifa",
           "assets/faces/fifa/usa.gif",
           "assets/faces_png/fifa/usa.png"
@@ -3682,6 +3762,11 @@
           "#wales#fifa",
           "assets/faces/fifa/wales.gif",
           "assets/faces_png/fifa/wales.png"
+        ],
+        [
+          "#uzbekistan#fifa",
+          "assets/faces/fifa/uzbekistan.gif",
+          "assets/faces_png/fifa/uzbekistan.png"
         ]
       ],
       "sort": 102,

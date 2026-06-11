@@ -1,9 +1,9 @@
 ## fifa [FIFA]
 
 ### Show On
-From 2022-11-18T00:00:00+08:00
+From 2026-06-12T00:00:00+08:00
 
-To 2022-12-20T00:00:00+08:00
+To 2026-07-22T00:00:00+08:00
 
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
@@ -30,15 +30,22 @@ To 2022-12-20T00:00:00+08:00
 | ball | `#ball#fifa` | ![ball](../../assets/android/faces/fifa/ball.gif) | ![ball](../../assets/android/faces_png/fifa/ball.png) |
 | bouncer | `#bouncer#fifa` | ![bouncer](../../assets/android/faces/fifa/bouncer.gif) | ![bouncer](../../assets/android/faces_png/fifa/bouncer.png) |
 | bouncy | `#bouncy#fifa` | ![bouncy](../../assets/android/faces/fifa/bouncy.gif) | ![bouncy](../../assets/android/faces_png/fifa/bouncy.png) |
+| algeria | `#algeria#fifa` | ![algeria](../../assets/android/faces/fifa/algeria.gif) | ![algeria](../../assets/android/faces_png/fifa/algeria.png) |
 | argentina | `#argentina#fifa` | ![argentina](../../assets/android/faces/fifa/argentina.gif) | ![argentina](../../assets/android/faces_png/fifa/argentina.png) |
 | australia | `#australia#fifa` | ![australia](../../assets/android/faces/fifa/australia.gif) | ![australia](../../assets/android/faces_png/fifa/australia.png) |
+| austria | `#austria#fifa` | ![austria](../../assets/android/faces/fifa/austria.gif) | ![austria](../../assets/android/faces_png/fifa/austria.png) |
 | belgium | `#belgium#fifa` | ![belgium](../../assets/android/faces/fifa/belgium.gif) | ![belgium](../../assets/android/faces_png/fifa/belgium.png) |
+| bh | `#bh#fifa` | ![bh](../../assets/android/faces/fifa/bh.gif) | ![bh](../../assets/android/faces_png/fifa/bh.png) |
 | brazil | `#brazil#fifa` | ![brazil](../../assets/android/faces/fifa/brazil.gif) | ![brazil](../../assets/android/faces_png/fifa/brazil.png) |
 | cameroon | `#cameroon#fifa` | ![cameroon](../../assets/android/faces/fifa/cameroon.gif) | ![cameroon](../../assets/android/faces_png/fifa/cameroon.png) |
 | canada | `#canada#fifa` | ![canada](../../assets/android/faces/fifa/canada.gif) | ![canada](../../assets/android/faces_png/fifa/canada.png) |
+| capeverde | `#capeverde#fifa` | ![capeverde](../../assets/android/faces/fifa/capeverde.gif) | ![capeverde](../../assets/android/faces_png/fifa/capeverde.png) |
 | colombia | `#colombia#fifa` | ![colombia](../../assets/android/faces/fifa/colombia.gif) | ![colombia](../../assets/android/faces_png/fifa/colombia.png) |
 | costa_rica | `#costa_rica#fifa` | ![costa_rica](../../assets/android/faces/fifa/costa_rica.gif) | ![costa_rica](../../assets/android/faces_png/fifa/costa_rica.png) |
+| congo | `#congo#fifa` | ![congo](../../assets/android/faces/fifa/congo.gif) | ![congo](../../assets/android/faces_png/fifa/congo.png) |
 | croatia | `#croatia#fifa` | ![croatia](../../assets/android/faces/fifa/croatia.gif) | ![croatia](../../assets/android/faces_png/fifa/croatia.png) |
+| curacao | `#curacao#fifa` | ![curacao](../../assets/android/faces/fifa/curacao.gif) | ![curacao](../../assets/android/faces_png/fifa/curacao.png) |
+| czechia | `#czechia#fifa` | ![czechia](../../assets/android/faces/fifa/czechia.gif) | ![czechia](../../assets/android/faces_png/fifa/czechia.png) |
 | denmark | `#denmark#fifa` | ![denmark](../../assets/android/faces/fifa/denmark.gif) | ![denmark](../../assets/android/faces_png/fifa/denmark.png) |
 | ecuador | `#ecuador#fifa` | ![ecuador](../../assets/android/faces/fifa/ecuador.gif) | ![ecuador](../../assets/android/faces_png/fifa/ecuador.png) |
 | egypt | `#egypt#fifa` | ![egypt](../../assets/android/faces/fifa/egypt.gif) | ![egypt](../../assets/android/faces_png/fifa/egypt.png) |
@@ -46,14 +53,21 @@ To 2022-12-20T00:00:00+08:00
 | france | `#france#fifa` | ![france](../../assets/android/faces/fifa/france.gif) | ![france](../../assets/android/faces_png/fifa/france.png) |
 | germany | `#germany#fifa` | ![germany](../../assets/android/faces/fifa/germany.gif) | ![germany](../../assets/android/faces_png/fifa/germany.png) |
 | ghana | `#ghana#fifa` | ![ghana](../../assets/android/faces/fifa/ghana.gif) | ![ghana](../../assets/android/faces_png/fifa/ghana.png) |
+| haiti | `#haiti#fifa` | ![haiti](../../assets/android/faces/fifa/haiti.gif) | ![haiti](../../assets/android/faces_png/fifa/haiti.png) |
 | iceland | `#iceland#fifa` | ![iceland](../../assets/android/faces/fifa/iceland.gif) | ![iceland](../../assets/android/faces_png/fifa/iceland.png) |
 | iran | `#iran#fifa` | ![iran](../../assets/android/faces/fifa/iran.gif) | ![iran](../../assets/android/faces_png/fifa/iran.png) |
+| iraq | `#iraq#fifa` | ![iraq](../../assets/android/faces/fifa/iraq.gif) | ![iraq](../../assets/android/faces_png/fifa/iraq.png) |
+| ivorycoast | `#ivorycoast#fifa` | ![ivorycoast](../../assets/android/faces/fifa/ivorycoast.gif) | ![ivorycoast](../../assets/android/faces_png/fifa/ivorycoast.png) |
 | japan | `#japan#fifa` | ![japan](../../assets/android/faces/fifa/japan.gif) | ![japan](../../assets/android/faces_png/fifa/japan.png) |
+| jordan | `#jordan#fifa` | ![jordan](../../assets/android/faces/fifa/jordan.gif) | ![jordan](../../assets/android/faces_png/fifa/jordan.png) |
 | mexico | `#mexico#fifa` | ![mexico](../../assets/android/faces/fifa/mexico.gif) | ![mexico](../../assets/android/faces_png/fifa/mexico.png) |
 | morocco | `#morocco#fifa` | ![morocco](../../assets/android/faces/fifa/morocco.gif) | ![morocco](../../assets/android/faces_png/fifa/morocco.png) |
 | netherlands | `#netherlands#fifa` | ![netherlands](../../assets/android/faces/fifa/netherlands.gif) | ![netherlands](../../assets/android/faces_png/fifa/netherlands.png) |
+| newzealand | `#newzealand#fifa` | ![newzealand](../../assets/android/faces/fifa/newzealand.gif) | ![newzealand](../../assets/android/faces_png/fifa/newzealand.png) |
+| norway | `#norway#fifa` | ![norway](../../assets/android/faces/fifa/norway.gif) | ![norway](../../assets/android/faces_png/fifa/norway.png) |
 | nigeria | `#nigeria#fifa` | ![nigeria](../../assets/android/faces/fifa/nigeria.gif) | ![nigeria](../../assets/android/faces_png/fifa/nigeria.png) |
 | panama | `#panama#fifa` | ![panama](../../assets/android/faces/fifa/panama.gif) | ![panama](../../assets/android/faces_png/fifa/panama.png) |
+| paraguay | `#paraguay#fifa` | ![paraguay](../../assets/android/faces/fifa/paraguay.gif) | ![paraguay](../../assets/android/faces_png/fifa/paraguay.png) |
 | peru | `#peru#fifa` | ![peru](../../assets/android/faces/fifa/peru.gif) | ![peru](../../assets/android/faces_png/fifa/peru.png) |
 | poland | `#poland#fifa` | ![poland](../../assets/android/faces/fifa/poland.gif) | ![poland](../../assets/android/faces_png/fifa/poland.png) |
 | portugal | `#portugal#fifa` | ![portugal](../../assets/android/faces/fifa/portugal.gif) | ![portugal](../../assets/android/faces_png/fifa/portugal.png) |
@@ -62,14 +76,17 @@ To 2022-12-20T00:00:00+08:00
 | saudi_arabia | `#saudi_arabia#fifa` | ![saudi_arabia](../../assets/android/faces/fifa/saudi_arabia.gif) | ![saudi_arabia](../../assets/android/faces_png/fifa/saudi_arabia.png) |
 | senegal | `#senegal#fifa` | ![senegal](../../assets/android/faces/fifa/senegal.gif) | ![senegal](../../assets/android/faces_png/fifa/senegal.png) |
 | serbia | `#serbia#fifa` | ![serbia](../../assets/android/faces/fifa/serbia.gif) | ![serbia](../../assets/android/faces_png/fifa/serbia.png) |
+| south_africa | `#south_africa#fifa` | ![south_africa](../../assets/android/faces/fifa/south_africa.gif) | ![south_africa](../../assets/android/faces_png/fifa/south_africa.png) |
 | south_korea | `#south_korea#fifa` | ![south_korea](../../assets/android/faces/fifa/south_korea.gif) | ![south_korea](../../assets/android/faces_png/fifa/south_korea.png) |
 | spain | `#spain#fifa` | ![spain](../../assets/android/faces/fifa/spain.gif) | ![spain](../../assets/android/faces_png/fifa/spain.png) |
 | sweden | `#sweden#fifa` | ![sweden](../../assets/android/faces/fifa/sweden.gif) | ![sweden](../../assets/android/faces_png/fifa/sweden.png) |
 | switzerland | `#switzerland#fifa` | ![switzerland](../../assets/android/faces/fifa/switzerland.gif) | ![switzerland](../../assets/android/faces_png/fifa/switzerland.png) |
 | tunisia | `#tunisia#fifa` | ![tunisia](../../assets/android/faces/fifa/tunisia.gif) | ![tunisia](../../assets/android/faces_png/fifa/tunisia.png) |
+| turkey | `#turkey#fifa` | ![turkey](../../assets/android/faces/fifa/turkey.gif) | ![turkey](../../assets/android/faces_png/fifa/turkey.png) |
 | usa | `#usa#fifa` | ![usa](../../assets/android/faces/fifa/usa.gif) | ![usa](../../assets/android/faces_png/fifa/usa.png) |
 | uruguay | `#uruguay#fifa` | ![uruguay](../../assets/android/faces/fifa/uruguay.gif) | ![uruguay](../../assets/android/faces_png/fifa/uruguay.png) |
 | wales | `#wales#fifa` | ![wales](../../assets/android/faces/fifa/wales.gif) | ![wales](../../assets/android/faces_png/fifa/wales.png) |
+| uzbekistan | `#uzbekistan#fifa` | ![uzbekistan](../../assets/android/faces/fifa/uzbekistan.gif) | ![uzbekistan](../../assets/android/faces_png/fifa/uzbekistan.png) |
 | kill_connect | `#kill#fifa #slick#fifa` | ![kill_connect](../../assets/android/faces/fifa/kill_connect.gif) | ![kill_connect](../../assets/android/faces_png/fifa/kill_connect.png) |
 | kill2_connect | `#banghead#fifa #kill2#fifa` | ![kill2_connect](../../assets/android/faces/fifa/kill2_connect.gif) | ![kill2_connect](../../assets/android/faces_png/fifa/kill2_connect.png) |
 
