@@ -74,6 +74,7 @@ To 2026-07-22T00:00:00+08:00
 | qatar | `#qatar#fifa` | ![qatar](../../assets/ios/faces/fifa/qatar.gif) | ![qatar](../../assets/ios/faces_png/fifa/qatar.png) |
 | russia | `#russia#fifa` | ![russia](../../assets/ios/faces/fifa/russia.gif) | ![russia](../../assets/ios/faces_png/fifa/russia.png) |
 | saudi_arabia | `#saudi_arabia#fifa` | ![saudi_arabia](../../assets/ios/faces/fifa/saudi_arabia.gif) | ![saudi_arabia](../../assets/ios/faces_png/fifa/saudi_arabia.png) |
+| scotland | `#scotland#fifa` | ![scotland](../../assets/ios/faces/fifa/scotland.gif) | ![scotland](../../assets/ios/faces_png/fifa/scotland.png) |
 | senegal | `#senegal#fifa` | ![senegal](../../assets/ios/faces/fifa/senegal.gif) | ![senegal](../../assets/ios/faces_png/fifa/senegal.png) |
 | serbia | `#serbia#fifa` | ![serbia](../../assets/ios/faces/fifa/serbia.gif) | ![serbia](../../assets/ios/faces_png/fifa/serbia.png) |
 | south_africa | `#south_africa#fifa` | ![south_africa](../../assets/ios/faces/fifa/south_africa.gif) | ![south_africa](../../assets/ios/faces_png/fifa/south_africa.png) |
