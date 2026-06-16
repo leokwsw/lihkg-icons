@@ -3704,6 +3704,11 @@
           "assets/faces_png/fifa/saudi_arabia.png"
         ],
         [
+          "#scotland#fifa",
+          "assets/faces/fifa/scotland.gif",
+          "assets/faces_png/fifa/scotland.png"
+        ],
+        [
           "#senegal#fifa",
           "assets/faces/fifa/senegal.gif",
           "assets/faces_png/fifa/senegal.png"
