@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1783412019,
+  "server_time": 1783424192,
   "response": {
     "version": {
       "latest_version": 4.01,
@@ -43,6 +43,19 @@
             "is_filter": false,
             "url": "https://lihkg.com/api_v2/thread/latest",
             "query": {}
+          },
+          {
+            "cat_id": 1,
+            "sub_cat_id": -2,
+            "name": "熱門",
+            "postable": false,
+            "filterable": false,
+            "orderable": true,
+            "is_filter": false,
+            "url": "https://lihkg.com/api_v2/thread/latest",
+            "query": {
+              "order": "hot"
+            }
           }
         ]
       },
@@ -1391,6 +1404,19 @@
                 "is_filter": false,
                 "url": "https://lihkg.com/api_v2/thread/latest",
                 "query": {}
+              },
+              {
+                "cat_id": 1,
+                "sub_cat_id": -2,
+                "name": "熱門",
+                "postable": false,
+                "filterable": false,
+                "orderable": true,
+                "is_filter": false,
+                "url": "https://lihkg.com/api_v2/thread/latest",
+                "query": {
+                  "order": "hot"
+                }
               }
             ]
           },
