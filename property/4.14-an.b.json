@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1784869175,
+  "server_time": 1784878269,
   "response": {
     "asset": {
       "patch": [
@@ -1742,7 +1742,7 @@
         "bw": false,
         "dv": true,
         "ins_itc": 8,
-        "ins_stc": 1,
+        "ins_stc": 3,
         "lihkg": false,
         "maxpin": 10,
         "nc": false,

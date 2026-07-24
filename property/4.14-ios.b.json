@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1784869175,
+  "server_time": 1784878269,
   "response": {
     "asset": {
       "patch": [
@@ -1885,7 +1885,7 @@
           "f9": 0.05
         },
         "ins_itc": 8,
-        "ins_stc": 1,
+        "ins_stc": 3,
         "maxpin": 10,
         "nc": false,
         "pemsg": "到期日：%@\n注意：所有同步回帶將於到期後刪除",
