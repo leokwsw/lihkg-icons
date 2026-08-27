@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1787779590,
+  "server_time": 1787797379,
   "response": {
     "asset": {
       "patch": [
@@ -1873,7 +1873,7 @@
             0.1,
             0.5
           ],
-          "f13": "US",
+          "f13": "MX",
           "f14": "itms-apps://itunes.apple.com/%@/app/apple-store/id1178373396?mt=8",
           "f2": 0.5,
           "f3": 0.1,
@@ -1885,7 +1885,7 @@
           "f9": 0.05
         },
         "ins_itc": 8,
-        "ins_stc": 2,
+        "ins_stc": 1,
         "maxpin": 10,
         "nc": false,
         "pemsg": "到期日：%@\n注意：所有同步回帶將於到期後刪除",
