@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "server_time": 1788412728,
+  "server_time": 1788430754,
   "response": {
     "asset": {
       "patch": [
@@ -1873,7 +1873,7 @@
             0.1,
             0.5
           ],
-          "f13": "US",
+          "f13": "CL",
           "f14": "itms-apps://itunes.apple.com/%@/app/apple-store/id1178373396?mt=8",
           "f2": 0.5,
           "f3": 0.1,
