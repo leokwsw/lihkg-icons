@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
 <title>LIHKG</title>
+<script>
+if (new URLSearchParams(window.location.search).get('is_gm') === '1') {
+  document.documentElement.classList.add('gray-mode')
+}
+</script>
 <style>
 :root { color-scheme: light dark; --page: #fafafa; --panel: #f7f7f7; --border: #d1d1d1; }
 @media (prefers-color-scheme: dark) {
@@ -23,6 +28,7 @@ body {
   margin: 0 16px 26px;
 }
 .brand-logo { display: block; width: 40px; height: 40px; flex-shrink: 0; }
+.gray-mode .brand-logo { filter: grayscale(1); }
 .brand-logotype { display: block; width: 176px; max-width: calc(100% - 56px); height: auto; }
 @media (prefers-color-scheme: dark) {
   .brand-logotype { filter: invert(1); }
